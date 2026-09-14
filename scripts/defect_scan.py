@@ -70,6 +70,32 @@ RULES = [
         "predicate is vacuously true, and check whether the prose excludes them in words.",
     ),
     (
+        "coercion_ascription",
+        "Erdos726",
+        3,
+        # Two renderings of the same bug, because they differ between the raw
+        # source and the API.
+        #
+        #   raw source:  (n % p : ℝ)        <- the ascription form
+        #   API's `type_pretty`:  ↑n % ↑p   <- the ascription is resolved away
+        #
+        # The API rewrite means a scan against `type_pretty` alone would MISS the
+        # bug in its original form, and a scan against the source alone would miss
+        # nothing. Take both. As a check: this rule fires on exactly one target in
+        # the live pool -- `erdos726-erdos-726`, the one that was actually paid a
+        # defect award for it. 1/1 on the known case.
+        r"\([^()]*(?:%|/)[^()]*:\s*(?:ℝ|ℚ|ℂ)[^()]*\)"      # (n % p : ℝ)
+        r"|↑[^\s,()]*\s*%\s*↑",                              # ↑n % ↑p
+        "A modulo between values coerced into a field. Erdős 726 was paid out because the frozen "
+        "source read `(n % p : ℝ)`, which elaborates as REAL-FIELD modulo `(n : ℝ) % (p : ℝ)` and "
+        "which `Field.mod_eq` reduces to `n - p * (n / p) = 0` for every prime p — so the filter "
+        "`p/2 < 0` was impossible and the whole sum was identically zero. The submitted proof "
+        "refuted that degenerate statement in 1 min 25 s and collected $750. Check every "
+        "`: ℝ`/`: ℚ`/`: ℂ` ascription and every `↑`: does it cast the RESULT of an integer "
+        "operation, or does it reinterpret the operation itself? "
+        "`set_option pp.all true in #check <expr>` answers it.",
+    ),
+    (
         "missing_continuity",
         "Green42",
         3,

@@ -33,7 +33,7 @@ conjecture — earns the defect award. See [`docs/03-attack-vectors.md`](../docs
 
 ---
 
-## The six questions
+## The seven questions
 
 Tick each one. A "no" on any of the first three is a strong candidate.
 
@@ -88,7 +88,33 @@ convention the source defines differently.
 *Precedent: Erdős 567 part i (`sizeRamsey` vs `R(Q₃,H)`, paid) · Erdős 1093 part ii
 (`<` vs `≤`, retired) · Green 77 (`Affine.Triangle` excludes collinear, retired).*
 
-### 4. Quantifier order
+### 4. Elaboration — does the type *mean* what it says?
+
+This is the Erdős 726 class, and no regex catches it. The written goal looked right and
+elaborated to something else.
+
+```lean
+set_option pp.all true in #check <the expression from the challenge>
+```
+
+| Ascription or coercion in the type | What it elaborates to | What it should be | Same? |
+|---|---|---|---|
+| | | | |
+| | | | |
+
+Ask of every `(x : T)` and every `↑`:
+
+- Is this `%` an ℕ/ℤ remainder, or a **field modulo**? *`(n % p : ℝ)` is real-field modulo,
+  which collapses to 0 for every prime `p`. This is exactly what Erdős 726 was paid for.*
+- Does `↑` cast the **result** of an integer operation, or reinterpret the **operation**?
+- Does a ℕ subtraction saturate where the prose means an integer? (`n - 1` at `n = 0` is `0`.)
+- Does an integer division truncate where the prose means a rational? (`n / 2` is floor.)
+- Does `Nat.ModEq` infer a different type than `ZMOD`? *A retirement note records
+  `Nat.ModEq` inferring `k : ℕ` and silently dropping every negative `k` the source includes.*
+
+*Precedent: Erdős 726 — paid. The proof took 1 min 25 s of verifier time.*
+
+### 5. Quantifier order
 
 | | |
 |---|---|
@@ -101,7 +127,7 @@ convention the source defines differently.
 *Precedent: Green 72 — the published target asserted a size for **every** N, while the
 informal question asks about **large** N. Withdrawn.*
 
-### 5. Degenerate cases
+### 6. Degenerate cases
 
 Substitute each and check whether the statement becomes vacuous or trivially true.
 
@@ -116,7 +142,7 @@ Substitute each and check whether the statement becomes vacuous or trivially tru
 *Precedent: Erdős 939 — `Nat.Full` is vacuous at 0 and 1, so the case with no known example
 was discharged by `{0, 1}`. Paid.*
 
-### 6. The negation (counterexample mode only)
+### 7. The negation (counterexample mode only)
 
 ```
 ¬ (published type)   =   ???

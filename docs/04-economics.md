@@ -113,7 +113,7 @@ At TAO ≈ $233 (CoinGecko and Binance agreed to within 0.1% on the day) the fee
 | Outcome | Gross | Less fee | Notes |
 |---|---|---|---|
 | Full bounty approved | $3,341.58 – $3,809.84 | **≈ $3,283 – $3,752** | 8 paid to date |
-| Formalization defect | **$750** (or the locked bounty, if lower) | **≈ $692** | 5 paid to date; capped at the lock, so it can be much less |
+| Formalization defect | **$750** (or the locked bounty, if lower) | **≈ $692** | 6 paid to date; capped at the lock under `v3`, so it can be much less |
 | Rejected (`NOT_NOVEL`, duplicate, …) | $0 | **−$58.25** | 4 to date |
 | Lean rejects your proof | $0 | **−$58.25** | 5 to date |
 | You never submit | $0 | $0 | **246 of 260 targets are in this state** |
@@ -184,7 +184,9 @@ PY
 
 - The `$750` defect figure is read from policy `v3` and the validator's database
   constraints. Submissions accepted under policy `v1`/`v2` keep a fixed $750 with **no cap**;
-  `v3` caps at the locked bounty. All five paid awards were under `v1`.
+  `v3` caps at the locked bounty. The five August awards were under `v1`; the Erdős 726 award
+  (13 Aug) was under `v2` and, with no cap in force, came to 1,257.22 α against a displayed
+  bounty of 935.20 α — **the defect award exceeded the bounty it replaced.**
 - The 1,130.78 α figure comes from the public results page for that submission, not from an
   API. I did not independently re-verify it against chain state.
 - The treasury balance is the API's own `bounty.balance_rao`. It is not a chain read. It

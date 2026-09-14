@@ -13,7 +13,7 @@ much less than the headline number suggests.
 
 | | Vector | Pays | Difficulty | Evidence it works |
 |---|---|---|---|---|
-| **A** | Formalization-defect award | **$750**, or the locked bounty if lower | Read the statement very carefully | **5 paid** since 5 Aug 2026 |
+| **A** | Formalization-defect award | **$750**, or the locked bounty if lower | Read the statement very carefully | **6 paid** since 5 Aug 2026 |
 | **B** | Counterexample (refute the statement) | Full quote | Hard, but the 2026 wins were all here | Jacobian d3, DGG, unit distance |
 | **C** | Proof (prove the statement) | Full quote | Hardest | Erdős 728, 347, 369, 1199, Green 29 |
 | **D** | Partial contribution (lemma/tactic) | Share of a pool, **paid only if someone else closes the problem** | Low | Track launched 1 Sept 2026 |
@@ -65,7 +65,7 @@ historically it has been a short proof, not a hard one.
 
 ### The complete precedent set
 
-All five defect awards paid to date, from the public results ledger:
+All six defect awards paid to date, from the public results ledger:
 
 | Target | What the defect was | Paid |
 |---|---|---|
@@ -73,10 +73,70 @@ All five defect awards paid to date, from the public results ledger:
 | Erdős 939 | `Erdos939Sums` omits positivity of summands and `Nat.Full` is vacuous at 0 and 1, so the `r = 4` case — the one with no known example — is discharged by the degenerate set `{0, 1}` | 1,074.75 α |
 | Green 42 | `SatisfiesCohnElkiesScheme` omits **continuity** of the test function `f`. Continuity is what makes Poisson summation link `f 0` to `f̂ 0`; without it, `f 0` can be set at a single point. The winning witness was a Gaussian modified only at the origin | 1,074.75 α |
 | Erdős 567 part i | Informal problem asks for the ordinary Ramsey number `R(Q₃, H)`; Lean states `SimpleGraph.sizeRamsey Q₃ H` — a different quantity | 1,062.22 α |
-| Erdős 726 | Recorded as a defect in the published task | 1,257.22 α |
+| Erdős 726 | **A coercion bug.** See below — this one is the best teaching example in the whole set | 1,257.22 α |
 
-Plus three more retired on the same grounds that a miner never got paid for, because they
-were caught by the audit instead:
+### The Erdős 726 defect, in full
+
+Worth reading twice, because it is a defect class no regex will ever find. The official
+decision:
+
+> The informal problem uses the integer residue `n mod p` in the interval `(p/2, p)`. In the
+> published Lean source, `(n % p : ℝ)` elaborates as **real-field modulo**
+> `(n : ℝ) % (p : ℝ)`, rather than casting the natural-number residue
+> `((n % p : ℕ) : ℝ)`. For every prime `p`, `p` is nonzero and `Field.mod_eq` reduces this
+> real-field remainder to `n - p * (n / p) = 0`. The filter condition `p/2 < 0` is therefore
+> impossible, **making the sum identically zero**.
+>
+> The submitted proof validly refutes that degenerate frozen statement by contrasting the zero
+> function with `(log (log n))/2`, which tends to infinity, but it does not refute the intended
+> integer-residue asymptotic.
+> — [certified record, 13 August 2026](https://conjectures.io/results/bd1a524a-c56e-42f2-9075-443df43468d7)
+
+Notice the shape of the work here. The miner did **not** solve Erdős 726. They noticed that
+one notation in the published goal meant something else once elaborated, proved the resulting
+statement was degenerate — a short proof, `1 min 25 s` of verifier time — and collected
+$750-equivalent. That is the whole play.
+
+Two further lessons from that record:
+
+- **The review had to read Lean's elaboration, not Lean's source.** `(n % p : ℝ)` *looks*
+  right. It is `: ℝ` on a `%`, which is exactly how you would write the intended statement if
+  you were not thinking about which modulo you get.
+- **The policy cap is miner-adverse and recent.** That submission was accepted under policy
+  `v2`, which had **no cap** — the award was a flat $750, and at the payout rate that came to
+  1,257.22 α against a displayed bounty of 935.20 α. **The defect award exceeded the bounty.**
+  Under `v3` (effective 11 September 2026) the award is capped at the locked bounty, so the
+  same finding would now pay less. Do not expect uncapped awards.
+
+### The coercion checklist
+
+`defect_scan.py` cannot find these, so do it by hand, on every candidate. Open Lean and ask
+what the type *means*, not what it says:
+
+```lean
+set_option pp.all true in #check <the expression from the challenge>
+#print Nat.ModEq
+#print Field.mod_eq        -- what does `%` do in your target's field?
+```
+
+Then, for every `(x : T)` ascription and every `↑`/`Coe` in the goal, ask:
+
+| Question | Example that bit someone |
+|---|---|
+| Which `%` is this — ℕ/ℤ remainder, or a field modulo? | Erdős 726: `(n % p : ℝ)` → real-field remainder, identically 0 |
+| Which `↑` is this — a coercion into ℝ, or into a different structure? | Check the coercion target, not just that one exists |
+| Is a `ℕ` subtraction saturating where the prose means an integer? | `n - 1` at `n = 0` is `0`, not `-1` |
+| Is an integer division truncating where the prose means a rational? | `n / 2` in ℕ is floor division |
+| Does `Nat.ModEq` vs `ZMOD` change the quantifier's type? | A retirement note records `Nat.ModEq` inferring `k : ℕ` and silently dropping every negative `k` the source includes |
+| Does a `Finset`/`Fintype` instance change what "for all" means? | A finite scope is not an infinite one |
+
+The last two rows are from *unmerged upstream pull requests* the pool audit tracked — which is
+itself a resource. `google-deepmind/formal-conjectures` has ~185 open PRs, and several propose
+exactly this kind of correction. Reading them is how you learn where the statements are wrong.
+
+### Two more retired on the same grounds, unpaid
+
+Caught by the audit rather than by a miner:
 
 | Target | The defect |
 |---|---|

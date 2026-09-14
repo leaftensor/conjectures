@@ -234,6 +234,37 @@ claim is adjudicated.
 
 ---
 
+## 16. Two ways your own tooling will lie to you
+
+Both caught while building this guide, both worth knowing before you write a scanner.
+
+**The API normalises away the evidence.** `GET /v1/catalog/conjectures` returns the goal as a
+`statement` field, pretty-printed. That pretty-printer resolves ascriptions into coercions.
+The frozen source of Erdős 726 reads
+
+```lean
+(fun p : ℕ ↦ p.Prime ∧ (p : ℝ) / 2 < (n % p : ℝ))
+```
+
+while the API serves it as
+
+```lean
+(fun p : ℕ ↦ p.Prime ∧ ↑p / 2 < ↑n % ↑p)
+```
+
+Same type, but **the `: ℝ` that reveals the bug is gone.** A scanner written against the API
+field will miss the exact defect that was paid for. Scan the raw source from
+`conjectures-tasks`, or match both renderings — `defect_scan.py` does the latter.
+
+**A correct-looking regex can still be the wrong regex.** The first version of the coercion
+rule in `defect_scan.py` matched `(n % p : ℝ)` and nothing else, and therefore reported
+**zero** hits across the pool — including on Erdős 726 itself, which the API serves in the
+rewritten form. A rule that fires on nothing looks like good news and is actually a broken
+rule. Always test a triage rule against a case you know is positive before trusting its
+silence.
+
+---
+
 ## Checklist before you pay 0.25 τ
 
 ```

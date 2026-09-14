@@ -24,7 +24,7 @@ record, and every number is dated. Where I could not confirm something I say so.
 | **Fee** | **0.25 τ** per submission (TAO), read live from the validator API |
 | **Coin** | Payouts are in **alpha** (SN66), not TAO. The USD figures are a display conversion at ~$0.603/α |
 | **Headline bounty** | $3,341.58 or $3,809.84 — exactly two tiers, 56 and 197 targets |
-| **Defect award** | **$750 or the locked bounty, whichever is less** — for proving the published statement is *not* the intended conjecture |
+| **Defect award** | **$750, or the locked bounty if lower** — for proving the published statement is *not* the intended conjecture. Six paid |
 | **Dedicated provers?** | You will need one, but the counterexample path is where the 2026 wins actually were |
 
 ## The five things that matter most

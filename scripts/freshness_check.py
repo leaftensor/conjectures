@@ -64,6 +64,12 @@ UA = "conjectures-freshness-check/1.0 (+miner pre-flight; contact: local)"
 CATALOG_URL = "https://conjectures.io/v1/catalog/conjectures"
 CATALOG_PAGE_LIMIT = 100  # hard server-side maximum
 
+#: Catalog metadata: the live submission price and treasury state. Observed
+#: 2026-09-14 HTTP 200. `credit_price_rao: 250000000` -> 0.25 tau per attempt.
+#: (The website's how-it-works page says 0.5 tau and the validator README says
+#: 0.5 TAO; the API is what actually charges you, so we report what it says.)
+CATALOG_META_URL = "https://conjectures.io/v1/catalog/meta"
+
 #: Thomas Bloom's canonical tracker. One HTML page per problem. No API, no
 #: RSS/Atom (all of /feed, /rss, /atom.xml, /feed.xml, /sitemap.xml, /api
 #: return HTTP 404). We poll HTML.
@@ -234,6 +240,18 @@ def fetch_catalog(verbose=True):
     return items, meta, None
 
 
+def fetch_meta():
+    """Live submission price + treasury, from GET /v1/catalog/meta.
+
+    Returns (meta:dict, error). This is the number that actually decides
+    whether a check is worth running: cost per attempt vs bounty on offer.
+    """
+    st, d, err = http_get_json(CATALOG_META_URL)
+    if err or not isinstance(d, dict):
+        return {}, f"meta unreachable: {err or st}"
+    return d, None
+
+
 def catalog_lookup(items, target):
     """Match a target slug to a catalog row.
 
@@ -342,6 +360,42 @@ RE_FORMALISED = re.compile(
 # /history/<n> lists revisions, newest first, each headed by an ISO timestamp.
 RE_HIST_DATE = re.compile(r">\s*(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2}:\d{2})\s*<")
 
+#: Observed status vocabulary of erdosproblems.com (all fetched 2026-09-14).
+#: The `id` on div.problem-text is only ever "open" or "solved" -- the nuance
+#: lives in the tooltip text. Mapping tooltip -> the tracker database's
+#: informal_status vocabulary (schema/problems.schema.json). The `solved`
+#: column means "the site is done with it, so no freshness left to win".
+TRACKER_VOCAB = [
+    # (tooltip substring, informal_status, div id, note)
+    ("cannot be resolved with a finite computation", "open", "open",
+     "fully open"),
+    ("could be proved with a finite example", "verifiable", "open",
+     "open, but a finite witness would settle it -- this is the counterexample/"
+     "formalized mode's sweet spot"),
+    ("could be disproved with a finite counterexample", "falsifiable", "open",
+     "open, and a single explicit counterexample disproves it -- the cheapest "
+     "target shape on the subnet"),
+    ("there exist models of set theory where the result is false",
+     "not provable", "open", "open in ZFC but false in some models"),
+    ("Independent of the usual axioms of set theory", "independent", "solved",
+     "independent of ZFC -- retired"),
+    ("Resolved up to a finite check", "decidable", "solved",
+     "resolved up to a finite check -- retired"),
+    ("resolved in some other way than a proof or disproof", "solved", "solved",
+     "resolved by other means, verified in Lean -- retired"),
+    ("solved in the affirmative", "proved", "solved", "proved -- retired"),
+    ("solved in the negative", "disproved", "solved", "disproved -- retired"),
+]
+
+
+def classify_tooltip(tip):
+    """tooltip text -> (informal_status, note). Falls back honestly."""
+    t = (tip or "").lower()
+    for frag, state, _id, note in TRACKER_VOCAB:
+        if frag.lower() in t:
+            return state, note
+    return None, "unrecognised tooltip -- read the page by hand"
+
 
 def check_tracker(target):
     if not target["tracker_url"]:
@@ -385,6 +439,11 @@ def check_tracker(target):
     fo = RE_FORMALISED.search(html)
 
     bits = [f'div.problem-text id="{state}"']
+    informal, vocab_note = classify_tooltip(tip)
+    if informal:
+        bits.append(f"tracker informal_status={informal} ({vocab_note})")
+    elif tip:
+        bits.append(f"UNRECOGNISED tooltip ({vocab_note})")
     if tip:
         bits.append(f"tooltip: {tip}")
     if pc:
@@ -592,6 +651,23 @@ def _parse_erdos_yaml(txt):
     return out
 
 
+#: informal_status values that mean "the site is done with this problem".
+#: Everything else in the schema's vocabulary is still a live target:
+#: open (591), proved (334), disproved (139), solved (101), falsifiable (25),
+#: decidable (9), verifiable (7), independent (4), not disprovable (4),
+#: not provable (3)   <- distribution as of 2026-09-14.
+SETTLED_STATES = {"proved", "disproved", "solved", "independent"}
+#: states that are open AND have a cheap shape -- worth surfacing by name.
+OPEN_SHAPES = {
+    "falsifiable": "a single explicit counterexample disproves it",
+    "verifiable": "a single explicit witness proves it",
+    "decidable": "resolvable by a finite computation",
+    "not provable": "not provable in ZFC, but false in some models",
+    "not disprovable": "not disprovable in ZFC",
+    "open": "plain open problem",
+}
+
+
 def check_erdos_db(target, db, err):
     if err:
         return {
@@ -632,13 +708,24 @@ def check_erdos_db(target, db, err):
         f"formal_status.state={formal.get('state')!r}; "
         f"formalized.state={formalized.get('state')!r}"
     )
-    # informal_status is the human/mathematical truth we care about.
+    # informal_status is the human/mathematical truth we care about. Only the
+    # SETTLED_STATES mean the site is done with it; 'falsifiable'/'verifiable'
+    # and friends are still live targets with a cheap shape.
     inf = (informal.get("state") or "").lower()
-    st = OK if inf == "open" else BAD
+    if inf in SETTLED_STATES:
+        st = BAD
+        detail += f"; '{inf}' is a settled state -- no freshness left to win"
+    elif inf in OPEN_SHAPES:
+        st = OK
+        detail += f"; open target, and {OPEN_SHAPES[inf]}"
+    else:
+        st = UNKNOWN
+        detail += f"; unrecognised informal_status {inf!r} -- read the page"
     if formal.get("state") and formal.get("state") != "unformalized":
         detail += (
-            f"; a {formal['state']} proof of a solution already exists "
-            f"({formal.get('url','no url')}) -- bounty likely not payable"
+            f"; note: a {formal['state']} solution proof already exists "
+            f"({formal.get('url', 'no url')}) -- a solution is known, only the "
+            "bounty state in the catalog is authoritative"
         )
     return {
         "source": "teorth/erdosproblems database",
@@ -670,7 +757,12 @@ def check_arxiv(target, lookback_days):
         "sortBy": "submittedDate",
         "sortOrder": "descending",
     }
-    st, txt, err = http_get(ARXIV_API, accept="application/atom+xml", params=params)
+    # Short timeout on purpose: when arXiv throttles the search services it
+    # does so by hanging or 429ing, and we would rather report UNKNOWN than
+    # stall the whole run for every target.
+    st, txt, err = http_get(
+        ARXIV_API, accept="application/atom+xml", params=params, timeout=20
+    )
     if err or st != 200:
         # Observed 2026-09-14 from this host: HTTP 429 "Rate exceeded." for
         # every call, on /api/query AND on the /search HTML page, while
@@ -854,8 +946,11 @@ def verdict(checks):
             "NOT established. Do not read UNKNOWN as 'open'." + tail,
         )
 
-    worst = max((ORDER[c["status"]] for c in checks if not c.get("out_of_scope")),
-                default=OK)
+    worst = max(
+        (ORDER[c["status"]] for c in checks
+         if not c.get("out_of_scope") and not c.get("blocked")),
+        default=OK,
+    )
     name = {v: k for k, v in ORDER.items()}[worst]
     tail = (" Caveat -- could not verify: " + ", ".join(caveats) + ".") if caveats else ""
     if name == OK:
@@ -893,7 +988,8 @@ def paint(s, k):
     return f"{COLORS.get(k,'')}{s}{COLORS['reset']}"
 
 
-def run(slugs, as_json=False, lookback_days=90, from_catalog=None, need_catalog=True):
+def run(slugs, as_json=False, lookback_days=90, from_catalog=None, need_catalog=True,
+        skip_arxiv=False):
     if from_catalog:
         with open(from_catalog) as fh:
             data = json.load(fh)
@@ -905,10 +1001,12 @@ def run(slugs, as_json=False, lookback_days=90, from_catalog=None, need_catalog=
     report = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "pinned_commit": PINNED_COMMIT,
+        "meta": {},
         "targets": [],
     }
 
     catalog_items, catalog_meta, catalog_err = ([], {}, "skipped")
+    meta, meta_err = ({}, "skipped")
     pin_ok, pin_msg = False, "not checked"
     db, db_err = ({}, "skipped")
 
@@ -925,6 +1023,24 @@ def run(slugs, as_json=False, lookback_days=90, from_catalog=None, need_catalog=
                 f"repository_commit={catalog_meta.get('repository_commit')}",
                 file=sys.stderr,
             )
+        meta, meta_err = fetch_meta()
+        if meta_err:
+            print(f"  !! meta: {meta_err}", file=sys.stderr)
+        else:
+            rao = meta.get("credit_price_rao")
+            print(
+                f"  meta OK: credit_price_rao={rao} "
+                f"({None if rao is None else rao / 1e9} tau per attempt), "
+                f"open_targets={(meta.get('bounty') or {}).get('open_targets')}",
+                file=sys.stderr,
+            )
+            report["meta"] = {
+                "credit_price_rao": rao,
+                "credit_price_tau": (rao / 1e9 if isinstance(rao, (int, float)) else None),
+                "open_targets": (meta.get("bounty") or {}).get("open_targets"),
+                "treasury_balance_rao": (meta.get("bounty") or {}).get("balance_rao"),
+                "repository_commit": meta.get("repository_commit"),
+            }
         pin_ok, pin_msg = resolve_pin()
         print(f"  pin: {pin_msg}", file=sys.stderr)
         print("Pre-flight: fetching the Erdős problems database ...", file=sys.stderr)
@@ -939,7 +1055,25 @@ def run(slugs, as_json=False, lookback_days=90, from_catalog=None, need_catalog=
         checks.append(check_tracker(t))
         checks.append(check_upstream(t, pin_ok))
         checks.append(check_erdos_db(t, db, db_err))
-        checks.append(check_arxiv(t, lookback_days))
+        if skip_arxiv:
+            checks.append({
+                "source": "arXiv",
+                "status": UNKNOWN,
+                "blocked": True,
+                "detail": (
+                    "skipped by --no-arxiv. arXiv's search services return "
+                    "HTTP 429 'Rate exceeded' (or hang) from many hosts, so it "
+                    "is often more useful to run this check by hand: "
+                    "https://arxiv.org/search/?searchtype=all&query="
+                    + urllib.parse.quote(t["slug"])
+                ),
+                "evidence": [
+                    "https://arxiv.org/search/?searchtype=all&query="
+                    + urllib.parse.quote(t["slug"])
+                ],
+            })
+        else:
+            checks.append(check_arxiv(t, lookback_days))
         checks.append(check_stackexchange(t))
         v, why = verdict(checks)
         report["targets"].append(
@@ -957,6 +1091,12 @@ def run(slugs, as_json=False, lookback_days=90, from_catalog=None, need_catalog=
     print(f"  pool pin  : {PINNED_COMMIT}")
     if catalog_meta.get("as_of"):
         print(f"  catalog as_of: {catalog_meta['as_of']}")
+    if report["meta"].get("credit_price_tau") is not None:
+        print(
+            f"  cost/attempt : {report['meta']['credit_price_tau']} tau "
+            f"({report['meta']['credit_price_rao']} rao) -- live from "
+            f"/v1/catalog/meta"
+        )
     print("=" * 78)
     import textwrap
 
@@ -1005,6 +1145,9 @@ def main(argv=None):
                     help="literature lookback window (default 90)")
     ap.add_argument("--no-catalog", action="store_true",
                     help="skip the catalog API (offline-ish; verdicts become weaker)")
+    ap.add_argument("--no-arxiv", action="store_true",
+                    help="skip arXiv (its search API rate-limits most hosts); "
+                         "records it as an explicit caveat instead of stalling")
     ap.add_argument("--list-retired", action="store_true",
                     help="just list every catalog row whose bounty is not payable")
     args = ap.parse_args(argv)
@@ -1014,12 +1157,17 @@ def main(argv=None):
         if err:
             print(f"catalog unreachable: {err}", file=sys.stderr)
             return 2
+        m, m_err = fetch_meta()
+        rao = m.get("credit_price_rao")
         bad = [i for i in items if not (i.get("bounty") or {}).get("available")]
         print(f"{len(bad)} of {len(items)} catalog rows are not payable "
               f"(as_of {meta.get('as_of')}):")
         for i in bad:
             b = i["bounty"]
             print(f"  {i['slug']:44} reason={b.get('reason')}")
+        if rao:
+            print(f"\ncost per attempt: {rao} rao = {rao / 1e9} tau "
+                  f"({m_err or 'live from /v1/catalog/meta'})")
         return 1 if bad else 0
 
     if not args.slugs and not args.from_catalog:
@@ -1031,6 +1179,7 @@ def main(argv=None):
         lookback_days=args.lookback_days,
         from_catalog=args.from_catalog,
         need_catalog=not args.no_catalog,
+        skip_arxiv=args.no_arxiv,
     )
 
 
