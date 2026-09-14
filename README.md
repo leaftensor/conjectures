@@ -65,6 +65,7 @@ record, and every number is dated. Where I could not confirm something I say so.
 | [`docs/06-submission-walkthrough.md`](docs/06-submission-walkthrough.md) | The CLI, end to end, with every guard explained |
 | [`docs/07-partial-credits.md`](docs/07-partial-credits.md) | The contribution track — lemmas, tactics, search bounds |
 | [`docs/08-pitfalls.md`](docs/08-pitfalls.md) | Everything that has already gone wrong for someone else |
+| [`docs/09-worked-example-green12.md`](docs/09-worked-example-green12.md) | **A full run, start to finish** — target selection, a validated search, and a machine-checked partial result in Lean |
 | [`docs/research/`](docs/research/) | Cited appendices: models and harnesses, community notes, freshness pipeline |
 
 ## Reproduce everything
@@ -82,10 +83,12 @@ than believed.
 
 ```
 data/           generated: the catalog, the retirements, the summary
-docs/           the guide
+docs/           the guide, plus a worked example
 docs/research/  cited deep-dives (models, community, freshness)
-scripts/        sync_pool.sh, build_catalog.py, freshness_check.py
-templates/      a submission skeleton and a review checklist
+lean/           machine-checked Lean: a partial result for Green's open problem 12
+scripts/        sync_pool.sh, build_catalog.py, defect_scan.py, freshness_check.py,
+                setup_lean.sh, and the Green 12 counterexample search
+templates/      a submission skeleton, a defect worksheet
 ```
 
 ## Scope and honesty
