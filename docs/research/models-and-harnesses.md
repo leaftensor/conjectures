@@ -337,7 +337,7 @@ conjectures.io status page above). Comparator was developed by Lean FRO with the
 | Repo | What it is |
 |---|---|
 | [conjectures-miner](https://github.com/conjectures-io/conjectures-miner) | Miner CLI. `install.sh`; `conjectures config set api_base_url`; `tasks sync` caches the allowlist offline; `tasks list --filter erdos`; `tasks challenge <task>` writes `challenges/<task_id>/Challenge.lean` and prints `task_mode` (a `counterexample` task wants the negation); `build --proof Main.lean --task <id>` writes `submission.zip` + `submission.plan.json`; `check` is the free static policy check; `pay` fills the payment slot. Your `Main.lean` holds declarations only — it is inserted between a trusted header and footer supplying imports and the namespace. |
-| [conjectures-validator](https://github.com/conjectures-io/conjectures-validator) | The full validator: paid submission API (0.5 TAO/attempt), payment confirmation on finalized chain state, per-proof networkless Lean container, immutable verifier reports, reward eligibility, treasury-only weight submission. |
+| [conjectures-validator](https://github.com/conjectures-io/conjectures-validator) | The full validator: paid submission API (0.25 τ/attempt, live from `/v1/catalog/meta`), payment confirmation on finalized chain state, per-proof networkless Lean container, immutable verifier reports, reward eligibility, treasury-only weight submission. |
 | [conjectures-tasks](https://github.com/conjectures-io/conjectures-tasks) | Versioned immutable task bundles. 418 bundles / 209 audited direct propositions (189 Erdős + 20 Green). Each bundle: challenge, manifest, comparator config, trusted hashes, solution wrapper. Content-addressed; a changed challenge requires a new task id. `POOL.md` holds the deny-by-default allowlist and selection audits. |
 | [conjectures-contribution](https://github.com/conjectures-io/conjectures-contribution) | Partial work — a lemma, definition, API, special case, tactic — submitted as pull requests. Explicitly *not* for full solutions, which go to the validator. Defines recognition weights and funded paid events. |
 | [conjectures-io/formal-conjectures](https://github.com/conjectures-io) | The subnet's mirror/pin of DeepMind's Formal Conjectures. |
@@ -597,7 +597,7 @@ target is bound through `fcTypeOfName%` so no statement substitution is possible
 2. **Prefer the strongest kernel check available.** The subnet's own policy forbids
    `native_decide`, which is exactly the construct that broke 11/197 otherwise-clean Kimina
    proofs under ProofGate's strict trusted base. Run a `#print axioms` audit on every proof
-   you generate before you pay 0.5 TAO.
+   you generate before you pay the 0.25 τ submission fee.
 3. **The site is candid that its own framework may be wrong.** "That review is the reason a
    Lean statement can be trusted to mean what the original conjecture meant — and it is the
    one place where the whole design could still be wrong, which is why we would rather hear
@@ -647,7 +647,9 @@ Build a local Lean environment at the pinned toolchain — Lean `v4.27.0`, Mathl
 run `conjectures check` in a loop. This is free, unauthenticated, opens no key, and runs the
 same admission and static policy check the validator runs
 ([submit-a-proof](https://conjectures.io/submit-a-proof)). Cost per actual attempt is
-0.5 TAO ([how-it-works](https://conjectures.io/how-it-works)).
+**0.25 τ** — `credit_price_rao: 250000000` from `GET /v1/catalog/meta`, verified 2026-09-14. Note the site's own how-it-works page
+and the validator README disagree (0.25 τ vs 0.5 TAO); the live API is what charges you
+([meta](https://conjectures.io/v1/catalog/meta), [how-it-works](https://conjectures.io/how-it-works)).
 
 Write the *prelude stripper* here, not later. Your prover will emit `import Mathlib`,
 `set_option maxHeartbeats 0` and `open BigOperators Real Nat Topology Rat`
@@ -749,7 +751,7 @@ formalisation to be a second project, not an afterthought — and check for `sor
 4. If you expect a proof: agentic loop with a frontier model and `lean-lsp-mcp` first
    (Phase 1). Add a prover only when you have evidence the remaining gap is tactic-level
    rather than mathematical — and when you do, add the 8B, not the 671B.
-5. Before you pay 0.5 TAO on anything: `conjectures check` clean, prelude stripped,
+5. Before you pay the 0.25 τ fee on anything: `conjectures check` clean, prelude stripped,
    `native_decide` eliminated, `#print axioms` clean, and no reference to the source theorem.
 6. When your file is accepted, describe it the way Anthropic described FLT — "proved
    pending the independent re-check" until someone else has reproduced it
