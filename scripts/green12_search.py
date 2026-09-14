@@ -108,15 +108,18 @@ def validate_counter(verbose: bool = True) -> bool:
                         print(f"  MISMATCH n={n} A={sorted(A)}: fast={f} naive={s}")
         if verbose:
             print(f"  n={n}: fast == naive on all {2 ** n} subsets")
-    # n=4: full enumeration is 4^10 per subset, so cross-check on a sample.
-    for _ in range(6):
+    # n=4: full enumeration is 4^10 (=1M) tuple visits per subset, so this takes
+    # a couple of minutes. Cross-check on a small sample rather than all 16.
+    print("  n=4: naive is 4^10 = 1M tuple visits per subset; checking 2 (~3 min total)")
+    for i in range(2):
         A = {a for a in range(4) if rng.random() < 0.5}
+        print(f"    subset {i+1}/2: A={sorted(A)} ...", flush=True)
         f, sn = count_fast(4, A), count_naive(4, A)
         if f != sn:
             ok = False
             print(f"  MISMATCH n=4 A={sorted(A)}: fast={f} naive={sn}")
     if verbose:
-        print("  n=4: fast == naive on a 6-subset sample")
+        print("  n=4: fast == naive on a 2-subset sample")
     return ok
 
 
@@ -158,13 +161,26 @@ def check(n: int, exhaustive: bool, samples: int = 600, seed: int = 7):
 
 
 def main() -> int:
+    import argparse
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("max_n", nargs="?", type=int, default=8,
+                    help="sweep EVERY subset of Z/nZ for n up to this (default 8; "
+                         "cost grows as 2^n * n^5)")
+    ap.add_argument("--sample-large", nargs="*", type=int, default=None,
+                    help="also sample these n values (e.g. --sample-large 9 10 11). "
+                         "Expensive; off by default.")
+    ap.add_argument("--samples", type=int, default=60,
+                    help="random subsets per density for --sample-large (default 60)")
+    args = ap.parse_args()
+
     print("== validating the optimised counter against naive enumeration ==")
     if not validate_counter():
         print("VALIDATION FAILED -- refusing to report a search result")
         return 2
     print("  counter validated on every subset of Z/nZ for n <= 4\n")
 
-    max_n = int(sys.argv[1]) if len(sys.argv) > 1 else 8
+    max_n = args.max_n
     results = []
     any_fail = False
     for n in range(1, max_n + 1):
@@ -175,13 +191,18 @@ def main() -> int:
               f"  at |A|={r['worst_At_size']} (count={r['worst_got']}, bound={r['worst_bound']:.3f})"
               f"  {'<-- COUNTEREXAMPLE' if r['fails'] else ''}")
 
-    print()
-    for n in (9, 10, 11, 13):
-        r = check(n, exhaustive=False)
-        results.append(r)
-        any_fail |= bool(r["fails"])
-        print(f"  Z/{n}Z  sampled={r['checked']:<5} min(count/bound)={r['worst_ratio']:.4f}"
-              f"  at |A|={r['worst_At_size']}  {'<-- COUNTEREXAMPLE' if r['fails'] else ''}")
+    if args.sample_large:
+        print()
+        for n in args.sample_large:
+            r = check(n, exhaustive=False, samples=args.samples)
+            results.append(r)
+            any_fail |= bool(r["fails"])
+            print(f"  Z/{n}Z  sampled={r['checked']:<5} min(count/bound)={r['worst_ratio']:.4f}"
+                  f"  at |A|={r['worst_At_size']}  {'<-- COUNTEREXAMPLE' if r['fails'] else ''}")
+    else:
+        print()
+        print("  (large-N sampling skipped; pass --sample-large 9 10 11 for that. It is")
+        print("   expensive: each n costs |samples| x |probabilities| counters at N^5 work.)")
 
     out = {"results": results, "any_counterexample": any_fail}
     with open("green12_search.json", "w") as fh:

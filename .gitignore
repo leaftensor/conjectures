@@ -17,6 +17,13 @@ drafts/
 *.session.json
 session.json
 
+# Local scratch: the downloaded elan installer and working copies of scripts
+# that are tracked under scripts/. Never commit the installer.
+_work/
+
+# Search output, written to the working directory when the search scripts run.
+green12_*.json
+
 # Agent scratch.
 .hermes/
 .DS_Store
