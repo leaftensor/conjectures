@@ -1,0 +1,22 @@
+# Research checkouts, cloned by scripts/sync_pool.sh. Large, and someone
+# else's code -- regenerate with `./scripts/sync_pool.sh` rather than committing.
+_research/
+
+# Local verifier build output (tens of GB).
+.verifier/
+.venv/
+__pycache__/
+*.pyc
+
+# Submission working state. NEVER commit: these cite payments, name wallets, and
+# the private keys live beside them.
+submission.zip
+submission.plan.json
+challenges/
+drafts/
+*.session.json
+session.json
+
+# Agent scratch.
+.hermes/
+.DS_Store

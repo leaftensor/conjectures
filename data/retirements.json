@@ -1,0 +1,1332 @@
+[
+  {
+    "theorem": "ABC.abc",
+    "slug": "abc-abc",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "AgohGiuga.agoh_giuga",
+    "slug": "agoh-giuga-agoh-giuga",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "AgrawalConjecture.agrawal_conjecture.variants.popovych",
+    "slug": "agrawal-conjecture-agrawal-conjecture-variants-popovych",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Andrica.andrica_conjecture",
+    "slug": "andrica-andrica-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "ArtinPrimitiveRootsConjecture.artin_primitive_roots.parts.i",
+    "slug": "artin-primitive-roots-conjecture-artin-primitive-roots-parts-i",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Arxiv.id2303_01089.conjecture_1_3",
+    "slug": "arxiv-id2303-01089-conjecture-1-3",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Arxiv.«0912.2382».curling_number_conjecture",
+    "slug": "arxiv-0912-2382-curling-number-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Arxiv.«1601.03081».crystals_components_unique",
+    "slug": "arxiv-1601-03081-crystals-components-unique",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Arxiv.«1609.08688».maximalLength_le_strong",
+    "slug": "arxiv-1609-08688-maximal-length-le-strong",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Arxiv.«2107.00295».independentDominationEven",
+    "slug": "arxiv-2107-00295-independent-domination-even",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Arxiv.«2107.12475».CollatzLike",
+    "slug": "arxiv-2107-12475-collatz-like",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Arxiv.«2208.14736».zariski_cancellation_problem",
+    "slug": "arxiv-2208-14736-zariski-cancellation-problem",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Arxiv.«2501.03234».conjecture_1_1",
+    "slug": "arxiv-2501-03234-conjecture-1-1",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Arxiv.«math.0110202».banach_mazur_rotation_problem",
+    "slug": "arxiv-math-0110202-banach-mazur-rotation-problem",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "BabaiSeressConjectures.babai_seress_conjecture",
+    "slug": "babai-seress-conjectures-babai-seress-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "BabaiSeressConjectures.babai_seress_conjecture_alternating",
+    "slug": "babai-seress-conjectures-babai-seress-conjecture-alternating",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "BalancedPrimes.balanced_primes",
+    "slug": "balanced-primes-balanced-primes",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "BalancedPrimes.balanced_primes_order",
+    "slug": "balanced-primes-balanced-primes-order",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "BatemanHornConjecture.bateman_horn_conjecture",
+    "slug": "bateman-horn-conjecture-bateman-horn-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "BealConjecture.beal_conjecture",
+    "slug": "beal-conjecture-beal-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "BeaverMathOlympiad.beaver_math_olympiad_problem_2_antihydra",
+    "slug": "beaver-math-olympiad-beaver-math-olympiad-problem-2-antihydra",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "BeckFiala.beck_fiala_conjecture",
+    "slug": "beck-fiala-beck-fiala-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "BetrothedNumbers.infinitely_many_betrothed",
+    "slug": "betrothed-numbers-infinitely-many-betrothed",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Buchi.buchi_problem",
+    "slug": "buchi-buchi-problem",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Buchi.buchi_problem_M5",
+    "slug": "buchi-buchi-problem-m5",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Bugeaud01.problem_10_3",
+    "slug": "bugeaud01-problem-10-3",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Bugeaud01.waldschmidt",
+    "slug": "bugeaud01-waldschmidt",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Bugeaud04.spectrum_xi_alpha_pow_countable",
+    "slug": "bugeaud04-spectrum-xi-alpha-pow-countable",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Bugeaud05.problem_10_5",
+    "slug": "bugeaud05-problem-10-5",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Bugeaud06.problem_10_6_variant_1",
+    "slug": "bugeaud06-problem-10-6-variant-1",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Bugeaud07.problem_10_7",
+    "slug": "bugeaud07-problem-10-7",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Bugeaud08.problem_10_8",
+    "slug": "bugeaud08-problem-10-8",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "CardinalityLindelof.HasGδSingletons.lindelof_card",
+    "slug": "cardinality-lindelof-has-g-singletons-lindelof-card",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "CasasAlvero.casas_alvero_conjecture",
+    "slug": "casas-alvero-casas-alvero-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "CatchUp.value_of_even_mul_succ_self_div_two",
+    "slug": "catch-up-value-of-even-mul-succ-self-div-two",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "CernyConjecture.cerny_conjecture",
+    "slug": "cerny-conjecture-cerny-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Chvatal.exists_maximal_star",
+    "slug": "chvatal-exists-maximal-star",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "ClaudesCycles.cube_hamiltonian_arc_decomposition_even",
+    "slug": "claudes-cycles-cube-hamiltonian-arc-decomposition-even",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "ComplexityTheory.NP_ne_coNP",
+    "slug": "complexity-theory-np-ne-co-np",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "ConjugacyClassSizes.conjClassSizes_iff_sym_three",
+    "slug": "conjugacy-class-sizes-conj-class-sizes-iff-sym-three",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Conway99Graph.conway99Graph",
+    "slug": "conway99-graph-conway99-graph",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "DeGiorgi.DeGiorgi_eight",
+    "slug": "de-giorgi-de-giorgi-eight",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "DubnerConjecture.dubner_conjecture",
+    "slug": "dubner-conjecture-dubner-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "EllipticCurveRank.RatEllipticCurve.finite_twentyone_lt_finrank",
+    "slug": "elliptic-curve-rank-rat-elliptic-curve-finite-twentyone-lt-finrank",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "EllipticCurveRank.RatEllipticCurve.twentyone_le_rank_height_count_asymptotic",
+    "slug": "elliptic-curve-rank-rat-elliptic-curve-twentyone-le-rank-height-count-asymptotic",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "EquationalTheories_677_255.Finite.Equation677_implies_Equation255",
+    "slug": "equational-theories-677-255-finite-equation677-implies-equation255",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Equidistribution.isEquidistributedModuloOne_three_halves_pow",
+    "slug": "equidistribution-is-equidistributed-modulo-one-three-halves-pow",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1.erdos_1",
+    "slug": "erdos1",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1.erdos_1.variants.real",
+    "slug": "erdos1-real",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos10.erdos_10.variants.granville_soundararajan_odd",
+    "slug": "erdos10-granville-soundararajan-odd",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos10.erdos_10.variants.grechuk",
+    "slug": "erdos10-grechuk",
+    "reason": "SOLVED + NOT_OPEN (approved submission 244ff2d0 proves the published target; the informal claim follows from Crocker's published theorem on sums of a prime and two powers of 2 by the parity reduction the source docstring itself describes, so the target was not open when it was offered)",
+    "reason_code": "SOLVED + NOT_OPEN",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos100.erdos_100.variants.strong",
+    "slug": "erdos100-strong",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos101.erdos_101",
+    "slug": "erdos101",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1041.erdos_1041",
+    "slug": "erdos1041",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1052.erdos_1052",
+    "slug": "erdos1052",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1055.erdos_1055",
+    "slug": "erdos1055",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1055.erdos_1055.variants.erdos_limit",
+    "slug": "erdos1055-limit",
+    "reason": "TYPE_DEPENDS_ON_SORRY (Erdos1055.p := Nat.find (exists_p r), exists_p is sorried)",
+    "reason_code": "TYPE_DEPENDS_ON_SORRY",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos1055.erdos_1055.variants.selfridge_limit",
+    "slug": "erdos1055-selfridge-limit",
+    "reason": "TYPE_DEPENDS_ON_SORRY (Erdos1055.p := Nat.find (exists_p r), exists_p is sorried)",
+    "reason_code": "TYPE_DEPENDS_ON_SORRY",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos1059.erdos_1059",
+    "slug": "erdos1059",
+    "reason": "QUARANTINE_UNVERIFIED_CLAIM (A September 5 manuscript claims the full factorial-avoiding-prime theorem. Its repository displays a matching endpoint and a standard-axiom build report, but also notes that its recorded build was from a dirty/untracked snapshot and lacks independent replication. This is a substantive prior claim, not a confirmed solution in this audit.)",
+    "reason_code": "QUARANTINE_UNVERIFIED_CLAIM",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos1060.erdos_1060.parts.i",
+    "slug": "erdos1060-i",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1065.erdos_1065.parts.i",
+    "slug": "erdos1065-i",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1065.erdos_1065.parts.ii",
+    "slug": "erdos1065-ii",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1072.erdos_1072.variants.littleo",
+    "slug": "erdos1072-littleo",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1074.erdos_1074.parts.i",
+    "slug": "erdos1074-i",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1074.erdos_1074.parts.iii",
+    "slug": "erdos1074-iii",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1084.erdos_1084.variants.triangular_optimal_d2",
+    "slug": "erdos1084-triangular-optimal-d2",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1093.erdos_1093.parts.ii",
+    "slug": "erdos1093-ii",
+    "reason": "SOURCE_MISMATCH (Nat.smoothNumbers k means primes < k; erdosproblems.com/1093 defines k-smooth as primes ≤ k)",
+    "reason_code": "SOURCE_MISMATCH",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos1108.erdos_1108.parts.ii",
+    "slug": "erdos1108-ii",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1113.erdos_1113",
+    "slug": "erdos1113",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1146.erdos_1146",
+    "slug": "erdos1146",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1199.erdos_1199",
+    "slug": "erdos1199",
+    "reason": "SOLVED (Huang, Lian, Shao, Xiao, Xu, and Zhang, “An affirmative answer to Owings's sumset question,” arXiv:2607.17333v3, proves the exact two-colouring statement)",
+    "reason_code": "SOLVED",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos12.erdos_12.parts.iii",
+    "slug": "erdos12-iii",
+    "reason": "QUARANTINE_INCOMPLETE_CLAIM (A public claim advertises reciprocal-sum convergence, exactly part iii, but its discussion identifies an assumed growth_ineq axiom and requests the missing block-growth argument. It does not constitute an unconditional proof. Conservatively withhold the target while the underlying claim is unresolved; do not describe it as solved.)",
+    "reason_code": "QUARANTINE_INCOMPLETE_CLAIM",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos1209.erdos_1209.parts.iii.b",
+    "slug": "erdos1209-iii-b",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1209.erdos_1209.parts.iii.c",
+    "slug": "erdos1209-iii-c",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1210.erdos_1210",
+    "slug": "erdos1210",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos1210.erdos_1210.variants.er80_correction",
+    "slug": "erdos1210-er80-correction",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos126.erdos_126",
+    "slug": "erdos126",
+    "reason": "RETIRE_SETTLED (The September 2026 proof gives f(n) ≫ sqrt(n), which implies f(n)/log(n) tends to infinity. The tracker records PROVED (LEAN). This settles the main target only; the separate isLittleO upper bound remains.)",
+    "reason_code": "RETIRE_SETTLED",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos15.erdos_15",
+    "slug": "erdos15",
+    "reason": "SOURCE_MISMATCH + EXPLOITABLE (the informal problem asks for real convergence; Lean states Summable over ℚ, so failure of ℚ-summability does not establish real divergence; the counterexample exploited this domain mismatch)",
+    "reason_code": "SOURCE_MISMATCH + EXPLOITABLE",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos197.erdos_197",
+    "slug": "erdos197",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos20.erdos_20",
+    "slug": "erdos20",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos203.erdos_203",
+    "slug": "erdos203",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos242.erdos_242",
+    "slug": "erdos242",
+    "reason": "QUARANTINE_DISPUTED_CLAIM (Bradford arXiv:2602.11774 claims an Erdos-Straus solution; source discussion disputes its credibility. Other advertised Lean solutions only supply finite checks or unsupported periodicity. The pinned target additionally requires distinct ordered denominators, so the exact implication would need checking even if the paper were accepted. No verified solution is asserted here. The all-numerators Schinzel generalization is a separate retained target.)",
+    "reason_code": "QUARANTINE_DISPUTED_CLAIM",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos273.erdos_273",
+    "slug": "erdos273",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos276.erdos_276",
+    "slug": "erdos276",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos288.erdos_288",
+    "slug": "erdos288",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos312.erdos_312",
+    "slug": "erdos312",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos317.erdos_317",
+    "slug": "erdos317",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos340.erdos_340.variants.co_density_zero_sub",
+    "slug": "erdos340-co-density-zero-sub",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos352.erdos_352",
+    "slug": "erdos352",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos377.erdos_377",
+    "slug": "erdos377",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos409.erdos_409.parts.ii",
+    "slug": "erdos409-ii",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos413.erdos_413.parts.ii",
+    "slug": "erdos413-ii",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos421.erdos_421",
+    "slug": "erdos421",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos477.erdos_477.variants.X_pow_three",
+    "slug": "erdos477-x-pow-three",
+    "reason": "WITHDRAWN (removed from the active solver pool by maintainer request)",
+    "reason_code": "WITHDRAWN",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos477.erdos_477.variants.monomial",
+    "slug": "erdos477-monomial",
+    "reason": "WITHDRAWN (removed from the active solver pool by maintainer request)",
+    "reason_code": "WITHDRAWN",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos510.erdos_510",
+    "slug": "erdos510",
+    "reason": "TYPE_DEPENDS_ON_SORRY (the Prop-valued answer(sorry) survives in the compiled theorem type, making this a mechanically ineligible PROP_ANSWER_WRAPPER target)",
+    "reason_code": "TYPE_DEPENDS_ON_SORRY",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos536.erdos_536",
+    "slug": "erdos536",
+    "reason": "WITHDRAWN (removed from the active solver pool by maintainer request)",
+    "reason_code": "WITHDRAWN",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos567.erdos_567.parts.i",
+    "slug": "erdos567-i",
+    "reason": "SOURCE_MISMATCH + EXPLOITABLE (the informal problem asks for the ordinary Ramsey number R(Q₃,H), while the Lean target states SimpleGraph.sizeRamsey Q₃ H; submission 145e01a5 validly refuted the frozen size-Ramsey statement and received a FORMALIZATION_DEFECT_AWARD)",
+    "reason_code": "SOURCE_MISMATCH + EXPLOITABLE",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos595.erdos_595",
+    "slug": "erdos595",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos683.erdos_683",
+    "slug": "erdos683",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos700.erdos_700.parts.ii",
+    "slug": "erdos700-ii",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos727.erdos_727.variants.k_2",
+    "slug": "erdos727-k-2",
+    "reason": "QUARANTINE_UNVERIFIED_CLAIM (Johan Land publishes an unconditional k=3 construction and a Lean endpoint for k=2, exactly the active target. The general all-k problem being open does not clear this variant. The claimed Lean build has not been independently reproduced in this audit.)",
+    "reason_code": "QUARANTINE_UNVERIFIED_CLAIM",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos74.erdos_74.variants.sqrt",
+    "slug": "erdos74-sqrt",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos826.erdos_826",
+    "slug": "erdos826",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos850.erdos_850",
+    "slug": "erdos850",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos887.erdos_887.variants.rosenfeld_4",
+    "slug": "erdos887-rosenfeld-4",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos906.erdos_906",
+    "slug": "erdos906",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos938.erdos_938",
+    "slug": "erdos938",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos939.erdos_939",
+    "slug": "erdos939",
+    "reason": "SOURCE_MISMATCH + EXPLOITABLE + SOLVED (Erdos939Sums omits positivity of the summands and Nat.Full is vacuous at 0 and 1, so the r = 4 case — the one with no known example — is satisfied by {0, 1}; submission 91915fc3 discharged it that way)",
+    "reason_code": "SOURCE_MISMATCH + EXPLOITABLE + SOLVED",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos940.erdos_940.variants.three_cubes",
+    "slug": "erdos940-three-cubes",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos944.erdos_944.variants.dirac_conjecture.k_eq_four",
+    "slug": "erdos944-dirac-conjecture-k-eq-four",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Erdos96.erdos_96",
+    "slug": "erdos96",
+    "reason": "QUARANTINE_DISPUTED_CLAIM (Khopkar arXiv:1605.08066v2 claims the exact O(n) convex unit-distance bound. The source discussion treats it as unconfirmed and identifies a missing decomposition argument. No accepted proof was established here; withhold pending adjudication of the published claim.)",
+    "reason_code": "QUARANTINE_DISPUTED_CLAIM",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Erdos973.erdos_973",
+    "slug": "erdos973",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "EulerBrick.perfect_euler_brick_existence",
+    "slug": "euler-brick-perfect-euler-brick-existence",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "FibonacciPrimes.fib_primes_infinite",
+    "slug": "fibonacci-primes-fib-primes-infinite",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "FlintCooksonHills.cookson_hills_series_converges",
+    "slug": "flint-cookson-hills-cookson-hills-series-converges",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "FlintCooksonHills.flint_hills_series_converges",
+    "slug": "flint-cookson-hills-flint-hills-series-converges",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Fuglede.FugledeConjecture.variants.dim_1",
+    "slug": "fuglede-fuglede-conjecture-variants-dim-1",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Fuglede.FugledeConjecture.variants.dim_2",
+    "slug": "fuglede-fuglede-conjecture-variants-dim-2",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "GRH.generalized_riemann_hypothesis",
+    "slug": "grh-generalized-riemann-hypothesis",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "GracefulLabeling.graceful_tree_conjecture",
+    "slug": "graceful-labeling-graceful-tree-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green16.green_16_conjectured_lower_bound",
+    "slug": "green16-conjectured-lower-bound",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green19.green_19.lower",
+    "slug": "green19-lower",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green26.green_26.variants.open",
+    "slug": "green26",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green28.green_28",
+    "slug": "green28",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green29.green_29",
+    "slug": "green29",
+    "reason": "SOLVED (approved submission 82ab85ee refutes the published target with a 3-approximate group A = ({-1} × H) ∪ ({+1} × H) ∪ {(0,1)} in Multiplicative ℤ × H, whose only element at coordinate 0 is the identity, so every S ⊆ A with S^8 ⊆ A^4 is a singleton; the formalization is faithful and no defect was found)",
+    "reason_code": "SOLVED",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Green3.green_3",
+    "slug": "green3",
+    "reason": "SOLVED + NOT_OPEN (Franchi–Gowers–Yip, arXiv:2607.06073v1, published 2026-07-07, proves the exact product-free-subset target; submissions af89c6c1 and df81aea1 were rejected under NOT_NOVEL after substantially implementing that published solution)",
+    "reason_code": "SOLVED + NOT_OPEN",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Green31.green_31.variants.sidon_01n",
+    "slug": "green31-sidon-01n",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green31.green_31.variants.zmod_p",
+    "slug": "green31-zmod-p",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green42.green_42",
+    "slug": "green42",
+    "reason": "SOURCE_MISMATCH + EXPLOITABLE + SOLVED (SatisfiesCohnElkiesScheme omits continuity of f, so f 0 may be set at a single null point independently of fHat f 0 and any positive bound is attainable; submission aa57d955 exhibited a Gaussian modified only at the origin)",
+    "reason_code": "SOURCE_MISMATCH + EXPLOITABLE + SOLVED",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Green46.green_46.improve_upper_conjectured",
+    "slug": "green46-improve-upper-conjectured",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green52.green_52",
+    "slug": "green52",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green54.green_54",
+    "slug": "green54",
+    "reason": "SOURCE_MISMATCH (Green #54 is per-n on ℝ^n; formalization is a single statement on ℕ → ℝ with Measure.infinitePi gaussian — nonequivalent setting)",
+    "reason_code": "SOURCE_MISMATCH",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Green61.green_61",
+    "slug": "green61",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green72.NoKInLine",
+    "slug": "green72-no-k-in-line",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Green72.green_72",
+    "slug": "green72",
+    "reason": "WITHDRAWN (held out of the selection while upstream pull request 4941 corrects this exact statement: the published target asserts AllowedSetSize 3 N = 2 * N for every N ≥ 3, while Green asks whether sets of that size become impossible for large N, and both references cited in the source expect the published direction to fail; the September 8 review also denies this old name and type; a corrected statement requires a new explicit audit)",
+    "reason_code": "WITHDRAWN",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Green77.green_77",
+    "slug": "green77",
+    "reason": "SOURCE_MISMATCH + EXPLOITABLE (Erdos507.minTriangleArea infimum ranges over Affine.Triangle = affinely independent only; collinear-heavy configs give α(n) ≳ 1/n, refuting the formalized n^(−2+o(1)) claim by elementary geometry)",
+    "reason_code": "SOURCE_MISMATCH + EXPLOITABLE",
+    "has_published_reason": true
+  },
+  {
+    "theorem": "Green85.green_85",
+    "slug": "green85",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Hilbert5.hilbert_smith_conjecture",
+    "slug": "hilbert5-hilbert-smith-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "InscribedSquare.inscribed_rectangle_problem",
+    "slug": "inscribed-square-inscribed-rectangle-problem",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "KomlosConjecture.komlos_conjecture",
+    "slug": "komlos-conjecture-komlos-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Kourovka.«20.76».kourovka.«20.76»",
+    "slug": "kourovka-20-76-kourovka-20-76",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "LamLitt.lam_litt.variants.integrality_implies_algebraicity",
+    "slug": "lam-litt-lam-litt-variants-integrality-implies-algebraicity",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "LatinSquare.numTransversalsZn",
+    "slug": "latin-square-num-transversals-zn",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "LehmerMahlerMeasureProblem.lehmer_mahler_measure_problem",
+    "slug": "lehmer-mahler-measure-problem-lehmer-mahler-measure-problem",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "LehmerTotient.lehmer_totient",
+    "slug": "lehmer-totient-lehmer-totient",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "LeinsterGroup.infinitely_many_leinster_groups",
+    "slug": "leinster-group-infinitely-many-leinster-groups",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "MagicSquares.exists_magic_square_squares",
+    "slug": "magic-squares-exists-magic-square-squares",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mandelbrot.density_of_hyperbolicity",
+    "slug": "mandelbrot-density-of-hyperbolicity",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mathoverflow10799.mathoverflow_10799.variants.kahn_kalai_conjecture_7",
+    "slug": "mathoverflow10799-mathoverflow-10799-variants-kahn-kalai-conjecture-7",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mathoverflow17560.mathoverflow_17560",
+    "slug": "mathoverflow17560-mathoverflow-17560",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mathoverflow1973.mathoverflow_1973",
+    "slug": "mathoverflow1973-mathoverflow-1973",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mathoverflow21003.mathoverflow_21003",
+    "slug": "mathoverflow21003-mathoverflow-21003",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mathoverflow235893.mathoverflow_235893",
+    "slug": "mathoverflow235893-mathoverflow-235893",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mathoverflow339137.mathoverflow_339137",
+    "slug": "mathoverflow339137-mathoverflow-339137",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mathoverflow34145.rectangles_cover_unit_square",
+    "slug": "mathoverflow34145-rectangles-cover-unit-square",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mathoverflow507128.exists_isFractionRing_self_ideal_ne_top_invertible",
+    "slug": "mathoverflow507128-exists-is-fraction-ring-self-ideal-ne-top-invertible",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Mathoverflow75792.complexity_two_pow",
+    "slug": "mathoverflow75792-complexity-two-pow",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "MonochromaticQuantumGraph.eqSystem10_no_solution_d3",
+    "slug": "monochromatic-quantum-graph-eq-system10-no-solution-d3",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "NavierStokes.navier_stokes_breakdown_R3",
+    "slug": "navier-stokes-navier-stokes-breakdown-r3",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OeisA228828.a.infinite",
+    "slug": "oeis-a228828-a-infinite",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OeisA231201.conjecture",
+    "slug": "oeis-a231201-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OeisA232174.conjecture",
+    "slug": "oeis-a232174-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OeisA239957.conjecture",
+    "slug": "oeis-a239957-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OeisA280831.conjecture",
+    "slug": "oeis-a280831-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OeisA281976.conjecture",
+    "slug": "oeis-a281976-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OeisA287616.conjecture",
+    "slug": "oeis-a287616-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OeisA303656.conjecture",
+    "slug": "oeis-a303656-conjecture",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OeisA81091.conjectureA81091",
+    "slug": "oeis-a81091-conjecture-a81091",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OpenQuantumProblem13.mutuallyUnbiasedBases_dim6",
+    "slug": "open-quantum-problem13-mutually-unbiased-bases-dim6",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OpenQuantumProblem35.ame_10_10_open",
+    "slug": "open-quantum-problem35-ame-10-10-open",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "OpenQuantumProblem35.ame_10_6_open",
+    "slug": "open-quantum-problem35-ame-10-6-open",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "PoincareConjecture.poincare_conjecture.variants.smooth_dimension_four",
+    "slug": "poincare-conjecture-poincare-conjecture-variants-smooth-dimension-four",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "RationalDistanceProblem.rational_distance_problem",
+    "slug": "rational-distance-problem-rational-distance-problem",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "ReedOmegaDeltaChi.reed_conjecture_Δ_6_ω_2",
+    "slug": "reed-omega-delta-chi-reed-conjecture-6-2",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "RiemannZetaValues.irrational_eleven",
+    "slug": "riemann-zeta-values-irrational-eleven",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "RiemannZetaValues.irrational_five",
+    "slug": "riemann-zeta-values-irrational-five",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Singmaster.singmaster",
+    "slug": "singmaster-singmaster",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "SolitaryNumber.infinite_club_exists",
+    "slug": "solitary-number-infinite-club-exists",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "Superperfect.twoFivePerfect",
+    "slug": "superperfect-two-five-perfect",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "VCDimConvex.exists_hasAddVCNDimAtMost_n_of_convex_rn_add_one",
+    "slug": "vc-dim-convex-exists-has-add-vcn-dim-at-most-n-of-convex-rn-add-one",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "WeakTiling.problem_4_2",
+    "slug": "weak-tiling-problem-4-2",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "WeakTiling.problem_4_3",
+    "slug": "weak-tiling-problem-4-3",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "WrittenOnTheWallII.GraphConjecture100.conjecture100",
+    "slug": "written-on-the-wall-ii-graph-conjecture100-conjecture100",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "WrittenOnTheWallII.GraphConjecture103.conjecture103",
+    "slug": "written-on-the-wall-ii-graph-conjecture103-conjecture103",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "WrittenOnTheWallII.GraphConjecture133.conjecture133",
+    "slug": "written-on-the-wall-ii-graph-conjecture133-conjecture133",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "WrittenOnTheWallII.GraphConjecture141.conjecture141",
+    "slug": "written-on-the-wall-ii-graph-conjecture141-conjecture141",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "WrittenOnTheWallII.GraphConjecture142.conjecture142",
+    "slug": "written-on-the-wall-ii-graph-conjecture142-conjecture142",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "WrittenOnTheWallII.GraphConjecture144.conjecture144",
+    "slug": "written-on-the-wall-ii-graph-conjecture144-conjecture144",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  },
+  {
+    "theorem": "WrittenOnTheWallII.GraphConjecture145.conjecture145",
+    "slug": "written-on-the-wall-ii-graph-conjecture145-conjecture145",
+    "reason": "",
+    "reason_code": "",
+    "has_published_reason": false
+  }
+]

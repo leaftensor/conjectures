@@ -1,0 +1,1042 @@
+[
+ {
+  "href": "/problems/erdos3-erdos-3",
+  "txt": "NUMBER THEORY\n\nErdős problem 3\nIf \n𝐴\n⊂\n𝑁\nA⊂N has \n∑\n𝑛\n∈\n𝐴\n1\n𝑛\n=\n∞\n∑\nn∈A\n\t​\n\nn\n1\n\t​\n\n=∞, then must \n𝐴\nA contain arbitrarily long arithmetic progressions?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos9-erdos-9",
+  "txt": "COMBINATORICS\n\nErdős problem 9\nIs the upper density of the set of odd numbers that cannot be expressed as a prime plus two powers of 2 positive?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos10-erdos-10",
+  "txt": "COMBINATORICS\n\nErdős problem 10\nIs there some \n𝑘\nk such that every integer is the sum of a prime and at most \n𝑘\nk powers of \n2\n2?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos11-erdos-11",
+  "txt": "NUMBER THEORY\n\nErdős problem 11\nIs every odd \n𝑛\n>\n1\nn>1 the sum of a squarefree number and a power of 2?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos14-erdos-14-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 14 - part i\nLet \n𝐴\n⊆\n𝑁\nA⊆N. Let \n𝐵\n⊆\n𝑁\nB⊆N be the set of integers which are representable in exactly one way as the sum of two elements from \n𝐴\nA. Is it true that for all \n𝜖\n>\n0\nϵ>0 and large \n𝑁\nN, \n∣\n{\n1\n,\n…\n,\n𝑁\n}\n∖\n𝐵\n∣\n≫\n𝜖\n𝑁\n1\n/\n2\n−\n𝜖\n∣{1,…,N}∖B∣≫\nϵ\n\t​\n\nN\n1/2−ϵ\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos14-erdos-14-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 14 - part ii\nIs it possible that \n∣\n{\n1\n,\n…\n,\n𝑁\n}\n∖\n𝐵\n∣\n=\n𝑜\n(\n𝑁\n1\n2\n)\n∣{1,…,N}∖B∣=o(N\n2\n1\n\t​\n\n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos17-erdos-17",
+  "txt": "NUMBER THEORY\n\nErdős problem 17\n**Erdős Problem 17.** Are there infinitely many cluster primes?\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos18-erdos-18b",
+  "txt": "NUMBER THEORY\n\nErdős problem 18 - b\n**Conjecture 2.** Is it true that \nℎ\n(\n𝑛\n!\n)\n<\n𝑛\n𝑜\n(\n1\n)\nh(n!)<n\no(1)\n? That is, for all \n𝜀\n>\n0\nε>0, is \nℎ\n(\n𝑛\n!\n)\n<\n𝑛\n𝜀\nh(n!)<n\nε\n for sufficiently large \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos23-erdos-23",
+  "txt": "COMBINATORICS\n\nErdős problem 23\nCan every triangle-free graph on \n5\n𝑛\n5n vertices be made bipartite by deleting at most \n𝑛\n2\nn\n2\n edges?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos25-erdos-25",
+  "txt": "NUMBER THEORY\n\nErdős problem 25\nLet \n𝑛\n1\n<\n𝑛\n2\n<\n…\nn\n1\n\t​\n\n<n\n2\n\t​\n\n<… be an arbitrary sequence of integers, each with an associated residue class \n𝑎\n𝑖\n(\nm\no\nd\n𝑛\n𝑖\n)\na\ni\n\t​\n\n(modn\ni\n\t​\n\n). Let \n𝐴\nA be the set of integers \n𝑛\nn such that for every \n𝑖\ni either \n𝑛\n<\n𝑛\n𝑖\nn<n\ni\n\t​\n\n or \n𝑛\n≢\n𝑎\n𝑖\n(\nm\no\nd\n𝑛\n𝑖\n)\nn\n\n≡a\ni\n\t​\n\n(modn\ni\n\t​\n\n). Must the logarithmic density of \n𝐴\nA exist?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos28-erdos-28",
+  "txt": "NUMBER THEORY\n\nErdős problem 28\nIf \n𝐴\n⊆\n𝑁\nA⊆N is such that \n𝐴\n+\n𝐴\nA+A contains all but finitely many integers then \nlim sup\n⁡\n1\n𝐴\n∗\n1\n𝐴\n(\n𝑛\n)\n=\n∞\nlimsup1\nA\n\t​\n\n∗1\nA\n\t​\n\n(n)=∞.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos30-erdos-30",
+  "txt": "NUMBER THEORY\n\nErdős problem 30\nIs it true that, for every \n𝜀\n>\n0\nε>0, \nℎ\n(\n𝑁\n)\n=\n𝑁\n+\n𝑂\n𝜀\n(\n𝑁\n𝜀\n)\nh(N)=\nN\n\t​\n\n+O\nε\n\t​\n\n(N\nε\n)\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos32-erdos-32",
+  "txt": "NUMBER THEORY\n\nErdős problem 32\nDoes there exist a set \n𝐴\n⊆\n𝑁\nA⊆N such that \n∣\n𝐴\n∩\n{\n1\n,\n…\n,\n𝑁\n}\n∣\n=\n𝑜\n(\n(\nlog\n⁡\n𝑁\n)\n2\n)\n∣A∩{1,…,N}∣=o((logN)\n2\n) and every sufficiently large integer can be written as \n𝑝\n+\n𝑎\np+a for some prime \n𝑝\np and \n𝑎\n∈\n𝐴\na∈A?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos39-erdos-39",
+  "txt": "NUMBER THEORY\n\nErdős problem 39\nIs there an infinite Sidon set \n𝐴\n⊂\n𝑁\nA⊂N such that \n∣\n𝐴\n∩\n{\n1\n…\n,\n𝑁\n}\n∣\n≫\n𝜖\n𝑁\n1\n/\n2\n−\n𝜖\n∣A∩{1…,N}∣≫\nϵ\n\t​\n\nN\n1/2−ϵ\n for all \n𝜀\n>\n0\nε>0?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos41-erdos-41",
+  "txt": "NUMBER THEORY\n\nErdős problem 41\nLet \n𝐴\n⊂\n𝑁\nA⊂N be an infinite set such that the triple sums \n𝑎\n+\n𝑏\n+\n𝑐\na+b+c are all distinct for \n𝑎\n,\n𝑏\n,\n𝑐\n∈\n𝐴\na,b,c∈A (aside from the trivial coincidences). Is it true that \nlim inf\n⁡\n𝑁\n→\n∞\n∣\n𝐴\n∩\n{\n1\n,\n…\n,\n𝑁\n}\n∣\n𝑁\n1\n/\n3\n=\n0\n?\nliminf\nN→∞\n\t​\n\nN\n1/3\n∣A∩{1,…,N}∣\n\t​\n\n=0?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos44-erdos-44",
+  "txt": "COMBINATORICS\n\nErdős problem 44\n**Erdős Problem 44:** Let N ≥ 1 and A ⊆ {1,…,N} be a Sidon set. Is it true that, for any ε > 0, there exist M = M(ε) and B ⊆ {N+1,…,M} such that A ∪ B ⊆ {1,…,M} is a Sidon set of size at least (1−ε)M^{1/2}? This problem asks whether any Sidon set can be extended to achieve a density arbitrarily close to the…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos50-erdos-50",
+  "txt": "NUMBER THEORY\n\nErdős problem 50\nLet \n𝑓\nf be the asymptotic distribution function of \n𝜑\n(\n𝑛\n)\n/\n𝑛\nφ(n)/n, so that for each \n𝑐\n∈\n[\n0\n,\n1\n]\nc∈[0,1], \n𝑓\n(\n𝑐\n)\nf(c) is the natural density of \n{\n𝑛\n:\n𝜑\n(\n𝑛\n)\n<\n𝑐\n𝑛\n}\n{n:φ(n)<cn}. Is it true that there is no \n𝑥\nx such that the derivative \n𝑓\n′\n(\n𝑥\n)\nf\n′\n(x) exists and is positive?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos51-erdos-51",
+  "txt": "NUMBER THEORY\n\nErdős problem 51\nIs there an infinite set \n𝐴\n⊂\n𝑁\nA⊂N such that for every \n𝑎\n∈\n𝐴\na∈A, there is an integer n such that \n𝜙\n(\n𝑛\n)\n=\n𝑎\nϕ(n)=a, and yet if \n𝑛\n𝑎\nn\na\n\t​\n\n is the smallest such integer, then \n𝑛\n𝑎\n𝑎\n→\n∞\na\nn\na\n\t​\n\n\t​\n\n→∞ as \n𝑎\n→\n∞\na→∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos52-erdos-52",
+  "txt": "NUMBER THEORY\n\nErdős problem 52\nLet \n𝐴\nA be a finite set of integers. Is it true that for every \n𝜖\n>\n0\nϵ>0 \nmax\n⁡\n(\n∣\n𝐴\n+\n𝐴\n∣\n,\n∣\n𝐴\n𝐴\n∣\n)\n≫\n𝜖\n∣\n𝐴\n∣\n2\n−\n𝜖\n?\nmax(∣A+A∣,∣AA∣)≫\nϵ\n\t​\n\n∣A∣\n2−ϵ\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos61-erdos-61",
+  "txt": "COMBINATORICS\n\nErdős problem 61\nThe Erdős–Hajnal Conjecture states that there is a constant \n𝑐\n(\n𝐻\n)\n>\n0\nc(H)>0 for each \n𝐻\nH such that we can take \n𝑓\n(\n𝑛\n)\n=\n𝑛\n𝑐\n(\n𝐻\n)\nf(n)=n\nc(H)\n in the above formulation.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos66-erdos-66",
+  "txt": "NUMBER THEORY\n\nErdős problem 66\nIs there and \n𝐴\n⊂\n𝑁\nA⊂N is such that \nlim\n⁡\n𝑛\n→\n∞\n1\n𝐴\n∗\n1\n𝐴\n(\n𝑛\n)\nlog\n⁡\n𝑛\nlim\nn→∞\n\t​\n\nlogn\n1\nA\n\t​\n\n∗1\nA\n\t​\n\n(n)\n\t​\n\n exists and is \n≠\n0\n\n=0?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos68-erdos-68",
+  "txt": "NUMBER THEORY\n\nErdős problem 68\nIs \n∑\n𝑛\n=\n2\n∞\n1\n𝑛\n!\n−\n1\n∑\nn=2\n∞\n\t​\n\nn!−1\n1\n\t​\n\n irrational?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos70-erdos-70-variants-omega-times-two-four",
+  "txt": "LOGIC AND FOUNDATIONS\n\nErdős problem 70 - omega times two four\n**First open case beyond Erdős–Rado**: \n𝑐\n→\n(\n𝜔\n⋅\n2\n,\n4\n)\n2\n3\nc→(ω⋅2,4)\n2\n3\n\t​\n\n. Erdős and Rado proved \n𝑐\n→\n(\n𝜔\n+\n𝑛\n,\n4\n)\n2\n3\nc→(ω+n,4)\n2\n3\n\t​\n\n for every finite \n𝑛\n≥\n2\nn≥2 (see erdos_rado), which covers all red ordinals below \n𝜔\n⋅\n2\n=\n𝜔\n+\n𝜔\nω⋅2=ω+ω. This variant asks whether the result extends to…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos82-erdos-82",
+  "txt": "COMBINATORICS\n\nErdős problem 82\n𝐹\n(\n𝑛\n)\n/\nlog\n⁡\n𝑛\n→\n∞\n𝑎\n𝑠\n𝑛\n→\n∞\nF(n)/logn→∞asn→∞\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos85-erdos-85",
+  "txt": "COMBINATORICS\n\nErdős problem 85\nIs it true that, for all large \n𝑛\nn, \n𝑓\n(\n𝑛\n+\n1\n)\n≥\n𝑓\n(\n𝑛\n)\nf(n+1)≥f(n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos89-erdos-89",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nErdős problem 89\nErdős [Er46] asked whether every set of \n𝑛\nn distinct points in \n𝑅\n2\nR\n2\n determines \n≫\n𝑛\nlog\n⁡\n𝑛\n≫\nlogn\n\t​\n\nn\n\t​\n\n many distinct distances.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos91-erdos-91",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nErdős problem 91\nSuppose \n𝐴\n⊂\n𝑅\n2\nA⊂R\n2\n has \n∣\n𝐴\n∣\n=\n𝑛\n∣A∣=n and minimises the number of distinct distances between points in \n𝐴\nA. Prove that for large \n𝑛\nn there are at least two (and probably many) such \n𝐴\nA which are non-similar.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos96-erdos-96",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nSOLVED\nErdős problem 96\nIf \n𝑛\nn points in \n𝑅\n2\nR\n2\n form a convex polygon then there are \n𝑂\n(\n𝑛\n)\nO(n) many pairs which are distance \n1\n1 apart.\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n-"
+ },
+ {
+  "href": "/problems/erdos98-erdos-98",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nErdős problem 98\nLet \nℎ\n(\n𝑛\n)\nh(n) be such that any \n𝑛\nn points in \n𝑅\n2\nR\n2\n, with no three on a line and no four on a circle, determine at least \nℎ\n(\n𝑛\n)\nh(n) distinct distances. Does \nℎ\n(\n𝑛\n)\n/\n𝑛\n→\n∞\nh(n)/n→∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos99-erdos-99",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nErdős problem 99\nFor sufficiently large n, is it the case that any set of n points with minimum distance \n1\n1 that minimizes diameter must contain an equilateral triangle of side length 1?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos100-erdos-100",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nErdős problem 100\nIs the diameter of \n𝐴\nA at least \n𝐶\n𝑛\nCn for some constant \n𝐶\n>\n0\nC>0?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos108-erdos-108",
+  "txt": "COMBINATORICS\n\nErdős problem 108\nFor every r ≥ 4 and k ≥ 2 is there some finite f(k,r) such that every graph of chromatic number ≥ f(k,r) contains a subgraph of girth ≥ r and chromatic number ≥ k?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos120-erdos-120",
+  "txt": "COMBINATORICS\n\nErdős problem 120\nLet \n𝐴\n⊆\n𝑅\nA⊆R be an infinite set. Must there be a set \n𝐸\n⊆\n𝑅\nE⊆R of positive measure which does not contain any set of the shape \n𝑎\n∗\n𝐴\n+\n𝑏\na∗A+b for some \n𝑎\n,\n𝑏\n∈\n𝑅\na,b∈R and \n𝑎\n≠\n0\na\n\n=0?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos124-erdos124-ne-zero",
+  "txt": "NUMBER THEORY\n\nErdős problem 124 - ne zero\nLet \n𝑘\n≠\n0\nk\n\n=0 and \n3\n≤\n𝑑\n1\n<\n𝑑\n2\n<\n⋯\n<\n𝑑\n𝑟\n3≤d\n1\n\t​\n\n<d\n2\n\t​\n\n<⋯<d\nr\n\t​\n\n be integers of gcd equal to \n1\n1 such that \n∑\n1\n≤\n𝑖\n≤\n𝑟\n1\n𝑑\n𝑖\n−\n1\n≥\n1.\n∑\n1≤i≤r\n\t​\n\nd\ni\n\t​\n\n−1\n1\n\t​\n\n≥1. Can all sufficiently large integers be written as a sum of the shape \n∑\n𝑖\n𝑐\n𝑖\n𝑎\n𝑖\n∑\ni\n\t​\n\nc\ni\n\t​\n\na\ni\n\t​\n\n where \n𝑐\n𝑖\n∈\n{\n0\n,\n1\n}\nc\ni\n\t​\n\n∈{0,1} and \n𝑎\n𝑖\na\ni\n\t​\n\n is divisible by \n𝑑\n𝑖\n𝑘\nd\ni\nk\n\t​\n\n and has only the digits \n0\n,\n1\n0,1…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos126-erdos-126-variants-islittleo",
+  "txt": "NUMBER THEORY\n\nErdős problem 126 - is Little O\nErdős says that \n𝑓\n(\n𝑛\n)\n=\n𝑜\n(\n𝑛\nlog\n⁡\n𝑛\n)\nf(n)=o(\nlogn\nn\n\t​\n\n) has never been proved.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos128-erdos-128",
+  "txt": "COMBINATORICS\n\nErdős problem 128\nLet G be a graph with n vertices such that every induced subgraph on ≥ \n𝑛\n/\n2\nn/2 vertices has more than \n𝑛\n2\n/\n50\nn\n2\n/50 edges. Must G contain a triangle?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos137-erdos-137-variants-multiple-powerful-factors",
+  "txt": "NUMBER THEORY\n\nErdős problem 137 - multiple powerful factors\nErdős [Er82c] conjectures that, if \n𝑘\nk is fixed, then for all \n𝑛\nn sufficiently large and all positive integers \n𝑚\nm, there must be at least \n𝑘\nk distinct primes \n𝑝\np such that \n𝑝\n∣\n𝑚\n(\n𝑚\n+\n1\n)\n⋯\n(\n𝑚\n+\n𝑛\n)\np∣m(m+1)⋯(m+n) and yet \n𝑝\n2\np\n2\n does not divide the right hand side. [Er82c] Erdős, Paul, \"Miscellaneous problems in number theory\".…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos138-erdos-138",
+  "txt": "NUMBER THEORY\n\nErdős problem 138\nIn [Er80] Erdős asks whether \nlim\n⁡\n𝑘\n→\n∞\n(\n𝑊\n(\n𝑘\n)\n)\n1\n/\n𝑘\n=\n∞\nlim\nk→∞\n\t​\n\n(W(k))\n1/k\n=∞\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos141-erdos-141-variants-eleven",
+  "txt": "COMBINATORICS\n\nErdős problem 141 - eleven\nAre there \n11\n11 consecutive primes in arithmetic progression?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos142-erdos-142-variants-lower",
+  "txt": "NUMBER THEORY\n\nErdős problem 142 - lower\nShow that \n𝑟\n𝑘\n(\n𝑁\n)\n=\n𝑜\n𝑘\n(\n𝑁\n/\nlog\n⁡\n𝑁\n)\nr\nk\n\t​\n\n(N)=o\nk\n\t​\n\n(N/logN), where \n𝑟\n𝑘\n(\n𝑁\n)\nr\nk\n\t​\n\n(N) the largest possible size of a subset of \n{\n1\n,\n…\n,\n𝑁\n}\n{1,…,N} that does not contain any non-trivial \n𝑘\nk-term arithmetic progression.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos143-erdos-143-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 143 - part ii\nOr \n∑\n𝑥\n∈\n𝐴\n1\n𝑥\nlog\n⁡\n𝑥\n<\n∞\n,\n∑\nx∈A\n\t​\n\nxlogx\n1\n\t​\n\n<∞,\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos145-erdos-145",
+  "txt": "NUMBER THEORY\n\nErdős problem 145\nLet \n𝑠\n1\n<\n𝑠\n2\n<\n⋯\ns\n1\n\t​\n\n<s\n2\n\t​\n\n<⋯ be the sequence of squarefree numbers. Is it true that, for any \n𝛼\n≥\n0\nα≥0, \nlim\n⁡\n𝑥\n→\n∞\n1\n𝑥\n∑\n𝑠\n𝑛\n≤\n𝑥\n(\n𝑠\n𝑛\n+\n1\n−\n𝑠\n𝑛\n)\n𝛼\nlim\nx→∞\n\t​\n\nx\n1\n\t​\n\n∑\ns\nn\n\t​\n\n≤x\n\t​\n\n(s\nn+1\n\t​\n\n−s\nn\n\t​\n\n)\nα\n exists?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos153-erdos-153",
+  "txt": "COMBINATORICS\n\nErdős problem 153\nLet \n𝐴\nA be a finite Sidon set and \n𝐴\n+\n𝐴\n=\n{\n𝑠\n1\n<\n⋯\n<\n𝑠\n𝑡\n}\nA+A={s\n1\n\t​\n\n<⋯<s\nt\n\t​\n\n}. Is it true that \n1\n𝑡\n∑\n1\n≤\n𝑖\n<\n𝑡\n(\n𝑠\n𝑖\n+\n1\n−\n𝑠\n𝑖\n)\n2\n→\n∞\nt\n1\n\t​\n\n∑\n1≤i<t\n\t​\n\n(s\ni+1\n\t​\n\n−s\ni\n\t​\n\n)\n2\n→∞ as \n∣\n𝐴\n∣\n→\n∞\n∣A∣→∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos155-erdos-155",
+  "txt": "COMBINATORICS\n\nErdős problem 155\nIs it true that for every \n𝑘\n≥\n1\nk≥1 we have \n𝐹\n(\n𝑁\n+\n𝑘\n)\n≤\n𝐹\n(\n𝑁\n)\n+\n1\nF(N+k)≤F(N)+1 for all sufficiently large \n𝑁\nN?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos156-erdos-156",
+  "txt": "COMBINATORICS\n\nErdős problem 156\nDoes there exist a maximal Sidon set \n𝐴\n⊂\n{\n1\n,\n…\n,\n𝑁\n}\nA⊂{1,…,N} of size \n𝑂\n(\n𝑁\n1\n/\n3\n)\nO(N\n1/3\n)? A question of Erdős, Sárközy, and Sós [ESS94].\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos158-erdos-158",
+  "txt": "COMBINATORICS\n\nErdős problem 158\nLet A be an infinite B₂[2] set. Must liminf |A ∩ {1, ..., N}| * N ^ (- 1 / 2) = 0?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos168-erdos-168-parts-ii",
+  "txt": "COMBINATORICS\n\nErdős problem 168 - part ii\nIs the limit \n𝐹\n(\n𝑁\n)\n/\n𝑁\nF(N)/N as \n𝑁\n→\n∞\nN→∞ irrational?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos172-erdos-172",
+  "txt": "COMBINATORICS\n\nErdős problem 172\nIs it true that in any finite colouring of \n𝑁\nN there exist arbitrarily large finite \n𝐴\nA such that all sums and products of distinct elements in \n𝐴\nA are the same colour?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos184-erdos-184",
+  "txt": "COMBINATORICS\n\nErdős problem 184\nAny graph on \n𝑛\nn vertices can be decomposed into \n𝑂\n(\n𝑛\n)\nO(n) many edge-disjoint cycles and edges.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos196-erdos-196",
+  "txt": "COMBINATORICS\n\nSOLVED\nErdős problem 196\nMust every permutation of \n𝑁\nN, contain a monotone 4-term arithmetic progression?\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n-"
+ },
+ {
+  "href": "/problems/erdos200-erdos-200",
+  "txt": "COMBINATORICS\n\nErdős problem 200\nDoes the longest arithmetic progression of primes in \n{\n1\n,\n…\n,\n𝑁\n}\n{1,…,N} have length \n𝑜\n(\nlog\n⁡\n𝑁\n)\no(logN)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos208-erdos-208-variants-log-bound",
+  "txt": "NUMBER THEORY\n\nErdős problem 208 - log bound\nIn [Er79] Erdős says perhaps \n𝑠\n𝑛\n+\n1\n−\n𝑠\n𝑛\n≪\nlog\n⁡\n𝑠\n𝑛\ns\nn+1\n\t​\n\n−s\nn\n\t​\n\n≪logs\nn\n\t​\n\n, but he is 'very doubtful'. [Er79] Erdős, Paul, __Some unconventional problems in number theory__. Math. Mag. (1979), 67-70.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos212-erdos-212",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nErdős problem 212\nIs there a dense subset of ℝ^2 such that all pairwise distances are rational?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos213-erdos-213",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nErdős problem 213\nLet \n𝑛\n≥\n4\nn≥4. Are there \n𝑛\nn points in \n𝑅\n2\nR\n2\n, no three on a line and no four on a circle, such that all pairwise distances are integers?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos218-erdos-218-variants-ge",
+  "txt": "NUMBER THEORY\n\nErdős problem 218 - ge\nThe set of indices \n𝑛\nn for which a prime gap is preceded by a larger or equal prime gap has a natural density of \n1\n2\n2\n1\n\t​\n\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos218-erdos-218-variants-infinite-equal-prime-gap",
+  "txt": "NUMBER THEORY\n\nErdős problem 218 - infinite equal prime gap\nThere are infinitely many indices \n𝑛\nn such that the prime gap at \n𝑛\nn is equal to the prime gap at \n𝑛\n+\n1\nn+1. This is equivalent to the existence of infinitely many arithmetic progressions of length \n3\n3, see erdos_141.variants.infinite_three.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos218-erdos-218-variants-le",
+  "txt": "NUMBER THEORY\n\nErdős problem 218 - le\nThe set of indices \n𝑛\nn for which a prime gap is followed by a larger or equal prime gap has a natural density of \n1\n2\n2\n1\n\t​\n\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos233-erdos-233",
+  "txt": "NUMBER THEORY\n\nErdős problem 233\nA conjecture by Heath-Brown: The sum of squares of the first \n𝑁\nN gaps between consecutive primes behaves like \n𝑁\n∗\n(\n𝑙\n𝑜\n𝑔\n𝑁\n)\n2\nN∗(logN)\n2\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos234-erdos-234",
+  "txt": "NUMBER THEORY\n\nErdős problem 234\nIs it true that for all c ≥ 0, the density f c of integers for which (p (n + 1) - p n) / log n < c exists and is a continuous function of c?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos236-erdos-236",
+  "txt": "COMBINATORICS\n\nErdős problem 236\nLet \n𝑓\n(\n𝑛\n)\nf(n) count the number of solutions to \n𝑛\n=\n𝑝\n+\n2\n𝑘\nn=p+2\nk\n for prime \n𝑝\np and \n𝑘\n≥\n0\nk≥0. Show that \n𝑓\n(\n𝑛\n)\n=\n𝑜\n(\nlog\n⁡\n𝑛\n)\nf(n)=o(logn).\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos238-erdos-238",
+  "txt": "NUMBER THEORY\n\nErdős problem 238\nLet c₁, c₂ > 0. Is it true that for any sufficiently large x, there exists more than c₁ * log x many consecutive primes ≤ x such that the difference between any two is > c₂?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos241-erdos-241-variants-generalization",
+  "txt": "COMBINATORICS\n\nErdős problem 241 - generalization\nMore generally, Bose and Chowla [BoCh62] conjectured that the maximum size of \n𝐴\n⊆\n{\n1\n,\n…\n,\n𝑁\n}\nA⊆{1,…,N} with all \n𝑟\nr-fold sums distinct (aside from the trivial coincidences) then \n∣\n𝐴\n∣\n∼\n𝑁\n1\n/\n𝑟\n.\n∣A∣∼N\n1/r\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos242-erdos-242-variants-schinzel-generalization",
+  "txt": "NUMBER THEORY\n\nErdős problem 242 - schinzel generalization\nSchinzel conjectured (see [Si56]) the generalisation that, for any fixed \n𝑎\na, if \n𝑛\nn is sufficiently large in terms of \n𝑎\na then there exist distinct integers \n1\n≤\n𝑥\n<\n𝑦\n<\n𝑧\n1≤x<y<z such that \n𝑎\n𝑛\n=\n1\n𝑥\n+\n1\n𝑦\n+\n1\n𝑧\n.\nn\na\n\t​\n\n=\nx\n1\n\t​\n\n+\ny\n1\n\t​\n\n+\nz\n1\n\t​\n\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos243-erdos-243",
+  "txt": "SEQUENCES AND SERIES\n\nErdős problem 243\nLet \n𝑎\n1\n<\n𝑎\n2\n<\n…\na\n1\n\t​\n\n<a\n2\n\t​\n\n<… be a sequence of integers such that \nlim\n⁡\n𝑛\n→\n∞\n𝑎\n𝑛\n𝑎\n𝑛\n−\n1\n2\n=\n1\nlim\nn→∞\n\t​\n\na\nn−1\n2\n\t​\n\na\nn\n\t​\n\n\t​\n\n=1 and \n∑\n1\n𝑎\n𝑛\n∈\n𝑄\n∑\na\nn\n\t​\n\n1\n\t​\n\n∈Q. Then, for all sufficiently large \n𝑛\n≥\n1\nn≥1, \n𝑎\n𝑛\n=\n𝑎\n𝑛\n−\n1\n2\n−\n𝑎\n𝑛\n−\n1\n+\n1\na\nn\n\t​\n\n=a\nn−1\n2\n\t​\n\n−a\nn−1\n\t​\n\n+1.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos244-erdos-244",
+  "txt": "NUMBER THEORY\n\nErdős problem 244\nLet \n𝐶\n>\n1\nC>1. Does the set of integers of the form \n𝑝\n+\n⌊\n𝐶\n𝑘\n⌋\np+⌊C\nk\n⌋, for some prime \n𝑝\np and \n𝑘\n≥\n0\nk≥0, have density \n>\n0\n>0?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos247-erdos-247",
+  "txt": "NUMBER THEORY\n\nErdős problem 247\nLet \n𝑛\n1\n<\n𝑛\n2\n<\n⋯\nn\n1\n\t​\n\n<n\n2\n\t​\n\n<⋯ be a sequence of integers such that \nlim sup\n⁡\n𝑛\n𝑘\n𝑘\n=\n∞\n.\nlimsup\nk\nn\nk\n\t​\n\n\t​\n\n=∞. Is \n∑\n𝑘\n=\n1\n∞\n1\n2\n𝑛\n𝑘\n∑\nk=1\n∞\n\t​\n\n2\nn\nk\n\t​\n\n1\n\t​\n\n transcendental?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos249-erdos-249",
+  "txt": "NUMBER THEORY\n\nErdős problem 249\nIs \n∑\n𝑛\n𝜙\n(\n𝑛\n)\n2\n𝑛\n∑\nn\n\t​\n\n2\nn\nϕ(n)\n\t​\n\n irrational? Here \n𝜙\nϕ is the Euler totient function.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos251-erdos-251",
+  "txt": "NUMBER THEORY\n\nErdős problem 251\nIs \n∑\n𝑛\n=\n1\n∞\n𝑝\n𝑛\n2\n𝑛\n∑\nn=1\n∞\n\t​\n\n2\nn\np\nn\n\t​\n\n\t​\n\n irrational? Here \n𝑝\n𝑛\np\nn\n\t​\n\n is the \n𝑛\nn-th prime (\n𝑝\n1\n=\n2\n,\n𝑝\n2\n=\n3\n,\n…\np\n1\n\t​\n\n=2,p\n2\n\t​\n\n=3,…).\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos252-erdos-252",
+  "txt": "NUMBER THEORY\n\nErdős problem 252\nErdős Problem 252: irrationality of the sum for a given \n𝑘\nk.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos257-erdos-257",
+  "txt": "NUMBER THEORY\n\nErdős problem 257\nLet \n𝐴\n⊆\n𝑁\nA⊆N be an infinite set. Is \n∑\n𝑛\n∈\n𝐴\n1\n2\n𝑛\n−\n1\n∑\nn∈A\n\t​\n\n2\nn\n−1\n1\n\t​\n\n irrational?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos263-erdos-263-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 263 - part i\nIs \n𝑎\n𝑛\n=\n2\n2\n𝑛\na\nn\n\t​\n\n=2\n2\nn\n an irrationality sequence in the above sense?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos264-erdos-264-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 264 - part ii\nIs \n𝑛\n!\nn! an example of an irrationality sequence?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos269-erdos-269-variants-irrational",
+  "txt": "NUMBER THEORY\n\nErdős problem 269 - irrational\nLet \n𝑃\nP be a finite set of primes with \n∣\n𝑃\n∣\n≥\n2\n∣P∣≥2 and let \n{\n𝑎\n1\n<\n𝑎\n2\n<\n…\n \n}\n{a\n1\n\t​\n\n<a\n2\n\t​\n\n<…} be the set of positive integers whose prime factors are all in \n𝑃\nP. Is the sum \n∑\n𝑛\n=\n1\n∞\n1\n[\n𝑎\n1\n,\n…\n,\n𝑎\n𝑛\n]\n∑\nn=1\n∞\n\t​\n\n[a\n1\n\t​\n\n,…,a\nn\n\t​\n\n]\n1\n\t​\n\n irrational?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos272-erdos-272-variants-szabo-strong",
+  "txt": "COMBINATORICS\n\nSOLVED\nErdős problem 272 - szabo strong\nSzabo asks whether the maximal \n𝑡\nt is given by \n𝑁\n2\n2\n+\n𝑂\n(\n𝑁\n)\n2\nN\n2\n\t​\n\n+O(N)\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n-"
+ },
+ {
+  "href": "/problems/erdos274-herzog-schonheim",
+  "txt": "GROUP THEORY\n\nErdős problem 274 - herzog schonheim\nLet \n𝐺\nG be a group, and let \n𝐴\n=\n{\n𝑎\n1\n𝐺\n1\n,\n…\n,\n𝑎\n𝑘\n𝐺\n𝑘\n}\nA={a\n1\n\t​\n\nG\n1\n\t​\n\n,…,a\nk\n\t​\n\nG\nk\n\t​\n\n} be a finite system of left cosets of subgroups \n𝐺\n1\n,\n…\n,\n𝐺\n𝑘\nG\n1\n\t​\n\n,…,G\nk\n\t​\n\n of \n𝐺\nG. Herzog and Schönheim conjectured that if \n𝐴\nA forms a partition of \n𝐺\nG with \n𝑘\n>\n1\nk>1, then the indices \n[\n𝐺\n:\n𝐺\n1\n]\n,\n…\n,\n[\n𝐺\n:\n𝐺\n𝑘\n]\n[G:G\n1\n\t​\n\n],…,[G:G\nk\n\t​\n\n] cannot be distinct.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos282-erdos-282",
+  "txt": "COMBINATORICS\n\nErdős problem 282\nLet \n𝐴\n⊆\n𝑁\nA⊆N be an infinite set and consider the following greedy algorithm for a rational \n𝑥\n∈\n(\n0\n,\n1\n)\nx∈(0,1): choose the minimal \n𝑛\n∈\n𝐴\nn∈A such that \n𝑛\n≥\n1\n/\n𝑥\nn≥1/x and repeat with \n𝑥\nx replaced by \n𝑥\n−\n1\n𝑛\nx−\nn\n1\n\t​\n\n. If this terminates after finitely many steps then this produces a representation of \n𝑥\nx as the sum…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos287-erdos-287",
+  "txt": "NUMBER THEORY\n\nErdős problem 287\nLet \n𝑘\n≥\n2\nk≥2. Is it true that, for any distinct integers \n1\n<\n𝑛\n1\n<\n⋯\n<\n𝑛\n𝑘\n1<n\n1\n\t​\n\n<⋯<n\nk\n\t​\n\n such that \n∑\n𝑖\n=\n1\n𝑘\n1\n𝑛\n𝑖\n=\n1\n∑\ni=1\nk\n\t​\n\nn\ni\n\t​\n\n1\n\t​\n\n=1, we must have \nmax\n⁡\n(\n𝑛\n𝑖\n+\n1\n−\n𝑛\n𝑖\n)\n≥\n3\nmax(n\ni+1\n\t​\n\n−n\ni\n\t​\n\n)≥3?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos291-erdos-291-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 291 - part i\nLet \n𝑛\n≥\n1\nn≥1 and define \n𝐿\n𝑛\nL\nn\n\t​\n\n to be the least common multiple of \n{\n1\n,\n…\n,\n𝑛\n}\n{1,…,n} and \n𝑎\n𝑛\na\nn\n\t​\n\n by \n∑\n1\n≤\n𝑘\n≤\n𝑛\n1\n𝑘\n=\n𝑎\n𝑛\n𝐿\n𝑛\n∑\n1≤k≤n\n\t​\n\nk\n1\n\t​\n\n=\nL\nn\n\t​\n\na\nn\n\t​\n\n\t​\n\n. Is it true that \n(\n𝑎\n𝑛\n,\n𝐿\n𝑛\n)\n=\n1\n(a\nn\n\t​\n\n,L\nn\n\t​\n\n)=1 occurs for infinitely many \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos291-erdos-291-variants-shiu-heuristic-density-zero",
+  "txt": "NUMBER THEORY\n\nErdős problem 291 - shiu heuristic density zero\nIn particular, there should be infinitely many \n𝑛\nn, but the set of such \n𝑛\nn should have density zero. Unfortunately this heuristic is difficult to turn into a proof.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos304-upper-bound",
+  "txt": "NUMBER THEORY\n\nErdős problem 304 - upper bound\nIs it true that \n𝑁\n(\n𝑏\n)\n≪\nlog\n⁡\nlog\n⁡\n𝑏\nN(b)≪loglogb?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos307-erdos-307",
+  "txt": "NUMBER THEORY\n\nErdős problem 307\nAre there two finite set of primes \n𝑃\nP and \n𝑄\nQ such that \n1\n=\n(\n∑\n𝑝\n∈\n𝑃\n1\n𝑝\n)\n(\n∑\n𝑞\n∈\n𝑄\n1\n𝑞\n)\n1=(∑\np∈P\n\t​\n\np\n1\n\t​\n\n)(∑\nq∈Q\n\t​\n\nq\n1\n\t​\n\n) ? Asked by Barbeau [Ba76]. [Ba76] Barbeau, E. J., _Computer challenge corner: Problem 477: A brute force program._\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos313-erdos-313-variants-primary-pseudoperfect-are-infinite",
+  "txt": "NUMBER THEORY\n\nErdős problem 313 - primary pseudoperfect are infinite\nIt is conjectured that the set of primary pseudoperfect numbers is infinite.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos317-erdos-317-variants-claim2",
+  "txt": "NUMBER THEORY\n\nErdős problem 317 - claim 2\nIs it true that for sufficiently large \n𝑛\nn, for any \n𝛿\n𝑘\n∈\n{\n−\n1\n,\n0\n,\n1\n}\nδ\nk\n\t​\n\n∈{−1,0,1}, \n∣\n∑\n1\n≤\n𝑘\n≤\n𝑛\n𝛿\n𝑘\n𝑘\n∣\n>\n1\n[\n1\n,\n…\n,\n𝑛\n]\n\t​\n\n∑\n1≤k≤n\n\t​\n\nk\nδ\nk\n\t​\n\n\t​\n\n\t​\n\n>\n[1,…,n]\n1\n\t​\n\n whenever the left-hand side is not zero?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos323-erdos-323-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 323 - part i\nIs it true that \n𝑓\n𝑘\n,\n𝑘\n(\n𝑥\n)\n≫\n𝜖\n𝑥\n1\n−\n𝜖\nf\nk,k\n\t​\n\n(x)≫\nϵ\n\t​\n\nx\n1−ϵ\n for all \n𝜖\n>\n0\nϵ>0? This would have significant applications to Waring's problem. Erdős and Graham describe this as 'unattackable by the methods at our disposal'.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos323-erdos-323-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 323 - part ii\nIs it true that if \n𝑚\n<\n𝑘\nm<k then \n𝑓\n𝑘\n,\n𝑚\n(\n𝑥\n)\n≫\n𝑥\n𝑚\n/\n𝑘\nf\nk,m\n\t​\n\n(x)≫x\nm/k\n for sufficiently large \n𝑥\nx?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos323-erdos-323-variants-k-gt-2",
+  "txt": "NUMBER THEORY\n\nErdős problem 323 - k gt 2\nFor \n𝑘\n>\n2\nk>2 it is not known if \n𝑓\n𝑘\n,\n𝑘\n(\n𝑥\n)\n=\n𝑜\n(\n𝑥\n)\nf\nk,k\n\t​\n\n(x)=o(x).\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos324-erdos-324-variants-quintic",
+  "txt": "NUMBER THEORY\n\nErdős problem 324 - quintic\nProbably \n𝑓\n(\n𝑥\n)\n=\n𝑥\n5\nf(x)=x\n5\n has the property that the sums \n𝑓\n(\n𝑎\n)\n+\n𝑓\n(\n𝑏\n)\nf(a)+f(b) with \n𝑎\n<\n𝑏\na<b nonnegative integers are distinct.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos325-erdos-325",
+  "txt": "NUMBER THEORY\n\nErdős problem 325\nWriting \n𝑓\n𝑘\n,\n3\n(\n𝑥\n)\nf\nk,3\n\t​\n\n(x) for the number of integers \n≤\n𝑥\n≤x which are the sum of three \n𝑘\nkth powers, is it true that \n𝑓\n𝑘\n,\n3\n(\n𝑥\n)\n≫\n𝑥\n(\n3\n/\n𝑘\n)\nf\nk,3\n\t​\n\n(x)≫x\n(\n3/k)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos340-erdos-340",
+  "txt": "COMBINATORICS\n\nErdős problem 340\nLet \n𝐴\n=\n{\n1\n,\n2\n,\n4\n,\n8\n,\n13\n,\n21\n,\n31\n,\n45\n,\n66\n,\n81\n,\n97\n,\n…\n}\nA={1,2,4,8,13,21,31,45,66,81,97,…} be the greedy Sidon sequence: we begin with \n1\n1 and iteratively include the next smallest integer that preserves the Sidon property (i.e. there are no non-trivial solutions to \n𝑎\n+\n𝑏\n=\n𝑐\n+\n𝑑\na+b=c+d). What is the order of growth of \n𝐴\nA? Is it true that…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos340-erdos-340-variants-sub-hasposdensity",
+  "txt": "COMBINATORICS\n\nErdős problem 340 - sub has Pos Density\nErdős and Graham [ErGr80] also asked about the difference set \n𝐴\n−\n𝐴\nA−A and whether this has positive density. [ErGr80] Erdős, P. and Graham, R., Old and new problems and results in combinatorial number theory. Monographies de L'Enseignement Mathematique (1980).\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos354-erdos-354-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 354 - part i\nLet \n𝛼\n,\n𝛽\n∈\n𝑅\n>\n0\nα,β∈R\n>0\n\t​\n\n such that \n𝛼\n/\n𝛽\nα/β is irrational. Is the multiset \n{\n⌊\n𝛼\n⌋\n,\n⌊\n2\n𝛼\n⌋\n,\n⌊\n4\n𝛼\n⌋\n,\n…\n}\n∪\n{\n⌊\n𝛽\n⌋\n,\n⌊\n2\n𝛽\n⌋\n,\n⌊\n4\n𝛽\n⌋\n,\n…\n}\n{⌊α⌋,⌊2α⌋,⌊4α⌋,…}∪{⌊β⌋,⌊2β⌋,⌊4β⌋,…} complete?\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos357-erdos-357-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 357 - part i\nLet \n𝑓\n(\n𝑛\n)\nf(n) be the maximal \n𝑘\nk such that there exist integers \n1\n≤\n𝑎\n1\n<\n…\n<\n𝑎\n𝑘\n≤\n𝑛\n1≤a\n1\n\t​\n\n<…<a\nk\n\t​\n\n≤n such that all sums of the shape \n∑\n𝑢\n≤\n𝑖\n≤\n𝑣\n𝑎\n𝑖\n∑\nu≤i≤v\n\t​\n\na\ni\n\t​\n\n are distinct. Is \n𝑓\n(\n𝑛\n)\n=\n𝑜\n(\n𝑛\n)\nf(n)=o(n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos357-erdos-357-variants-infinite-set-density",
+  "txt": "NUMBER THEORY\n\nErdős problem 357 - infinite set density\nSuppose \n𝐴\nA is an infinite set such that all finite sums of consecutive terms of \n𝐴\nA are distinct. Then it is conjectured that \n𝐴\nA has density 0.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos357-erdos-357-variants-infinite-set-sum",
+  "txt": "NUMBER THEORY\n\nErdős problem 357 - infinite set sum\nSuppose \n𝐴\nA is an infinite set such that all finite sums of consecutive terms of \n𝐴\nA are distinct. Then it is conjectured that the sum \n∑\n𝑘\n1\n𝑎\n𝑘\n∑\nk\n\t​\n\na\nk\n\t​\n\n1\n\t​\n\n converges.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos357-erdos-357-variants-monotone-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 357 - monotone, part i\nLet \nℎ\n(\n𝑛\n)\nh(n) be the maximal \n𝑘\nk such that there exist integers \n1\n≤\n𝑎\n1\n≤\n…\n≤\n𝑎\n𝑘\n≤\n𝑛\n1≤a\n1\n\t​\n\n≤…≤a\nk\n\t​\n\n≤n such that all sums of the shape \n∑\n𝑢\n≤\n𝑖\n≤\n𝑣\n𝑎\n𝑖\n∑\nu≤i≤v\n\t​\n\na\ni\n\t​\n\n are distinct. Is \nℎ\n(\n𝑛\n)\n=\n𝑜\n(\n𝑛\n)\nh(n)=o(n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos359-erdos-359-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 359 - part i\nLet \n𝑎\n1\n<\n𝑎\n2\n<\n⋯\na\n1\n\t​\n\n<a\n2\n\t​\n\n<⋯ be an infinite sequence of integers such that \n𝑎\n1\n=\n1\na\n1\n\t​\n\n=1 and \n𝑎\n𝑖\n+\n1\na\ni+1\n\t​\n\n is the least integer which is not a sum of consecutive earlier \n𝑎\n𝑗\na\nj\n\t​\n\ns. Show that \n𝑎\n𝑘\n/\n𝑘\n→\n∞\na\nk\n\t​\n\n/k→∞.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos359-erdos-359-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 359 - part ii\nLet \n𝑎\n1\n<\n𝑎\n2\n<\n⋯\na\n1\n\t​\n\n<a\n2\n\t​\n\n<⋯ be an infinite sequence of integers such that \n𝑎\n1\n=\n1\na\n1\n\t​\n\n=1 and \n𝑎\n𝑖\n+\n1\na\ni+1\n\t​\n\n is the least integer which is not a sum of consecutive earlier \n𝑎\n𝑗\na\nj\n\t​\n\ns. Show that \n𝑎\n𝑘\n/\n𝑘\n1\n+\n𝑐\n→\n0\na\nk\n\t​\n\n/k\n1+c\n→0 for any \n𝑐\n>\n0\nc>0.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos359-erdos-359-variants-isgoodfor-1-asymptotic",
+  "txt": "NUMBER THEORY\n\nErdős problem 359 - is Good For 1 asymptotic\nSuppose monotone sequence \n𝐴\nA satisfies the following: A 0 = 1 and for all j, A (j + 1) is the smallest natural number that cannot be written as a sum of consecutive terms of A 0, ..., A j. Then it is conjectured that \n𝑎\n𝑘\n \n𝑘\nlog\n⁡\n𝑘\nlog\n⁡\nlog\n⁡\n𝑘\na\nk\n\t​\n\n \nloglogk\nklogk\n\t​\n\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos364-erdos-364",
+  "txt": "NUMBER THEORY\n\nErdős problem 364\nThere is no consecutive triple of powerful numbers.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos364-erdos-364-variants-strong",
+  "txt": "NUMBER THEORY\n\nErdős problem 364 - strong\nErdős [Er76d] conjectured a stronger statement: if \n𝑛\n𝑘\nn\nk\n\t​\n\n is the \n𝑘\nkth powerful number, then \n𝑛\n𝑘\n+\n2\n−\n𝑛\n𝑘\n>\n𝑛\n𝑘\n𝑐\nn\nk+2\n\t​\n\n−n\nk\n\t​\n\n>n\nk\nc\n\t​\n\n for some constant \n𝑐\n>\n0\nc>0. [Er76d] Erdős, P., Problems and results on number theoretic properties of consecutive integers and related questions. Proceedings of the Fifth Manitoba Conference on Numerical…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos366-erdos-366",
+  "txt": "NUMBER THEORY\n\nErdős problem 366\nAre there any \n2\n2-full \n𝑛\nn such that \n𝑛\n+\n1\nn+1 is \n3\n3-full?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos371-erdos-371",
+  "txt": "NUMBER THEORY\n\nErdős problem 371\nLet \n𝑃\n(\n𝑛\n)\nP(n) denote the largest prime factor of \n𝑛\nn. Show that the set of \n𝑛\nn with \n𝑃\n(\n𝑛\n+\n1\n)\n>\n𝑃\n(\n𝑛\n)\nP(n+1)>P(n) has density \n1\n2\n2\n1\n\t​\n\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos373-erdos-373",
+  "txt": "NUMBER THEORY\n\nErdős problem 373\nShow that the equation n!=a_1!a_2!···a_k!, with n−1 > a_1 ≥ a_2 ≥ ··· ≥ a_k, has only finitely many solutions.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos373-erdos-373-variants-maximal-solution",
+  "txt": "NUMBER THEORY\n\nErdős problem 373 - maximal solution\nHickerson conjectured the largest solution the equation n!=a_1!a_2!···a_k!, with n−1 > a_1 ≥ a_2 ≥ ··· ≥ a_k, is 16!=14!5!2!.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos373-erdos-373-variants-suranyi",
+  "txt": "NUMBER THEORY\n\nErdős problem 373 - suranyi\nSurányi was the first to conjecture that the only non-trivial solution to a!b!=n! is 6!7!=10!.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos375-erdos-375",
+  "txt": "NUMBER THEORY\n\nErdős problem 375\nIs Erdos375Prop true?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos376-erdos-376",
+  "txt": "NUMBER THEORY\n\nErdős problem 376\nAre there infinitely many \n𝑛\nn such that \n(\n2\n𝑛\n𝑛\n)\n(\nn\n2n\n\t​\n\n) is coprime to \n105\n105?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos383-erdos-383",
+  "txt": "NUMBER THEORY\n\nErdős problem 383\nIs it true that for every \n𝑘\nk there are infinitely many primes \n𝑝\np such that the largest prime divisor of \n∏\n𝑖\n=\n0\n𝑘\n(\n𝑝\n2\n+\n𝑖\n)\n∏\ni=0\nk\n\t​\n\n(p\n2\n+i) is \n𝑝\np?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos385-erdos-385-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 385 - part i\nLet \n𝐹\n(\n𝑛\n)\n:\n=\nmax\n⁡\n{\n𝑚\n+\n𝑝\n(\n𝑚\n)\n∣\n𝑚\n<\n𝑛\n composite\n}\n}\nF(n):=max{m+p(m)∣m<n composite}} where \n𝑝\n(\n𝑚\n)\np(m) is the least prime divisor of \n𝑚\nm. Is it true that \n𝐹\n(\n𝑛\n)\n>\n𝑛\nF(n)>n for all sufficiently large \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos386-erdos-386-variants-two",
+  "txt": "NUMBER THEORY\n\nErdős problem 386 - two\nCan \n(\n𝑛\n2\n)\n(\n2\nn\n\t​\n\n) be the product of consecutive primes infinitely often?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos396-erdos-396",
+  "txt": "NUMBER THEORY\n\nErdős problem 396\nIs it true that for every \n𝑘\nk there exists \n𝑛\nn such that \n∏\n0\n≤\n𝑖\n≤\n𝑘\n(\n𝑛\n−\n𝑖\n)\n∣\n(\n2\n𝑛\n𝑛\n)\n?\n∏\n0≤i≤k\n\t​\n\n(n−i)∣(\nn\n2n\n\t​\n\n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos400-erdos-400-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 400 - part i\nCan one show that \n∑\n𝑛\n≤\n𝑥\n𝑔\n𝑘\n(\n𝑛\n)\n∼\n𝑐\n𝑘\n𝑥\nlog\n⁡\n𝑥\n∑\nn≤x\n\t​\n\ng\nk\n\t​\n\n(n)∼c\nk\n\t​\n\nxlogx for some constant \n𝑐\n𝑘\nc\nk\n\t​\n\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos406-erdos-406-variants-one-two",
+  "txt": "NUMBER THEORY\n\nErdős problem 406 - one two\nIf we only allow the digits \n1\n1 and \n2\n2 then \n2\n15\n2\n15\n seems to be the largest such power of \n2\n2.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos409-erdos-409-variants-sigma-termination",
+  "txt": "NUMBER THEORY\n\nErdős problem 409 - sigma termination\nIf \n𝑛\n>\n1\nn>1 then the iteration \n𝑛\n↦\n𝜎\n(\n𝑛\n)\n−\n1\nn↦σ(n)−1 necessarily reaches a prime. Note: this is open — it is not clear that the σ iteration always terminates, since it is non-decreasing (unlike the φ iteration which is strictly decreasing).\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos410-erdos-410",
+  "txt": "NUMBER THEORY\n\nErdős problem 410\nLet \n𝜎\n1\n(\n𝑛\n)\n=\n𝜎\n(\n𝑛\n)\nσ\n1\n\t​\n\n(n)=σ(n), the sum of divisors function, and \n𝜎\n𝑘\n(\n𝑛\n)\n=\n𝜎\n(\n𝜎\n𝑘\n−\n1\n(\n𝑛\n)\n)\nσ\nk\n\t​\n\n(n)=σ(σ\nk−1\n\t​\n\n(n)). Is it true that \nlim\n⁡\n𝑘\n→\n∞\n𝜎\n𝑘\n(\n𝑛\n)\n1\n𝑘\n=\n∞\nlim\nk→∞\n\t​\n\nσ\nk\n\t​\n\n(n)\nk\n1\n\t​\n\n=∞? This is problem (iii) from Erdos, Granville, Pomerance, Spiro \"On the normal behavior of the iterates of some arithmetical functions\" (page 169 of the book \"Analytic Number Theory\"…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos412-erdos-412",
+  "txt": "NUMBER THEORY\n\nErdős problem 412\nLet \n𝜎\n1\n(\n𝑛\n)\n=\n𝜎\n(\n𝑛\n)\nσ\n1\n\t​\n\n(n)=σ(n), the sum of divisors function, and \n𝜎\n𝑘\n(\n𝑛\n)\n=\n𝜎\n(\n𝜎\n𝑘\n−\n1\n(\n𝑛\n)\n)\nσ\nk\n\t​\n\n(n)=σ(σ\nk−1\n\t​\n\n(n)). Is it true that, for every \n𝑚\n,\n𝑛\n≥\n2\nm,n≥2, there exist some \n𝑖\n,\n𝑗\ni,j such that \n𝜎\n𝑖\n(\n𝑚\n)\n=\n𝜎\n𝑗\n(\n𝑛\n)\nσ\ni\n\t​\n\n(m)=σ\nj\n\t​\n\n(n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos413-erdos-413-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 413 - part i\nAre there infinitely many barriers for ω?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos414-erdos-414",
+  "txt": "NUMBER THEORY\n\nErdős problem 414\nLet \nℎ\n1\n(\n𝑛\n)\n=\nℎ\n(\n𝑛\n)\nh\n1\n\t​\n\n(n)=h(n) and \nℎ\n𝑘\n(\n𝑛\n)\n=\nℎ\n(\nℎ\n𝑘\n−\n1\n(\n𝑛\n)\n)\nh\nk\n\t​\n\n(n)=h(h\nk−1\n\t​\n\n(n)). Is it true, for any \n𝑚\n,\n𝑛\nm,n, there exist \n𝑖\ni and \n𝑗\nj such that \nℎ\n𝑖\n(\n𝑚\n)\n=\nℎ\n𝑗\n(\n𝑛\n)\nh\ni\n\t​\n\n(m)=h\nj\n\t​\n\n(n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos416-erdos-416-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 416 - part i\nLet V(x) count the number of n≤x such that ϕ(m)=n is solvable. Does V(2x)/V(x)→2 ?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos428-erdos-428",
+  "txt": "NUMBER THEORY\n\nErdős problem 428\nIs there a set \n𝐴\n⊆\n𝑁\nA⊆N such that, for infinitely many \n𝑛\nn, all of \n𝑛\n−\n𝑎\nn−a are prime for all \n𝑎\n∈\n𝐴\na∈A with \n0\n<\n𝑎\n<\n𝑛\n0<a<n and \nlim inf\n⁡\n∣\n𝐴\n∩\n[\n1\n,\n𝑥\n]\n∣\n𝜋\n(\n𝑥\n)\n>\n0\n?\nliminf\nπ(x)\n∣A∩[1,x]∣\n\t​\n\n>0?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos445-erdos-445",
+  "txt": "NUMBER THEORY\n\nErdős problem 445\nIs it true that, for any \n𝑐\n>\n1\n/\n2\nc>1/2, if \n𝑝\np is a sufficiently large prime then, for any \n𝑛\n≥\n0\nn≥0, there exist \n𝑎\n,\n𝑏\n∈\n(\n𝑛\n,\n𝑛\n+\n𝑝\n𝑐\n)\na,b∈(n,n+p\nc\n) such that \n𝑎\n𝑏\n≡\n1\n(\nm\no\nd\n𝑝\n)\nab≡1(modp)? This is discussed in this MathOverflow question [MathOverflow].\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos454-erdos-454",
+  "txt": "NUMBER THEORY\n\nErdős problem 454\nIs it true that limsup (fun n => (f n - 2 * n.nth Prime : ℕ∞)) atTop = ⊤?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos455-erdos-455",
+  "txt": "NUMBER THEORY\n\nErdős problem 455\nLet q : ℕ → ℕ be a strictly increasing sequence of primes such that q (n + 2) - q (n + 1) ≥ q (n + 1) - q n. Must lim q n / (n ^ 2) = ∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos456-erdos-456-parts-iii",
+  "txt": "NUMBER THEORY\n\nErdős problem 456 - part iii\nAre there infinitely many primes \n𝑝\np such that \n𝑝\n−\n1\np−1 is the only \n𝑛\nn for which \n𝑚\n𝑛\n=\n𝑝\nm\nn\n\t​\n\n=p?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos458-erdos-458",
+  "txt": "NUMBER THEORY\n\nErdős problem 458\nLet \nlcm\n⁡\n(\n1\n,\n…\n,\n𝑛\n)\nlcm(1,…,n) denote the least common multiple of \n{\n1\n,\n…\n,\n𝑛\n}\n{1,…,n}. Let \n𝑝\n𝑘\np\nk\n\t​\n\n be the \n𝑘\nk-th prime. Is it true that for all \n𝑘\n≥\n1\nk≥1, \nlcm\n⁡\n(\n1\n,\n…\n,\n𝑝\n𝑘\n+\n1\n−\n1\n)\n<\n𝑝\n𝑘\n⋅\nlcm\n⁡\n(\n1\n,\n…\n,\n𝑝\n𝑘\n)\nlcm(1,…,p\nk+1\n\t​\n\n−1)<p\nk\n\t​\n\n⋅lcm(1,…,p\nk\n\t​\n\n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos463-erdos-463",
+  "txt": "NUMBER THEORY\n\nErdős problem 463\nIs there a function \n𝑓\nf with \n𝑓\n(\n𝑛\n)\n→\n∞\nf(n)→∞ as \n𝑛\n→\n∞\nn→∞ such that, for all large \n𝑛\nn, there is a composite number \n𝑚\nm such that \n𝑛\n+\n𝑓\n(\n𝑛\n)\n<\n𝑚\n<\n𝑛\n+\n𝑝\n(\n𝑚\n)\nn+f(n)<m<n+p(m) Here \n𝑝\n(\n𝑚\n)\np(m) is the least prime factor of \n𝑚\nm.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos479-erdos-479",
+  "txt": "NUMBER THEORY\n\nErdős problem 479\nIs it true that, for every integer \n𝑘\n≠\n1\nk\n\n=1, there are infinitely many \n𝑛\nn such that \n2\n𝑛\n≡\n𝑘\n(\nm\no\nd\n𝑛\n)\n2\nn\n≡k(modn)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos495-erdos-495",
+  "txt": "NUMBER THEORY\n\nErdős problem 495\nLet \n𝛼\n,\n𝛽\n∈\n𝑅\nα,β∈R. Is it true that\nlim inf\n⁡\n𝑛\n→\n∞\n𝑛\n∥\n𝑛\n𝛼\n∥\n∥\n𝑛\n𝛽\n∥\n=\n0\nliminf\nn→∞\n\t​\n\nn∥nα∥∥nβ∥=0? This is also known as the Littlewood conjecture.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos517-erdos-517",
+  "txt": "COMPLEX FUNCTIONS\n\nErdős problem 517\nIf f(z) = ∑ aₖzⁿₖ is an entire function (with aₖ ≠ 0 for all k) such that nₖ / k → ∞, is it true that f assumes every value infinitely often?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos535-erdos-535",
+  "txt": "COMBINATORICS\n\nErdős problem 535\nLet \n𝑟\n≥\n3\nr≥3, and let \n𝑓\n𝑟\n(\n𝑁\n)\nf\nr\n\t​\n\n(N) denote the size of the largest subset of \n{\n1\n,\n…\n,\n𝑁\n}\n{1,…,N} such that no subset of size \n𝑟\nr has the same pairwise greatest common divisor between all elements. Erdős [Er64] proved that \n𝑓\n3\n(\n𝑁\n)\n>\n𝑁\n𝑐\n/\nlog\n⁡\nlog\n⁡\n𝑁\nf\n3\n\t​\n\n(N)>N\nc/loglogN\n for some constant \n𝑐\n>\n0\nc>0, and conjectured this should also be an upper…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos535-erdos-535-variants-first-open-case",
+  "txt": "COMBINATORICS\n\nErdős problem 535 - first open case\nThe first open case of Erdős Problem 535 is \n𝑟\n=\n3\nr=3: there should exist \n𝑐\n>\n0\nc>0 such that \n𝑓\n3\n(\n𝑁\n)\n≤\n𝑁\n𝑐\n/\nlog\n⁡\nlog\n⁡\n𝑁\nf\n3\n\t​\n\n(N)≤N\nc/loglogN\n for all sufficiently large \n𝑁\nN.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos564-erdos-564",
+  "txt": "COMBINATORICS\n\nErdős problem 564\nLet \n𝑅\n3\n(\n𝑛\n)\nR\n3\n\t​\n\n(n) be the minimal \n𝑚\nm such that if the edges of the \n3\n3-uniform hypergraph on \n𝑚\nm vertices are \n2\n2-coloured then there is a monochromatic copy of the complete \n3\n3-uniform hypergraph on \n𝑛\nn vertices. Is there some constant \n𝑐\n>\n0\nc>0 such that \n𝑅\n3\n(\n𝑛\n)\n≥\n2\n2\n𝑐\n𝑛\n?\nR\n3\n\t​\n\n(n)≥2\n2\ncn\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos579-erdos-579",
+  "txt": "COMBINATORICS\n\nErdős problem 579\nLet \n𝛿\n>\n0\nδ>0. If \n𝑛\nn is sufficiently large and \n𝐺\nG is a graph on \n𝑛\nn vertices with no \n𝐾\n2\n,\n2\n,\n2\nK\n2,2,2\n\t​\n\n (the octahedron) and at least \n𝛿\n𝑛\n2\nδn\n2\n edges, must \n𝐺\nG contain an independent set of size \n≫\n𝛿\n𝑛\n≫\nδ\n\t​\n\nn? This is a problem of Erdős, Hajnal, Sós, and Szemerédi [EHSS83]. It is **open**; they proved the statement…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos600-erdos-600-parts-i",
+  "txt": "COMBINATORICS\n\nErdős problem 600 - part i\nLet \n𝑟\n≥\n2\nr≥2. Is it true that \n𝑒\n(\n𝑛\n,\n𝑟\n+\n1\n)\n−\n𝑒\n(\n𝑛\n,\n𝑟\n)\n→\n∞\ne(n,r+1)−e(n,r)→∞ as \n𝑛\n→\n∞\nn→∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos617-erdos-617",
+  "txt": "COMBINATORICS\n\nErdős problem 617\nLet \n𝑟\n≥\n3\nr≥3. If the edges of \n𝐾\n𝑟\n2\n+\n1\nK\nr\n2\n+1\n\t​\n\n are \n𝑟\nr-coloured then there exist \n𝑟\n+\n1\nr+1 vertices with at least one colour missing on the edges of the induced \n𝐾\n𝑟\n+\n1\nK\nr+1\n\t​\n\n. In other words, there is no balanced colouring. A conjecture of Erdős and Gyárfás [ErGy99].\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos624-erdos-624",
+  "txt": "COMBINATORICS\n\nErdős problem 624\nLet \n𝑋\nX be a finite set of size \n𝑛\nn and \n𝐻\n(\n𝑛\n)\nH(n) be such that there is a function \n𝑓\n:\n{\n𝐴\n:\n𝐴\n⊆\n𝑋\n}\n→\n𝑋\nf:{A:A⊆X}→X so that for every \n𝑌\n⊆\n𝑋\nY⊆X with \n∣\n𝑌\n∣\n≥\n𝐻\n(\n𝑛\n)\n∣Y∣≥H(n) we have \n{\n𝑓\n(\n𝐴\n)\n:\n𝐴\n⊆\n𝑌\n}\n=\n𝑋\n{f(A):A⊆Y}=X. Prove that \n𝐻\n(\n𝑛\n)\n−\nlog\n⁡\n2\n𝑛\n→\n∞\nH(n)−log\n2\n\t​\n\nn→∞.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos647-erdos-647",
+  "txt": "NUMBER THEORY\n\nErdős problem 647\nLet \n𝜏\n(\n𝑛\n)\nτ(n) count the number of divisors of \n𝑛\nn. Is there some \n𝑛\n>\n24\nn>24 such that \nmax\n⁡\n𝑚\n<\n𝑛\n(\n𝑚\n+\n𝜏\n(\n𝑚\n)\n)\n≤\n𝑛\n+\n2\n?\nmax\nm<n\n\t​\n\n(m+τ(m))≤n+2?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos653-erdos-653",
+  "txt": "COMBINATORICS\n\nErdős problem 653\nLet \n𝑥\n1\n,\n…\n,\n𝑥\n𝑛\n∈\n𝑅\n2\nx\n1\n\t​\n\n,…,x\nn\n\t​\n\n∈R\n2\n and let \n𝑅\n(\n𝑥\n𝑖\n)\n=\n#\n{\n∣\n𝑥\n𝑗\n−\n𝑥\n𝑖\n∣\n:\n𝑗\n≠\n𝑖\n}\nR(x\ni\n\t​\n\n)=#{∣x\nj\n\t​\n\n−x\ni\n\t​\n\n∣:j\n\n=i}, where the points are ordered such that \n𝑅\n(\n𝑥\n1\n)\n≤\n⋯\n≤\n𝑅\n(\n𝑥\n𝑛\n)\n.\nR(x\n1\n\t​\n\n)≤⋯≤R(x\nn\n\t​\n\n). Let \n𝑔\n(\n𝑛\n)\ng(n) be the maximum number of distinct values the \n𝑅\n(\n𝑥\n𝑖\n)\nR(x\ni\n\t​\n\n) can take. Is it true that \n𝑔\n(\n𝑛\n)\n≥\n(\n1\n−\n𝑜\n(\n1\n)\n)\n𝑛\ng(n)≥(1−o(1))n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos672-erdos-672",
+  "txt": "NUMBER THEORY\n\nErdős problem 672\nCan the product of an arithmetic progression of positive integers \n𝑛\n,\n𝑛\n+\n𝑑\n,\n.\n.\n.\n,\n𝑛\n+\n(\n𝑘\n−\n1\n)\n𝑑\nn,n+d,...,n+(k−1)d of length ≥ 4, with \n(\n𝑛\n,\n𝑑\n)\n=\n1\n(n,d)=1, be a perfect power?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos677-erdos-677",
+  "txt": "NUMBER THEORY\n\nErdős problem 677\nDenote by \n𝑀\n(\n𝑛\n,\n𝑘\n)\nM(n,k) the least common multiple of the finite set \n{\n𝑛\n+\n1\n,\n…\n,\n𝑛\n+\n𝑘\n}\n{n+1,…,n+k}. Is it true that for all \n𝑚\n≥\n𝑛\n+\n𝑘\nm≥n+k, we get \n𝑀\n(\n𝑚\n,\n𝑘\n)\n≠\n𝑀\n(\n𝑛\n,\n𝑘\n)\nM(m,k)\n\n=M(n,k)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos680-erdos-680-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 680 - part i\nIs it true that, for all sufficiently large \n𝑛\nn, there exists some \n𝑘\nk such that \n𝑝\n(\n𝑛\n+\n𝑘\n)\n>\n𝑘\n2\n+\n1\n,\np(n+k)>k\n2\n+1, where \n𝑝\n(\n𝑚\n)\np(m) denotes the least prime factor of \n𝑚\nm?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos680-erdos-680-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 680 - part ii\nCan one prove this is false if we replace \n𝑘\n2\n+\n1\nk\n2\n+1 by \n𝑒\n(\n1\n+\n𝜖\n)\n𝑘\n+\n𝐶\n𝜖\ne\n(1+ϵ)\nk\n\t​\n\n+C\nϵ\n\t​\n\n, for all \n𝜖\n>\n0\nϵ>0, where \n𝐶\n𝜖\n>\n0\nC\nϵ\n\t​\n\n>0 is some constant?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos681-erdos-681",
+  "txt": "NUMBER THEORY\n\nErdős problem 681\n**Erdős problem 681.** Is it true that for all large \n𝑛\nn there exists \n𝑘\nk such that \n𝑛\n+\n𝑘\nn+k is composite and \n𝑝\n(\n𝑛\n+\n𝑘\n)\n>\n𝑘\n2\np(n+k)>k\n2\n, where \n𝑝\n(\n𝑚\n)\np(m) is the least prime factor of \n𝑚\nm ?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos686-erdos-686-variants-four",
+  "txt": "NUMBER THEORY\n\nErdős problem 686 - four\nCan \n4\n4 be written as \n4\n=\n∏\n1\n≤\n𝑖\n≤\n𝑘\n(\n𝑚\n+\n𝑖\n)\n∏\n1\n≤\n𝑖\n≤\n𝑘\n(\n𝑛\n+\n𝑖\n)\n4=\n∏\n1≤i≤k\n\t​\n\n(n+i)\n∏\n1≤i≤k\n\t​\n\n(m+i)\n\t​\n\n for some \n𝑘\n≥\n2\nk≥2 and \n𝑚\n≥\n𝑛\n+\n𝑘\nm≥n+k?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos686-erdos-686-variants-twenty-five",
+  "txt": "NUMBER THEORY\n\nErdős problem 686 - twenty five\nCan \n25\n25 be written as \n25\n=\n∏\n1\n≤\n𝑖\n≤\n𝑘\n(\n𝑚\n+\n𝑖\n)\n∏\n1\n≤\n𝑖\n≤\n𝑘\n(\n𝑛\n+\n𝑖\n)\n25=\n∏\n1≤i≤k\n\t​\n\n(n+i)\n∏\n1≤i≤k\n\t​\n\n(m+i)\n\t​\n\n for some \n𝑘\n≥\n2\nk≥2 and \n𝑚\n≥\n𝑛\n+\n𝑘\nm≥n+k?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos688-erdos-688-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 688 - part ii\nIn particular, is it true that \n𝜖\n𝑛\n=\n𝑜\n(\n1\n)\nϵ\nn\n\t​\n\n=o(1)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos695-erdos-695",
+  "txt": "NUMBER THEORY\n\nErdős problem 695\nLet \n𝑞\n1\n<\n𝑞\n2\n<\n⋯\nq\n1\n\t​\n\n<q\n2\n\t​\n\n<⋯ be a sequence of primes such that \n𝑞\n𝑖\n+\n1\n≡\n1\n(\nm\no\nd\n𝑞\n𝑖\n)\nq\ni+1\n\t​\n\n≡1(modq\ni\n\t​\n\n). Is it true that \nlim\n⁡\n𝑘\n→\n∞\n𝑞\n𝑘\n1\n/\n𝑘\n=\n∞\n?\nlim\nk→∞\n\t​\n\nq\nk\n1/k\n\t​\n\n=∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos695-erdos-695-variants-upperbound",
+  "txt": "NUMBER THEORY\n\nErdős problem 695 - upper Bound\nIs there a sequence of primes \n𝑞\n1\n<\n𝑞\n2\n<\n⋯\nq\n1\n\t​\n\n<q\n2\n\t​\n\n<⋯ such that \n𝑞\n𝑖\n+\n1\n≡\n1\n(\nm\no\nd\n𝑞\n𝑖\n)\nq\ni+1\n\t​\n\n≡1(modq\ni\n\t​\n\n) and \n𝑞\n(\n𝑘\n)\n≤\nexp\n⁡\n(\n𝑘\n(\nlog\n⁡\n𝑘\n)\n1\n+\n𝑜\n(\n1\n)\n)\n?\nq(k)≤exp(k(logk)\n1+o(1)\n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos699-erdos-699",
+  "txt": "NUMBER THEORY\n\nErdős problem 699\n**Erdős Problem 699.** Is it true that for every \n1\n≤\n𝑖\n<\n𝑗\n≤\n𝑛\n/\n2\n1≤i<j≤n/2 there exists a prime \n𝑝\n≥\n𝑖\np≥i with \n𝑝\n∣\ngcd\n⁡\n(\n(\n𝑛\n𝑖\n)\n,\n(\n𝑛\n𝑗\n)\n)\np∣gcd((\ni\nn\n\t​\n\n),(\nj\nn\n\t​\n\n))?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos701-erdos-701",
+  "txt": "COMBINATORICS\n\nErdős problem 701\nLet \n𝐹\nF be a family of sets closed under taking subsets (i.e. if \n𝐵\n⊆\n𝐴\n∈\n𝐹\nB⊆A∈F then \n𝐵\n∈\n𝐹\nB∈F). There exists some element \n𝑥\nx such that whenever \n𝐹\n′\n⊆\n𝐹\nF\n′\n⊆F is an intersecting subfamily we have…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos723-erdos-723-variants-eq-12",
+  "txt": "COMBINATORICS\n\nErdős problem 723 - eq 12\nIt is open whether there exists a projective plane of order 12.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos726-erdos-726",
+  "txt": "NUMBER THEORY\n\nSOLVED\nErdős problem 726\nAs \n𝑛\n→\n∞\nn→∞ ranges over integers \n∑\n𝑝\n≤\n𝑛\n1\n𝑛\n∈\n(\n𝑝\n/\n2\n,\n𝑝\n)\n(\nm\no\nd\n𝑝\n)\n1\n𝑝\n∼\nlog\n⁡\nlog\n⁡\n𝑛\n2\n∑\np≤n\n\t​\n\n1\nn∈(p/2,p)(modp)\n\t​\n\np\n1\n\t​\n\n∼\n2\nloglogn\n\t​\n\n? A conjecture of Erdős, Graham, Ruzsa, and Straus [EGRS75]. By \n𝑛\n∈\n(\n𝑝\n/\n2\n,\n𝑝\n)\n(\nm\no\nd\n𝑝\n)\nn∈(p/2,p)(modp) we mean \n𝑛\n≡\n𝑟\n(\nm\no\nd\n𝑝\n)\nn≡r(modp) for some integer \n𝑟\nr with \n𝑝\n/\n2\n<\n𝑟\n<\n𝑝\np/2<r<p.\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n-"
+ },
+ {
+  "href": "/problems/erdos749-erdos-749",
+  "txt": "NUMBER THEORY\n\nErdős problem 749\nLet \n𝜖\n>\n0\nϵ>0. Does there exist \n𝐴\n⊆\n𝑁\nA⊆N such that the lower density of \n𝐴\n+\n𝐴\nA+A is at least \n1\n−\n𝜖\n1−ϵ and yet \n1\n𝐴\n∗\n1\n𝐴\n(\n𝑛\n)\n≪\n𝜖\n1\n1\nA\n\t​\n\n∗1\nA\n\t​\n\n(n)≪\nϵ\n\t​\n\n1 for all \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos770-erdos-770-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 770 - part i\nFor every prime p, does the density of integers with h n = p exist?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos770-erdos-770-variants-three",
+  "txt": "NUMBER THEORY\n\nErdős problem 770 - three\nIt is probably true that h n = 3 for infinitely many n.\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos774-erdos-774",
+  "txt": "COMBINATORICS\n\nErdős problem 774\nIs every proportionately dissociated (infinite) set the union of a finite number of dissociated sets?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos779-erdos-779",
+  "txt": "NUMBER THEORY\n\nErdős problem 779\nA Conjecture of Marian Deaconescu, see p.120 in https://doi.org/10.2307/2975810 [Needed to index shift in order to avoid trivial case \n𝑛\n=\n0\nn=0, where the conjecture is trivially false.]\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos789-erdos-789-variants-sq",
+  "txt": "COMBINATORICS\n\nErdős problem 789 - sq\nLet \nℎ\n(\n𝑛\n)\nh(n) be maximal such that if \n𝐴\n⊆\n𝑍\nA⊆Z with \n∣\n𝐴\n∣\n=\n𝑛\n∣A∣=n then there is \n𝐵\n⊆\n𝐴\nB⊆A with \n∣\n𝐵\n∣\n≥\nℎ\n(\n𝑛\n)\n∣B∣≥h(n) such that if \n𝑎\n1\n+\n⋯\n+\n𝑎\n𝑟\n=\n𝑏\n1\n+\n⋯\n+\n𝑏\n𝑠\na\n1\n\t​\n\n+⋯+a\nr\n\t​\n\n=b\n1\n\t​\n\n+⋯+b\ns\n\t​\n\n with \n𝑎\n𝑖\n,\n𝑏\n𝑖\n∈\n𝐵\na\ni\n\t​\n\n,b\ni\n\t​\n\n∈B then \n𝑟\n=\n𝑠\nr=s. Is \nℎ\n(\n𝑛\n)\n=\nΘ\n(\n𝑛\n)\nh(n)=Θ(\nn\n\t​\n\n)?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos812-erdos-812-parts-i",
+  "txt": "COMBINATORICS\n\nErdős problem 812 - part i\nIs it true that \n𝑅\n(\n𝑛\n+\n1\n)\n𝑅\n(\n𝑛\n)\n≥\n1\n+\n𝑐\nR(n)\nR(n+1)\n\t​\n\n≥1+c for some constant \n𝑐\n>\n0\nc>0, for all large \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos821-erdos-821",
+  "txt": "NUMBER THEORY\n\nErdős problem 821\nIs it true that, for every \n𝜖\n>\n0\nϵ>0, there exist infinitely many \n𝑛\nn such that \n𝑔\n(\n𝑛\n)\n>\n𝑛\n1\n−\n𝜖\ng(n)>n\n1−ϵ\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos828-erdos-828",
+  "txt": "NUMBER THEORY\n\nErdős problem 828\nIs it true that, for any \n𝑎\n∈\n𝑍\na∈Z, there are infinitely many \n𝑛\nn such that \n𝜙\n(\n𝑛\n)\n∣\n𝑛\n+\n𝑎\nϕ(n)∣n+a?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos828-erdos-828-variants-lehmer-conjecture",
+  "txt": "NUMBER THEORY\n\nErdős problem 828 - lehmer conjecture\nWhen \n𝑛\n>\n1\nn>1, Lehmer conjectured that \n𝜙\n(\n𝑛\n)\n∣\n𝑛\n−\n1\nϕ(n)∣n−1 if and only if \n𝑛\nn is prime.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos829-erdos-829",
+  "txt": "NUMBER THEORY\n\nErdős problem 829\n**Erdős Problem 829 (open).** Let \n𝐴\n⊆\n𝑁\nA⊆N be the set of perfect cubes. Is it true that \n(\n1\n𝐴\n∗\n1\n𝐴\n)\n(\n𝑛\n)\n≪\n(\nlog\n⁡\n𝑛\n)\n𝑂\n(\n1\n)\n(1\nA\n\t​\n\n∗1\nA\n\t​\n\n)(n)≪(logn)\nO(1)\n? That is, does there exist a natural number \n𝐶\nC such that the number of representations of \n𝑛\nn as a sum of two cubes is \n𝑂\n(\n(\nlog\n⁡\n𝑛\n)\n𝐶\n)\nO((logn)\nC\n) as \n𝑛\n→\n∞\nn→∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos835-erdos-835",
+  "txt": "COMBINATORICS\n\nErdős problem 835\nDoes there exist a \n𝑘\n>\n2\nk>2 such that the \n𝑘\nk-sized subsets of {1,...,2k} can be coloured with \n𝑘\n+\n1\nk+1 colours such that for every \n𝐴\n⊂\n{\n1\n,\n…\n,\n2\n𝑘\n}\nA⊂{1,…,2k} with \n∣\n𝐴\n∣\n=\n𝑘\n+\n1\n∣A∣=k+1 all \n𝑘\n+\n1\nk+1 colours appear among the \n𝑘\nk-sized subsets of \n𝐴\nA?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos849-erdos-849",
+  "txt": "NUMBER THEORY\n\nErdős problem 849\nIs it true that, for every integer \n𝑡\n≥\n1\nt≥1, there is some integer \n𝑎\na such that \n(\n𝑛\n𝑘\n)\n=\n𝑎\n(\nk\nn\n\t​\n\n)=a with \n1\n≤\n𝑘\n≤\n𝑛\n2\n1≤k≤\n2\nn\n\t​\n\n has exactly \n𝑡\nt solutions?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos853-erdos-853-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 853 - part i\nLet \n𝑑\n𝑛\n=\n𝑝\n𝑛\n+\n1\n−\n𝑝\n𝑛\nd\nn\n\t​\n\n=p\nn+1\n\t​\n\n−p\nn\n\t​\n\n, where \n𝑝\n𝑛\np\nn\n\t​\n\n is the \n𝑛\nnth prime. Let \n𝑟\n(\n𝑥\n)\nr(x) be the smallest even integer \n𝑡\nt such that \n𝑑\n𝑛\n=\n𝑡\nd\nn\n\t​\n\n=t has no solutions for \n𝑛\n≤\n𝑥\nn≤x. Is it true that \n𝑟\n(\n𝑥\n)\n→\n∞\nr(x)→∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos853-erdos-853-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 853 - part ii\nLet \n𝑑\n𝑛\n=\n𝑝\n𝑛\n+\n1\n−\n𝑝\n𝑛\nd\nn\n\t​\n\n=p\nn+1\n\t​\n\n−p\nn\n\t​\n\n, where \n𝑝\n𝑛\np\nn\n\t​\n\n is the \n𝑛\nnth prime. Let \n𝑟\n(\n𝑥\n)\nr(x) be the smallest even integer \n𝑡\nt such that \n𝑑\n𝑛\n=\n𝑡\nd\nn\n\t​\n\n=t has no solutions for \n𝑛\n≤\n𝑥\nn≤x. Is it true that \n𝑟\n(\n𝑥\n)\n/\nlog\n⁡\n𝑥\n→\n∞\nr(x)/logx→∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos859-erdos-859",
+  "txt": "NUMBER THEORY\n\nErdős problem 859\nThe density of the divisor sum set is asymptotically equivalent to \n𝑐\n1\n/\nlog\n⁡\n(\n𝑡\n)\n𝑐\n2\nc\n1\n\t​\n\n/log(t)\nc\n2\n\t​\n\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos873-erdos-873",
+  "txt": "NUMBER THEORY\n\nErdős problem 873\nLet \n𝐴\n=\n{\n𝑎\n1\n<\n𝑎\n2\n<\n…\n \n}\n⊆\n𝑁\nA={a\n1\n\t​\n\n<a\n2\n\t​\n\n<…}⊆N and let \n𝐹\n(\n𝐴\n,\n𝑋\n,\n𝑘\n)\nF(A,X,k) count the number of \n𝑖\ni such that \n[\n𝑎\n𝑖\n,\n𝑎\n𝑖\n+\n1\n,\n…\n,\n𝑎\n𝑖\n+\n𝑘\n−\n1\n]\n<\n𝑋\n[a\ni\n\t​\n\n,a\ni+1\n\t​\n\n,…,a\ni+k−1\n\t​\n\n]<X, where the left-hand side is the least common multiple. Is it true that, for every \n𝜖\n>\n0\nϵ>0, there exists some \n𝑘\nk such that \n𝐹\n(\n𝐴\n,\n𝑋\n,\n𝑘\n)\n<\n𝑋\n𝜖\nF(A,X,k)<X\nϵ\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos885-erdos-885",
+  "txt": "NUMBER THEORY\n\nErdős problem 885\nIs it true that, for every \n𝑘\n≥\n1\nk≥1, there exist integers \n𝑁\n1\n<\n⋯\n<\n𝑁\n𝑘\nN\n1\n\t​\n\n<⋯<N\nk\n\t​\n\n such that \n∣\n∩\n𝑖\n𝐷\n(\n𝑁\n𝑖\n)\n∣\n≥\n𝑘\n∣∩\ni\n\t​\n\nD(N\ni\n\t​\n\n)∣≥k?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos886-erdos-886",
+  "txt": "NUMBER THEORY\n\nErdős problem 886\nLet \n𝜖\n>\n0\nϵ>0. Is it true that, for all large \n𝑛\nn, the number of divisors of \n𝑛\nn in \n(\n𝑛\n1\n/\n2\n,\n𝑛\n1\n/\n2\n+\n𝑛\n1\n/\n2\n−\n𝜖\n)\n(n\n1/2\n,n\n1/2\n+n\n1/2−ϵ\n) is \n𝑂\n𝜖\n(\n1\n)\nO\nϵ\n\t​\n\n(1)? Erdős attributes this conjecture to Ruzsa.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos887-erdos-887-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 887 - part ii\nIs there an absolute constant \n𝐾\nK such that, for every \n𝐶\n>\n0\nC>0, if \n𝑛\nn is sufficiently large then \n𝑛\nn has at most \n𝐾\nK divisors in \n(\n𝑛\n1\n2\n,\n𝑛\n1\n2\n+\n𝐶\n𝑛\n1\n4\n)\n(n\n2\n1\n\t​\n\n,n\n2\n1\n\t​\n\n+Cn\n4\n1\n\t​\n\n).\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos889-erdos-889",
+  "txt": "NUMBER THEORY\n\nErdős problem 889\nLet \n𝑣\n(\n𝑛\n,\n𝑘\n)\nv(n,k) count the prime factors of \n𝑛\n+\n𝑘\nn+k which do not divide \n𝑛\n+\n𝑖\nn+i for \n0\n≤\n𝑖\n<\n𝑘\n0≤i<k. Is it true that \n𝑣\n0\n(\n𝑛\n)\n=\nmax\n⁡\n𝑘\n≥\n0\n𝑣\n(\n𝑛\n,\n𝑘\n)\n→\n∞\nv\n0\n\t​\n\n(n)=max\nk≥0\n\t​\n\nv(n,k)→∞ as \n𝑛\n→\n∞\nn→∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos889-erdos-889-variants-general",
+  "txt": "NUMBER THEORY\n\nErdős problem 889 - general\nLet \n𝑣\n𝑙\n(\n𝑛\n)\n=\nmax\n⁡\n𝑘\n≥\n𝑙\n𝑣\n(\n𝑛\n,\n𝑘\n)\nv\nl\n\t​\n\n(n)=max\nk≥l\n\t​\n\nv(n,k). For every fixed \n𝑙\nl, \n𝑣\n𝑙\n(\n𝑛\n)\n→\n∞\nv\nl\n\t​\n\n(n)→∞ as \n𝑛\n→\n∞\nn→∞ [ErSe67] Erdős, P. and Selfridge, J. L., Some problems on the prime factors of consecutive integers. Illinois J. Math. (1967), 428--430.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos890-erdos-890-parts-a",
+  "txt": "NUMBER THEORY\n\nErdős problem 890 - part a\nIf \n𝜔\n𝑘\n(\n𝑛\n)\nω\nk\n\t​\n\n(n) counts the number of distinct prime factors of \n𝑛\nn which are \n>\n𝑘\n>k, then is it true that, for every \n𝑘\n≥\n1\nk≥1, \nlim inf\n⁡\n𝑛\n→\n∞\n∑\n0\n≤\n𝑖\n<\n𝑘\n𝜔\n𝑘\n(\n𝑛\n+\n𝑖\n)\n≤\n𝑘\n?\nliminf\nn→∞\n\t​\n\n∑\n0≤i<k\n\t​\n\nω\nk\n\t​\n\n(n+i)≤k?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos890-erdos-890-parts-b",
+  "txt": "NUMBER THEORY\n\nErdős problem 890 - part b\nIs it true that \nlim sup\n⁡\n𝑛\n→\n∞\n(\n∑\n0\n≤\n𝑖\n<\n𝑘\n𝜔\n(\n𝑛\n+\n𝑖\n)\n)\nlog\n⁡\nlog\n⁡\n𝑛\nlog\n⁡\n𝑛\n=\n1\n,\nlimsup\nn→∞\n\t​\n\n(∑\n0≤i<k\n\t​\n\nω(n+i))\nlogn\nloglogn\n\t​\n\n=1, where \n𝜔\nω counts the number of distinct prime factors without restriction?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos891-erdos-891",
+  "txt": "NUMBER THEORY\n\nErdős problem 891\nLet \n2\n=\n𝑝\n1\n<\n𝑝\n2\n<\n⋯\n2=p\n1\n\t​\n\n<p\n2\n\t​\n\n<⋯ be the primes and \n𝑘\n≥\n2\nk≥2. Is it true that, for all sufficiently large \n𝑛\nn, there must exist an integer in \n[\n𝑛\n,\n𝑛\n+\n𝑝\n1\n⋯\n𝑝\n𝑘\n)\n[n,n+p\n1\n\t​\n\n⋯p\nk\n\t​\n\n) with \n>\n𝑘\n>k many prime factors?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos893-erdos-893",
+  "txt": "COMBINATORICS\n\nErdős problem 893\nDoes the limit \nlim\n⁡\n𝑛\n→\n∞\n𝑓\n(\n2\n𝑛\n)\n𝑓\n(\n𝑛\n)\nlim\nn→∞\n\t​\n\nf(n)\nf(2n)\n\t​\n\n tend to infinity? (Other finite limits have been ruled out by [KoLu25], see below)\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos912-erdos-912",
+  "txt": "NUMBER THEORY\n\nErdős problem 912\nProve that there exists some \n𝑐\n>\n0\nc>0 such that \nℎ\n(\n𝑛\n)\n∼\n𝑐\n(\n𝑛\nlog\n⁡\n𝑛\n)\n1\n/\n2\nh(n)∼c(\nlogn\nn\n\t​\n\n)\n1/2\n as \n𝑛\n→\n∞\nn→∞.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos912-erdos-912-variants-tao",
+  "txt": "NUMBER THEORY\n\nErdős problem 912 - tao\nA heuristic of Tao using the Cramér model for the primes suggests this is true with \n𝑐\n=\n2\n𝜋\nc=\n2π\n\t​\n\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos913-erdos-913-variants-infinite-many-8p-sq-sub-one-primes",
+  "txt": "NUMBER THEORY\n\nErdős problem 913 - infinite many 8 p sq sub one primes\nIt is likely that there are infinitely many primes \n𝑝\np such that \n8\n𝑝\n2\n−\n1\n8p\n2\n−1 is also prime.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos930-erdos-930",
+  "txt": "NUMBER THEORY\n\nErdős problem 930\nIs it true that, for every \n𝑟\nr, there is a \n𝑘\nk such that if \n𝐼\n1\n,\n…\n,\n𝐼\n𝑟\nI\n1\n\t​\n\n,…,I\nr\n\t​\n\n are disjoint intervals of consecutive integers, all of length at least \n𝑘\nk, then \n∏\n1\n≤\n𝑖\n≤\n𝑟\n∏\n𝑚\n∈\n𝐼\n𝑖\n𝑚\n∏\n1≤i≤r\n\t​\n\n∏\nm∈I\ni\n\t​\n\n\t​\n\nm is not a perfect power?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos931-erdos-931",
+  "txt": "NUMBER THEORY\n\nErdős problem 931\nLet \n𝑘\n1\n≥\n𝑘\n2\n≥\n3\nk\n1\n\t​\n\n≥k\n2\n\t​\n\n≥3. Are there only finitely many \n𝑛\n2\n≥\n𝑛\n1\n+\n𝑘\n1\nn\n2\n\t​\n\n≥n\n1\n\t​\n\n+k\n1\n\t​\n\n such that \n∏\n1\n≤\n𝑖\n≤\n𝑘\n1\n(\n𝑛\n1\n+\n𝑖\n)\n and \n∏\n1\n≤\n𝑗\n≤\n𝑘\n2\n(\n𝑛\n2\n+\n𝑗\n)\n∏\n1≤i≤k\n1\n\t​\n\n\t​\n\n(n\n1\n\t​\n\n+i) and ∏\n1≤j≤k\n2\n\t​\n\n\t​\n\n(n\n2\n\t​\n\n+j) have the same prime factors?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos932-erdos-932",
+  "txt": "NUMBER THEORY\n\nErdős problem 932\nLet \n𝑝\n𝑘\np\nk\n\t​\n\n denote the \n𝑘\nkth prime. For infinitely many \n𝑟\nr there are at least two integers \n𝑝\n𝑟\n<\n𝑛\n<\n𝑝\n𝑟\n+\n1\np\nr\n\t​\n\n<n<p\nr+1\n\t​\n\n all of whose prime factors are \n<\n𝑝\n𝑟\n+\n1\n−\n𝑝\n𝑟\n<p\nr+1\n\t​\n\n−p\nr\n\t​\n\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos933-erdos-933",
+  "txt": "NUMBER THEORY\n\nErdős problem 933\nIf \n𝑛\n(\n𝑛\n+\n1\n)\n=\n2\n𝑘\n3\n𝑙\n𝑚\nn(n+1)=2\nk\n3\nl\nm, where \n(\n𝑚\n,\n6\n)\n=\n1\n(m,6)=1, then is it true that \nlim sup\n⁡\n𝑛\n→\n∞\n2\n𝑘\n3\n𝑙\n𝑛\nlog\n⁡\n𝑛\n=\n∞\nlimsup\nn→∞\n\t​\n\nnlogn\n2\nk\n3\nl\n\t​\n\n=∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos936-erdos-936-variants-factorial-add-one",
+  "txt": "NUMBER THEORY\n\nErdős problem 936 - factorial add one\nIs \n𝑛\n!\n+\n1\nn!+1 powerful for finitely many \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos936-erdos-936-variants-factorial-sub-one",
+  "txt": "NUMBER THEORY\n\nErdős problem 936 - factorial sub one\nIs \n𝑛\n!\n−\n1\nn!−1 powerful for finitely many \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos936-erdos-936-variants-two-pow-add-one",
+  "txt": "NUMBER THEORY\n\nErdős problem 936 - two pow add one\nIs \n2\n𝑛\n+\n1\n2\nn\n+1 powerful for finitely many \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos936-erdos-936-variants-two-pow-sub-one",
+  "txt": "NUMBER THEORY\n\nErdős problem 936 - two pow sub one\nIs \n2\n𝑛\n−\n1\n2\nn\n−1 powerful for finitely many \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos942-erdos-942",
+  "txt": "NUMBER THEORY\n\nErdős problem 942\nIs there some constant \n𝑐\n>\n0\nc>0 such that \nℎ\n(\n𝑛\n)\n<\n(\nlog\n⁡\n𝑛\n)\n𝑐\n+\n𝑜\n(\n1\n)\nh(n)<(logn)\nc+o(1)\n and, for infinitely many \n𝑛\nn, \nℎ\n(\n𝑛\n)\n>\n(\nlog\n⁡\n𝑛\n)\n𝑐\n−\n𝑜\n(\n1\n)\nh(n)>(logn)\nc−o(1)\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos943-erdos-943",
+  "txt": "NUMBER THEORY\n\nErdős problem 943\nLet \n𝐴\nA be the set of powerful numbers. Is is true that \n1\n𝐴\n∗\n1\n𝐴\n(\n𝑛\n)\n=\n𝑛\n𝑜\n(\n1\n)\n1\nA\n\t​\n\n∗1\nA\n\t​\n\n(n)=n\no(1)\n for every \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos944-erdos-944",
+  "txt": "NUMBER THEORY\n\nErdős problem 944\nLet \n𝑘\n≥\n4\nk≥4 and \n𝑟\n≥\n1\nr≥1. Must there exist a graph \n𝐺\nG with chromatic number \n𝑘\nk such that every vertex is critical, yet every critical set of edges has size \n>\n𝑟\n>r?\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos945-erdos-945",
+  "txt": "NUMBER THEORY\n\nErdős problem 945\nIs it true that \n𝐹\n(\n𝑥\n)\n≤\n(\nlog\n⁡\n𝑥\n)\n𝑂\n(\n1\n)\nF(x)≤(logx)\nO(1)\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos949-erdos-949",
+  "txt": "COMBINATORICS\n\nErdős problem 949\nLet \n𝑆\n⊆\n𝑅\nS⊆R be a set containing no solutions to \n𝑎\n+\n𝑏\n=\n𝑐\na+b=c. Must there be a set \n𝐴\n⊆\n𝑅\n∖\n𝑆\nA⊆R∖S of cardinality continuum such that \n𝐴\n+\n𝐴\n⊆\n𝑅\n∖\n𝑆\nA+A⊆R∖S?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos950-erdos-950-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 950 - part i\nIs it true that \nlim inf\n⁡\n𝑓\n(\n𝑛\n)\n=\n1\nliminff(n)=1?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos950-erdos-950-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 950 - part ii\nIs it true that \nlim sup\n⁡\n𝑓\n(\n𝑛\n)\n=\n∞\nlimsupf(n)=∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos950-erdos-950-parts-iii",
+  "txt": "NUMBER THEORY\n\nErdős problem 950 - part iii\nIs it true that \n𝑓\n(\n𝑛\n)\n=\n𝑜\n(\nlog\n⁡\nlog\n⁡\n𝑛\n)\nf(n)=o(loglogn) for all \n𝑛\nn?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos951-erdos-951",
+  "txt": "NUMBER THEORY\n\nErdős problem 951\nIf 1 < a 0 < ... has property Erdos951Prop, is it true that #{a i ≤ x} ≤ π x?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos952-erdos-952",
+  "txt": "NUMBER THEORY\n\nErdős problem 952\nIs there an infinite sequence of distinct Gaussian primes \n𝑥\n1\n,\n𝑥\n2\n,\n…\nx\n1\n\t​\n\n,x\n2\n\t​\n\n,… such that \n∣\n𝑥\n𝑛\n+\n1\n−\n𝑥\n𝑛\n∣\n≪\n1\n∣x\nn+1\n\t​\n\n−x\nn\n\t​\n\n∣≪1?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos962-erdos-962",
+  "txt": "NUMBER THEORY\n\nErdős problem 962\nMain conjecture: \nlog\n⁡\n𝑘\n(\n𝑛\n)\n≤\n(\nlog\n⁡\n𝑛\n)\n(\n1\n/\n2\n+\n𝑜\n(\n1\n)\n)\nlogk(n)≤(logn)\n(1/2+o(1))\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos972-erdos-972",
+  "txt": "NUMBER THEORY\n\nErdős problem 972\n**Erdős problem 972.** Let \n𝛼\n>\n1\nα>1 be irrational. Are there infinitely many primes \n𝑝\np such that \n⌊\n𝑝\n𝛼\n⌋\n⌊pα⌋ is also prime?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos975-erdos-975",
+  "txt": "NUMBER THEORY\n\nErdős problem 975\nFor an irreducible polynomial \n𝑓\n∈\n𝑍\n[\n𝑥\n]\nf∈Z[x] with \n𝑓\n(\n𝑛\n)\n≥\n1\nf(n)≥1 for sufficiently large \n𝑛\nn, does there exists a constant \n𝑐\n=\n𝑐\n(\n𝑓\n)\n>\n0\nc=c(f)>0 such that \n∑\n𝑛\n≤\n𝑥\n𝜏\n(\n𝑓\n(\n𝑛\n)\n)\n≈\n𝑐\n⋅\n𝑥\nlog\n⁡\n𝑥\n∑\nn≤x\n\t​\n\nτ(f(n))≈c⋅xlogx? Note that it is unclear whether the polynomial should have integer coefficients or merely be integer-valued. We…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos978-erdos-978-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 978 - part ii\nIf \n𝑘\n>\n3\nk>3 (and \n𝑘\n≠\n2\n𝑙\nk\n\n=2\nl\n), and for all primes \n𝑝\np there exists \n𝑛\nn such that \n𝑝\n𝑘\n−\n2\n∤\n𝑓\n(\n𝑛\n)\np\nk−2\n∤f(n), then are there infinitely many \n𝑛\nn for which \n𝑓\n(\n𝑛\n)\nf(n) is \n(\n𝑘\n−\n2\n)\n(k−2)-power-free?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos978-erdos-978-parts-iii",
+  "txt": "NUMBER THEORY\n\nErdős problem 978 - part iii\nDoes n ^ 4 + 2 represent infinitely many squarefree numbers?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos979-erdos-979",
+  "txt": "NUMBER THEORY\n\nErdős problem 979\nLet \n𝑘\n≥\n2\nk≥2, and let \n𝑓\n𝑘\n(\n𝑛\n)\nf\nk\n\t​\n\n(n) count the number of solutions to \n𝑛\n=\n𝑝\n1\n𝑘\n+\n⋯\n+\n𝑝\n𝑘\n𝑘\nn=p\n1\nk\n\t​\n\n+⋯+p\nk\nk\n\t​\n\n, where the \n𝑝\n𝑖\np\ni\n\t​\n\n are prime numbers. Is it true that \nlim sup\n⁡\n𝑓\n𝑘\n(\n𝑛\n)\n=\n∞\nlimsupf\nk\n\t​\n\n(n)=∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos982-erdos-982",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nErdős problem 982\nIf \n𝑛\nn distinct points in \n𝑅\n2\nR\n2\n form a convex polygon then some vertex has at least \n⌊\n𝑛\n2\n⌋\n⌊\n2\nn\n\t​\n\n⌋ different distances to other vertices.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos985-erdos-985",
+  "txt": "NUMBER THEORY\n\nErdős problem 985\nIs it true that, for every prime \n𝑝\np, there is a prime \n𝑞\n≤\n𝑝\nq≤p which is a primitive root modulo \n𝑝\np?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1003-erdos-1003",
+  "txt": "NUMBER THEORY\n\nErdős problem 1003\nAre there infinitely many solutions to \n𝜙\n(\n𝑛\n)\n=\n𝜙\n(\n𝑛\n+\n1\n)\nϕ(n)=ϕ(n+1), where \n𝜙\nϕ is the Euler totient function?\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1004-erdos-1004",
+  "txt": "NUMBER THEORY\n\nErdős problem 1004\nFor any fixed c > 0, if x is sufficiently large then there exists n ≤ x such that the values of φ(n+k) are all distinct for 1 ≤ k ≤ (log x)^c. This is an open problem.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1049-erdos-1049",
+  "txt": "NUMBER THEORY\n\nErdős problem 1049\nLet \n𝑡\n>\n1\nt>1 be a rational number. Is \n∑\n𝑛\n=\n1\n∞\n1\n𝑡\n𝑛\n−\n1\n=\n∑\n𝑛\n=\n1\n∞\n𝜏\n(\n𝑛\n)\n𝑡\n𝑛\n∑\nn=1\n∞\n\t​\n\nt\nn\n−1\n1\n\t​\n\n=∑\nn=1\n∞\n\t​\n\nt\nn\nτ(n)\n\t​\n\n irrational, where \n𝜏\n(\n𝑛\n)\nτ(n) counts the divisors of \n𝑛\nn? A conjecture of Chowla.\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1056-erdos-1056",
+  "txt": "NUMBER THEORY\n\nErdős problem 1056\nLet \n𝑘\n≥\n2\nk≥2. Does there exist a prime \n𝑝\np and consecutive intervals \n𝐼\n0\n,\n…\n,\n𝐼\n𝑘\nI\n0\n\t​\n\n,…,I\nk\n\t​\n\n such that \n∏\n𝑛\n∈\n𝐼\n𝑖\n𝑛\n≡\n1\nm\no\nd\n \n \n𝑛\nn∈I\ni\n\t​\n\n∏\n\t​\n\nn≡1modn for all \n1\n≤\n𝑖\n≤\n𝑘\n1≤i≤k?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos1057-erdos-1057",
+  "txt": "NUMBER THEORY\n\nErdős problem 1057\nIs it true that \n𝐶\n(\n𝑥\n)\n=\n𝑥\n1\n−\n𝑜\n(\n1\n)\nC(x)=x\n1−o(1)\n? This is discussed in problem A13 of Guy's collection [Gu04].\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1060-erdos-1060-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 1060 - part ii\nPart (ii) of Erdős Problem 1060: bound on the number of \n𝑘\n≤\n𝑛\nk≤n with \n𝑘\n𝜎\n1\n(\n𝑘\n)\n=\n𝑛\nkσ\n1\n\t​\n\n(k)=n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1062-erdos-1062-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 1062 - part ii\nErdős asked whether the limiting density f n / n exists and, if so, whether it is irrational.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos1068-erdos-1068",
+  "txt": "COMBINATORICS\n\nErdős problem 1068\nDoes every graph with chromatic number \nℵ\n1\nℵ\n1\n\t​\n\n contain a countable subgraph which is infinitely connected?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1072-erdos-1072-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 1072 - part i\nIs it true that there are infinitely many \n𝑝\np for which \n𝑓\n(\n𝑝\n)\n=\n𝑝\n−\n1\nf(p)=p−1?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1072-erdos-1072-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 1072 - part ii\nIs it true that \n𝑓\n(\n𝑝\n)\n/\n𝑝\n→\n0\nf(p)/p→0 for \n𝑝\n→\n∞\np→∞ in a density 1 subset of the primes?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1073-erdos-1073",
+  "txt": "NUMBER THEORY\n\nErdős problem 1073\nIs it true that \n𝐴\n(\n𝑥\n)\n≤\n𝑥\n𝑜\n(\n1\n)\nA(x)≤x\no(1)\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1074-erdos-1074-variants-ehsnumbers-one-half",
+  "txt": "NUMBER THEORY\n\nErdős problem 1074 - EHS Numbers one half\nRegarding the first question, Hardy and Subbarao computed all EHS numbers up to \n2\n10\n2\n10\n, and write \"...if this trend conditions we expect [the limit] to be around 0.5, if it exists.\"\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1082-erdos-1082-parts-i",
+  "txt": "GEOMETRY\n\nErdős problem 1082 - part i\nLet \n𝐴\n⊂\n𝑅\n2\nA⊂R\n2\n be a set of \n𝑛\nn points with no three on a line. Does \n𝐴\nA determine at least \n⌊\n𝑛\n/\n2\n⌋\n⌊n/2⌋ distinct distances?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos1085-erdos-1085-variants-upper-d3",
+  "txt": "CONVEX AND DISCRETE GEOMETRY\n\nErdős problem 1085 - upper d 3\nIs the \n𝑛\n4\n/\n3\nlog\n⁡\nlog\n⁡\n𝑛\nn\n4/3\nloglogn lower bound in 3D also an upper bound?.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1094-erdos-1094",
+  "txt": "NUMBER THEORY\n\nErdős problem 1094\nFor all \n𝑛\n≥\n2\n𝑘\nn≥2k the least prime factor of \n(\n𝑛\n𝑘\n)\n(\nk\nn\n\t​\n\n) is \n≤\nmax\n⁡\n(\n𝑛\n/\n𝑘\n,\n𝑘\n)\n≤max(n/k,k), with only finitely many exceptions.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1095-erdos-1095-variants-log-istheta",
+  "txt": "NUMBER THEORY\n\nErdős problem 1095 - log is Theta\nSorenson, Sorenson, and Webster [SSWE20] give heuristic evidence that \nlog\n⁡\n𝑔\n(\n𝑘\n)\n≍\n𝑘\nlog\n⁡\n𝑘\nlogg(k)≍\nlogk\nk\n\t​\n\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1095-erdos-1095-variants-lower-conjecture",
+  "txt": "NUMBER THEORY\n\nErdős problem 1095 - lower conjecture\nErdős, Lacampagne, and Selfridge [ELS93] write 'it is clear to every right-thinking person' that \n𝑔\n(\n𝑘\n)\n≥\nexp\n⁡\n(\n𝑐\n𝑘\nlog\n⁡\n𝑘\n)\ng(k)≥exp(c\nlogk\nk\n\t​\n\n) for some constant \n𝑐\n>\n0\nc>0.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1101-erdos-1101-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 1101 - part i\n1. Is there a good sequence with polynomial growth?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos1106-erdos-1106-parts-ii",
+  "txt": "NUMBER THEORY\n\nErdős problem 1106 - part ii\nLet \n𝑝\n(\n𝑛\n)\np(n) be the partition number of \n𝑛\nn and \n𝐹\n(\n𝑛\n)\nF(n) be the number of distinct prime factors of \n∏\n𝑖\n=\n1\n𝑛\n𝑝\n(\n𝑛\n)\n∏\ni=1\nn\n\t​\n\np(n), \n𝐹\n(\n𝑛\n)\n>\n𝑛\nF(n)>n for sufficiently large \n𝑛\nn.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1107-erdos-1107",
+  "txt": "NUMBER THEORY\n\nErdős problem 1107\nLet \n𝑟\n≥\n2\nr≥2. Is every large integer the sum of at most \n𝑟\n+\n1\nr+1 many \n𝑟\nr-powerful numbers?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1108-erdos-1108-parts-i",
+  "txt": "NUMBER THEORY\n\nErdős problem 1108 - part i\nFor each \n𝑘\n≥\n2\nk≥2, does the set \n𝐴\n=\n{\n∑\n𝑛\n∈\n𝑆\n𝑛\n!\n:\n𝑆\n⊂\n𝑁\n finite\n}\nA={∑\nn∈S\n\t​\n\nn!:S⊂N finite} of all finite sums of distinct factorials contain only finitely many \n𝑘\nk-th powers?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1113-erdos-1113-variants-filaseta-finch-kozek",
+  "txt": "NUMBER THEORY\n\nErdős problem 1113 - filaseta finch kozek\n**Filaseta–Finch–Kozek conjecture (2008).** Every Sierpiński number is either a perfect power or possesses a finite covering set of primes.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos1135-erdos-1135",
+  "txt": "NUMBER THEORY\n\nErdős problem 1135\nThe Collatz conjecture states that for any positive integer \n𝑛\nn, there exists a natural number \n𝑚\nm such that the \n𝑚\nm-th term of the sequence is 1.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1137-erdos-1137",
+  "txt": "NUMBER THEORY\n\nErdős problem 1137\nLet \n𝑑\n𝑛\n=\n𝑝\n𝑛\n+\n1\n−\n𝑝\n𝑛\nd\nn\n\t​\n\n=p\nn+1\n\t​\n\n−p\nn\n\t​\n\n, where \n𝑝\n𝑛\np\nn\n\t​\n\n denotes the \n𝑛\nnth prime. Is it true that \nmax\n⁡\n𝑛\n<\n𝑥\n𝑑\n𝑛\n𝑑\n𝑛\n−\n1\n(\nmax\n⁡\n𝑛\n<\n𝑥\n𝑑\n𝑛\n)\n2\n→\n0\n(max\nn<x\n\t​\n\nd\nn\n\t​\n\n)\n2\nmax\nn<x\n\t​\n\nd\nn\n\t​\n\nd\nn−1\n\t​\n\n\t​\n\n→0 as \n𝑥\n→\n∞\nx→∞?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1142-erdos-1142",
+  "txt": "NUMBER THEORY\n\nErdős problem 1142\nAre there infinitely many \n𝑛\n>\n2\nn>2 such that \n𝑛\n−\n2\n𝑘\nn−2\nk\n is prime for all \n𝑘\n≥\n1\nk≥1 with \n2\n𝑘\n<\n𝑛\n2\nk\n<n? The only known such \n𝑛\nn are \n4\n,\n7\n,\n15\n,\n21\n,\n45\n,\n75\n,\n105\n4,7,15,21,45,75,105 (OEIS [A039669](https://oeis.org/A039669)).\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1175-erdos-1175",
+  "txt": "COMBINATORICS\n\nErdős problem 1175\nLet \n𝜅\nκ be an uncountable cardinal. Must there exist a cardinal \n𝜆\nλ such that every graph with chromatic number \n𝜆\nλ contains a triangle-free subgraph with chromatic number \n𝜅\nκ? Shelah proved that a negative answer is consistent when \n𝜅\n=\n𝜆\n=\nℵ\n1\nκ=λ=ℵ\n1\n\t​\n\n (see…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/erdos1192-erdos-1192",
+  "txt": "COMBINATORICS\n\nErdős problem 1192\nDoes there exist, for all \n𝑟\n≥\n2\nr≥2, a basis \n𝐴\nA of order \n𝑟\nr (so that \n𝑓\n𝑟\n(\n𝑛\n)\n>\n0\nf\nr\n\t​\n\n(n)>0 for all large \n𝑛\nn) such that \n∑\n𝑛\n≤\n𝑥\n𝑓\n𝑟\n(\n𝑛\n)\n2\n≪\n𝑥\n∑\nn≤x\n\t​\n\nf\nr\n\t​\n\n(n)\n2\n≪x for all \n𝑥\nx?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1203-erdos-1203",
+  "txt": "NUMBER THEORY\n\nErdős problem 1203\nProve that \n𝐹\n(\n𝑛\n)\n→\n∞\nF(n)→∞ as \n𝑛\n→\n∞\nn→∞.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/erdos1209-erdos-1209-parts-iii-d",
+  "txt": "NUMBER THEORY\n\nErdős problem 1209 - part iii d\nAre there \n𝑛\nn such that \n𝑛\n+\n2\n2\n𝑘\nn+2\n2\nk\n is infinitely often squarefree?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green2-green-2",
+  "txt": "NUMBER THEORY\n\nGreen's open problem 2\nLet \n𝐴\n⊂\n𝑍\nA⊂Z be a set of \n𝑛\nn integers. Is there a set \n𝑆\n⊂\n𝐴\nS⊂A of size \n(\nlog\n⁡\n𝑛\n)\n100\n(logn)\n100\n such that the restricted sumset\n𝑆\n+\n^\n𝑆\nS\n+\n^\n\t​\n\nS is disjoint from \n𝐴\nA?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green7-green-7-variants-positive-density",
+  "txt": "NUMBER THEORY\n\nGreen's open problem 7 - positive density\nDoes Ulam's sequence have positive density?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green9-green-9-ii",
+  "txt": "COMBINATORICS\n\nGreen's open problem 9 - ii\nProblem 9 (ii): is \n𝑟\n5\n(\n𝑁\n)\n≪\n𝑁\n(\nlog\n⁡\n𝑁\n)\n−\n𝑐\nr\n5\n\t​\n\n(N)≪N(logN)\n−c\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green9-green-9-iii",
+  "txt": "COMBINATORICS\n\nGreen's open problem 9 - iii\nProblem 9 (iii): is \n𝑟\n4\n(\n𝐹\n5\n𝑛\n)\n≪\n𝑁\n1\n−\n𝑐\nr\n4\n\t​\n\n(F\n5\nn\n\t​\n\n)≪N\n1−c\n, where \n𝑁\n=\n5\n𝑛\nN=5\nn\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green12-green-12",
+  "txt": "COMBINATORICS\n\nGreen's open problem 12\nLet \n𝐺\nG be an abelian group of size \n𝑁\nN, and suppose that \n𝐴\n⊂\n𝐺\nA⊂G has density \n𝛼\nα. Are there at least \n𝛼\n15\n𝑁\n10\nα\n15\nN\n10\n tuples \n(\n𝑥\n1\n,\n…\n,\n𝑥\n5\n,\n𝑦\n1\n,\n…\n,\n𝑦\n5\n)\n∈\n𝐺\n10\n(x\n1\n\t​\n\n,…,x\n5\n\t​\n\n,y\n1\n\t​\n\n,…,y\n5\n\t​\n\n)∈G\n10\n such that \n𝑥\n𝑖\n+\n𝑦\n𝑗\n∈\n𝐴\nx\ni\n\t​\n\n+y\nj\n\t​\n\n∈A whenever \n𝑗\n∈\n{\n𝑖\n,\n𝑖\n+\n1\n,\n𝑖\n+\n2\n}\nj∈{i,i+1,i+2}? Note: We interpret indices modulo 5.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green15-green-15",
+  "txt": "COMBINATORICS\n\nSOLVED\nGreen's open problem 15\nDoes there exist a Lipschitz function \n𝑓\n:\n𝑁\n→\n𝑍\nf:N→Z whose graph \nΓ\n=\n{\n(\n𝑛\n,\n𝑓\n(\n𝑛\n)\n)\n:\n𝑛\n∈\n𝑁\n}\n⊆\n𝑍\n2\nΓ={(n,f(n)):n∈N}⊆Z\n2\n is free of 3-term progressions?\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n-"
+ },
+ {
+  "href": "/problems/green18-green-18",
+  "txt": "COMBINATORICS\n\nGreen's open problem 18\nSuppose that \n𝐺\nG is a finite group, and let \n𝐴\n⊂\n𝐺\n×\n𝐺\nA⊂G×G be a subset of density \n𝛼\nα. Is it true that there are \n≫\n𝛼\n∣\n𝐺\n∣\n3\n≫\nα\n\t​\n\n∣G∣\n3\n triples \n𝑥\n,\n𝑦\n,\n𝑔\nx,y,g such that \n(\n𝑥\n,\n𝑦\n)\n,\n(\n𝑔\n𝑥\n,\n𝑦\n)\n,\n(\n𝑥\n,\n𝑔\n𝑦\n)\n(x,y),(gx,y),(x,gy) all lie in \n𝐴\nA? Note: A is taken as \n𝛼\nα-dense, i.e. \n∣\n𝐴\n∣\n≥\n𝛼\n∣\n𝐺\n∣\n2\n∣A∣≥α∣G∣\n2\n [Au16, Question 2]\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green24-variants-conjecture",
+  "txt": "COMBINATORICS\n\nGreen's open problem 24 - conjecture\nConjecture p.579 in [Aa19]: \n(\n1\n3\n+\n𝑜\n(\n1\n)\n)\n𝑛\n2\n(\n3\n1\n\t​\n\n+o(1))n\n2\n.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green32-green-32",
+  "txt": "COMBINATORICS\n\nGreen's open problem 32\nLet \n𝑝\np be a prime and let \n𝐴\n⊂\n𝑍\n/\n𝑝\n𝑍\nA⊂Z/pZ be a set of size \n⌊\n𝑝\n⌋\n⌊\np\n\t​\n\n⌋. Is there a dilate of \n𝐴\nA containing a gap of length \n100\n𝑝\n100\np\n\t​\n\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green33-green-33",
+  "txt": "COMBINATORICS\n\nGreen's open problem 33\nAre there infinitely many \n𝑞\nq for which there is a set \n𝐴\n⊂\n𝑍\n/\n𝑞\n𝑍\nA⊂Z/qZ, \n∣\n𝐴\n∣\n=\n(\n2\n+\n𝑜\n(\n1\n)\n)\n𝑞\n1\n/\n2\n∣A∣=(\n2\n\t​\n\n+o(1))q\n1/2\n, with \n𝐴\n+\n𝐴\n=\n𝑍\n/\n𝑞\n𝑍\nA+A=Z/qZ? [Gr24]\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green36-green-36-variants-cks05",
+  "txt": "COMBINATORICS\n\nGreen's open problem 36 - cks 05\nVariant using the exact simultaneous double product property from [CKS05, 4.1].\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/green39-green-39",
+  "txt": "COMBINATORICS\n\nGreen's open problem 39\nIf \n𝐴\n⊂\n𝑍\n/\n𝑝\n𝑍\nA⊂Z/pZ is random, \n∣\n𝐴\n∣\n=\n𝑝\n∣A∣=\np\n\t​\n\n, can we almost surely cover \n𝑍\n/\n𝑝\n𝑍\nZ/pZ with \n100\n𝑝\n100\np\n\t​\n\n translates of \n𝐴\nA? [Gr24]\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/green40-green-40",
+  "txt": "COMBINATORICS\n\nGreen's open problem 40\nDoes \n𝑓\n(\n𝑟\n)\n→\n∞\nf(r)→∞? [Gr24]\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green40-green-40-f-two-eq-one",
+  "txt": "COMBINATORICS\n\nGreen's open problem 40 - f two eq one\nIt is not known whether f(2) = 1 [Gr24]\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green40-green-40-variants-arbitrary-subsets",
+  "txt": "COMBINATORICS\n\nGreen's open problem 40 - arbitrary subsets\nDoes \n𝑓\n~\n(\n𝑟\n)\n→\n∞\nf\n~\n\t​\n\n(r)→∞? [Gr24]\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green41-green-41-variants-polynomial-bound",
+  "txt": "GEOMETRY\n\nGreen's open problem 41 - polynomial bound\nIs \n𝜀\n−\n𝐶\nε\n−C\n rotations enough?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green44-green-44",
+  "txt": "NUMBER THEORY\n\nGreen's open problem 44\nSieve \n[\n𝑁\n]\n[N] by removing half the residue classes mod \n𝑝\n𝑖\np\ni\n\t​\n\n, for primes \n2\n⩽\n𝑝\n1\n<\n𝑝\n2\n<\n⋯\n<\n𝑝\n1000\n<\n𝑁\n9\n/\n10\n2⩽p\n1\n\t​\n\n<p\n2\n\t​\n\n<⋯<p\n1000\n\t​\n\n<N\n9/10\n. Does the remaining set have size at most \n1\n10\n𝑁\n10\n1\n\t​\n\nN? We interpret \"half the residue classes\" as \n⌊\n𝑝\n𝑖\n/\n2\n⌋\n⌊p\ni\n\t​\n\n/2⌋.\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n$3,340"
+ },
+ {
+  "href": "/problems/green47-green-47",
+  "txt": "NUMBER THEORY\n\nSOLVED\nGreen's open problem 47\nSuppose that a large sieve process leaves a set of quadratic size. Is that set quadratic? The following very particular instance is probably the simplest [Gr24]: Suppose that \n𝐴\n⊂\n𝑁\nA⊂N is a set with the property that \n∣\n𝐴\n(\nm\no\nd\n𝑝\n)\n∣\n⩽\n1\n2\n(\n𝑝\n+\n1\n)\n∣A(modp)∣⩽\n2\n1\n\t​\n\n(p+1) for all sufficiently large \n𝑝\np. Is it true…\nATTEMPTS\n2\nMODES\n2\nBOUNTY\n-"
+ },
+ {
+  "href": "/problems/green50-green-50",
+  "txt": "COMBINATORICS\n\nGreen's open problem 50\nLet \n𝐴\n⊂\n𝐹\n2\n𝑛\nA⊂F\n2\nn\n\t​\n\n be a set of density \n𝛼\n>\n0\nα>0. Does \n10\n𝐴\n10A contain a coset of some subspace of dimension at least \n𝑛\n−\n𝑂\n(\nlog\n⁡\n(\n1\n/\n𝛼\n)\n)\nn−O(log(1/α))? More precisely: does there exist an absolute constant \n𝐶\n>\n0\nC>0 such that for all \n𝑛\n≥\n1\nn≥1 and all nonempty \n𝐴\n⊆\n𝐹\n2\n𝑛\nA⊆F\n2\nn\n\t​\n\n with density \n𝛼\n>\n0\nα>0…\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green51-green-51-one-half",
+  "txt": "COMBINATORICS\n\nSOLVED\nGreen's open problem 51 - one half\nSuppose that \n𝐴\n⊂\n𝐹\n2\n𝑛\nA⊂F\n2\nn\n\t​\n\n has density \n𝛼\n>\n1\n/\n2\n−\n𝐶\n/\n𝑛\nα>1/2−C/\nn\n\t​\n\n. Does \n𝐴\n+\n𝐴\nA+A contain a subspace of co-dimension \n𝑂\n𝐶\n(\n1\n)\nO\nC\n\t​\n\n(1)? [Sa11, Question 5.1]\nATTEMPTS\n1\nMODES\n2\nBOUNTY\n-"
+ },
+ {
+  "href": "/problems/green58-green-58",
+  "txt": "COMBINATORICS\n\nGreen's open problem 58\nSuppose \n𝐴\n,\n𝐵\n⊆\n{\n1\n,\n…\n,\n𝑁\n}\nA,B⊆{1,…,N} both have size at least \n𝑁\n0.49\nN\n0.49\n. Must the sumset \n𝐴\n+\n𝐵\nA+B contain a composite number?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green60-green-60",
+  "txt": "NUMBER THEORY\n\nGreen's open problem 60\nIs there an absolute constant \n𝑐\n>\n0\nc>0 such that, whenever \n𝐴\n⊆\n𝑁\nA⊆N is a set of squares with \n∣\n𝐴\n∣\n≥\n2\n∣A∣≥2, the sumset \n𝐴\n+\n𝐴\nA+A satisfies \n∣\n𝐴\n+\n𝐴\n∣\n≥\n∣\n𝐴\n∣\n1\n+\n𝑐\n∣A+A∣≥∣A∣\n1+c\n?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green62-green-62",
+  "txt": "NUMBER THEORY\n\nGreen's open problem 62\nLet \n𝑝\np be a large prime, and let \n𝐴\nA be the set of all primes less than \n𝑝\np. Is every \n𝑥\n∈\n{\n1\n,\n…\n,\n𝑝\n−\n1\n}\nx∈{1,…,p−1} congruent to some product \n𝑎\n1\n𝑎\n2\na\n1\n\t​\n\na\n2\n\t​\n\n where \n𝑎\n1\n,\n𝑎\n2\n∈\n𝐴\na\n1\n\t​\n\n,a\n2\n\t​\n\n∈A?\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,808"
+ },
+ {
+  "href": "/problems/green66-green-66",
+  "txt": "NUMBER THEORY\n\nGreen's open problem 66\nIs there always a sum of two squares between \n𝑋\n−\n1\n10\n𝑋\n1\n/\n4\nX−\n10\n1\n\t​\n\nX\n1/4\n and \n𝑋\nX? We formalize this as an eventual statement for sufficiently large real \n𝑋\nX.\nATTEMPTS\n0\nMODES\n2\nBOUNTY\n$3,340"
+ }
+]

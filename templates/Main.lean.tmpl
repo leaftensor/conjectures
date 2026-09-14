@@ -1,0 +1,57 @@
+-- templates/Main.lean.tmpl
+--
+-- The file you write. Copy to Main.lean and fill in.
+--
+-- READ THE RULES. They are all refusals, and they are all enforced before you pay:
+--
+--   * DECLARATIONS ONLY. This file is concatenated between a trusted
+--     SolutionHeader.lean (which carries the imports and opens `namespace Bounty`)
+--     and a SolutionFooter.lean. An `import` of your own is a REFUSAL, not a
+--     duplicate.
+--
+--   * REFUSED: sorry, admit, axiom, set_option, native_decide, instance,
+--     attributes, macro/syntax/notation, unsafe, IO, #eval, and ANY reference to
+--     the source theorem (it is in `forbidden_dependencies` in the manifest).
+--
+--   * PERMITTED AXIOMS, and only these:
+--         propext, Quot.sound, Classical.choice
+--
+--   * THE STATEMENT IS FROZEN. The verifier compares the canonical type of
+--     `Bounty.target` against the task's recorded `generated_target_type_hash`.
+--     You cannot weaken, restate or rescope it. Write the goal exactly as
+--     Challenge.lean does.
+--
+-- Before submitting:   conjectures verify && conjectures check && conjectures pay
+-- Get the goal from:   conjectures tasks challenge <task-id> --dir challenges/
+
+
+-- ---------------------------------------------------------------------------
+-- MODE: formalized  -- prove the published statement
+-- ---------------------------------------------------------------------------
+theorem target : fcTypeOfName% "Erdos944.erdos_944" := by
+  -- Fill in.
+  --
+  -- Useful reflexes while developing (these are COMMENTS because `#check` is a
+  -- command, and commands other than the declaration are not what this file is
+  -- for -- use a scratch file in a Lake project instead):
+  --
+  --   #print Erdos944.SimpleGraph.IsErdos944     -- what does the library name mean?
+  --   exact?                                      -- find a terminal tactic
+  --   aesop?                                      -- try a search tactic
+  --
+  -- Ask the question that matters for a defect hunt: does every hypothesis the
+  -- INFORMAL problem needs actually appear in the type? Continuity, positivity,
+  -- monotonicity, distinctness, finiteness. See docs/03-attack-vectors.md.
+  _
+
+-- ---------------------------------------------------------------------------
+-- MODE: counterexample  -- prove the negation
+--
+-- This is a DIFFERENT task id. Both modes share a slug, so
+-- `conjectures tasks show erdos944` is an ambiguity error -- pin the mode.
+--
+-- Push the negation through by hand before you write anything: `¬∀` is `∃¬`, and
+-- the quantifier order after negation is the usual trap.
+-- ---------------------------------------------------------------------------
+-- theorem target : ¬ (fcTypeOfName% "Erdos944.erdos_944") := by
+--   _

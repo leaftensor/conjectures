@@ -1,0 +1,10300 @@
+Conjectures.io
+Problems
+Results
+How it works
+Roadmap
+FAQ
+Blog
+SIGN IN
+SUBMIT A PROOF
+◐
+
+CATALOG
+
+Every problem here was open when it entered the pool.
+
+Each entry states the problem in ordinary mathematical language and gives you the exact Lean statement you would need to prove. Nothing is paraphrased, so what you read is what gets checked.
+
+SEARCH
+By number
+Most attempted
+▾
+FIELDS
+All fields
+290
+Logic and foundations
+1
+Combinatorics
+61
+Number theory
+202
+Group theory
+3
+Measure and integration
+1
+Complex functions
+1
+Dynamical systems
+1
+Sequences and series
+1
+Harmonic analysis
+1
+Geometry
+2
+Convex and discrete geometry
+12
+Probability
+1
+Information and communication
+3
+
+260 PROBLEMS
+
+NUMBER THEORY
+
+Erdős problem 3
+If 
+𝐴
+⊂
+𝑁
+A⊂N has 
+∑
+𝑛
+∈
+𝐴
+1
+𝑛
+=
+∞
+∑
+n∈A
+	​
+
+n
+1
+	​
+
+=∞, then must 
+𝐴
+A contain arbitrarily long arithmetic progressions?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 9
+Is the upper density of the set of odd numbers that cannot be expressed as a prime plus two powers of 2 positive?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 10
+Is there some 
+𝑘
+k such that every integer is the sum of a prime and at most 
+𝑘
+k powers of 
+2
+2?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 11
+Is every odd 
+𝑛
+>
+1
+n>1 the sum of a squarefree number and a power of 2?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 14 - part i
+Let 
+𝐴
+⊆
+𝑁
+A⊆N. Let 
+𝐵
+⊆
+𝑁
+B⊆N be the set of integers which are representable in exactly one way as the sum of two elements from 
+𝐴
+A. Is it true that for all 
+𝜖
+>
+0
+ϵ>0 and large 
+𝑁
+N, 
+∣
+{
+1
+,
+…
+,
+𝑁
+}
+∖
+𝐵
+∣
+≫
+𝜖
+𝑁
+1
+/
+2
+−
+𝜖
+∣{1,…,N}∖B∣≫
+ϵ
+	​
+
+N
+1/2−ϵ
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 14 - part ii
+Is it possible that 
+∣
+{
+1
+,
+…
+,
+𝑁
+}
+∖
+𝐵
+∣
+=
+𝑜
+(
+𝑁
+1
+2
+)
+∣{1,…,N}∖B∣=o(N
+2
+1
+	​
+
+)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 17
+**Erdős Problem 17.** Are there infinitely many cluster primes?
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 18 - b
+**Conjecture 2.** Is it true that 
+ℎ
+(
+𝑛
+!
+)
+<
+𝑛
+𝑜
+(
+1
+)
+h(n!)<n
+o(1)
+? That is, for all 
+𝜀
+>
+0
+ε>0, is 
+ℎ
+(
+𝑛
+!
+)
+<
+𝑛
+𝜀
+h(n!)<n
+ε
+ for sufficiently large 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Erdős problem 23
+Can every triangle-free graph on 
+5
+𝑛
+5n vertices be made bipartite by deleting at most 
+𝑛
+2
+n
+2
+ edges?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 25
+Let 
+𝑛
+1
+<
+𝑛
+2
+<
+…
+n
+1
+	​
+
+<n
+2
+	​
+
+<… be an arbitrary sequence of integers, each with an associated residue class 
+𝑎
+𝑖
+(
+m
+o
+d
+𝑛
+𝑖
+)
+a
+i
+	​
+
+(modn
+i
+	​
+
+). Let 
+𝐴
+A be the set of integers 
+𝑛
+n such that for every 
+𝑖
+i either 
+𝑛
+<
+𝑛
+𝑖
+n<n
+i
+	​
+
+ or 
+𝑛
+≢
+𝑎
+𝑖
+(
+m
+o
+d
+𝑛
+𝑖
+)
+n
+
+≡a
+i
+	​
+
+(modn
+i
+	​
+
+). Must the logarithmic density of 
+𝐴
+A exist?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 28
+If 
+𝐴
+⊆
+𝑁
+A⊆N is such that 
+𝐴
++
+𝐴
+A+A contains all but finitely many integers then 
+lim sup
+⁡
+1
+𝐴
+∗
+1
+𝐴
+(
+𝑛
+)
+=
+∞
+limsup1
+A
+	​
+
+∗1
+A
+	​
+
+(n)=∞.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 30
+Is it true that, for every 
+𝜀
+>
+0
+ε>0, 
+ℎ
+(
+𝑁
+)
+=
+𝑁
++
+𝑂
+𝜀
+(
+𝑁
+𝜀
+)
+h(N)=
+N
+	​
+
++O
+ε
+	​
+
+(N
+ε
+)
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 32
+Does there exist a set 
+𝐴
+⊆
+𝑁
+A⊆N such that 
+∣
+𝐴
+∩
+{
+1
+,
+…
+,
+𝑁
+}
+∣
+=
+𝑜
+(
+(
+log
+⁡
+𝑁
+)
+2
+)
+∣A∩{1,…,N}∣=o((logN)
+2
+) and every sufficiently large integer can be written as 
+𝑝
++
+𝑎
+p+a for some prime 
+𝑝
+p and 
+𝑎
+∈
+𝐴
+a∈A?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 39
+Is there an infinite Sidon set 
+𝐴
+⊂
+𝑁
+A⊂N such that 
+∣
+𝐴
+∩
+{
+1
+…
+,
+𝑁
+}
+∣
+≫
+𝜖
+𝑁
+1
+/
+2
+−
+𝜖
+∣A∩{1…,N}∣≫
+ϵ
+	​
+
+N
+1/2−ϵ
+ for all 
+𝜀
+>
+0
+ε>0?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 41
+Let 
+𝐴
+⊂
+𝑁
+A⊂N be an infinite set such that the triple sums 
+𝑎
++
+𝑏
++
+𝑐
+a+b+c are all distinct for 
+𝑎
+,
+𝑏
+,
+𝑐
+∈
+𝐴
+a,b,c∈A (aside from the trivial coincidences). Is it true that 
+lim inf
+⁡
+𝑁
+→
+∞
+∣
+𝐴
+∩
+{
+1
+,
+…
+,
+𝑁
+}
+∣
+𝑁
+1
+/
+3
+=
+0
+?
+liminf
+N→∞
+	​
+
+N
+1/3
+∣A∩{1,…,N}∣
+	​
+
+=0?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 44
+**Erdős Problem 44:** Let N ≥ 1 and A ⊆ {1,…,N} be a Sidon set. Is it true that, for any ε > 0, there exist M = M(ε) and B ⊆ {N+1,…,M} such that A ∪ B ⊆ {1,…,M} is a Sidon set of size at least (1−ε)M^{1/2}? This problem asks whether any Sidon set can be extended to achieve a density arbitrarily close to the…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 50
+Let 
+𝑓
+f be the asymptotic distribution function of 
+𝜑
+(
+𝑛
+)
+/
+𝑛
+φ(n)/n, so that for each 
+𝑐
+∈
+[
+0
+,
+1
+]
+c∈[0,1], 
+𝑓
+(
+𝑐
+)
+f(c) is the natural density of 
+{
+𝑛
+:
+𝜑
+(
+𝑛
+)
+<
+𝑐
+𝑛
+}
+{n:φ(n)<cn}. Is it true that there is no 
+𝑥
+x such that the derivative 
+𝑓
+′
+(
+𝑥
+)
+f
+′
+(x) exists and is positive?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 51
+Is there an infinite set 
+𝐴
+⊂
+𝑁
+A⊂N such that for every 
+𝑎
+∈
+𝐴
+a∈A, there is an integer n such that 
+𝜙
+(
+𝑛
+)
+=
+𝑎
+ϕ(n)=a, and yet if 
+𝑛
+𝑎
+n
+a
+	​
+
+ is the smallest such integer, then 
+𝑛
+𝑎
+𝑎
+→
+∞
+a
+n
+a
+	​
+
+	​
+
+→∞ as 
+𝑎
+→
+∞
+a→∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 52
+Let 
+𝐴
+A be a finite set of integers. Is it true that for every 
+𝜖
+>
+0
+ϵ>0 
+max
+⁡
+(
+∣
+𝐴
++
+𝐴
+∣
+,
+∣
+𝐴
+𝐴
+∣
+)
+≫
+𝜖
+∣
+𝐴
+∣
+2
+−
+𝜖
+?
+max(∣A+A∣,∣AA∣)≫
+ϵ
+	​
+
+∣A∣
+2−ϵ
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Erdős problem 61
+The Erdős–Hajnal Conjecture states that there is a constant 
+𝑐
+(
+𝐻
+)
+>
+0
+c(H)>0 for each 
+𝐻
+H such that we can take 
+𝑓
+(
+𝑛
+)
+=
+𝑛
+𝑐
+(
+𝐻
+)
+f(n)=n
+c(H)
+ in the above formulation.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 66
+Is there and 
+𝐴
+⊂
+𝑁
+A⊂N is such that 
+lim
+⁡
+𝑛
+→
+∞
+1
+𝐴
+∗
+1
+𝐴
+(
+𝑛
+)
+log
+⁡
+𝑛
+lim
+n→∞
+	​
+
+logn
+1
+A
+	​
+
+∗1
+A
+	​
+
+(n)
+	​
+
+ exists and is 
+≠
+0
+
+=0?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 68
+Is 
+∑
+𝑛
+=
+2
+∞
+1
+𝑛
+!
+−
+1
+∑
+n=2
+∞
+	​
+
+n!−1
+1
+	​
+
+ irrational?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+LOGIC AND FOUNDATIONS
+
+Erdős problem 70 - omega times two four
+**First open case beyond Erdős–Rado**: 
+𝑐
+→
+(
+𝜔
+⋅
+2
+,
+4
+)
+2
+3
+c→(ω⋅2,4)
+2
+3
+	​
+
+. Erdős and Rado proved 
+𝑐
+→
+(
+𝜔
++
+𝑛
+,
+4
+)
+2
+3
+c→(ω+n,4)
+2
+3
+	​
+
+ for every finite 
+𝑛
+≥
+2
+n≥2 (see erdos_rado), which covers all red ordinals below 
+𝜔
+⋅
+2
+=
+𝜔
++
+𝜔
+ω⋅2=ω+ω. This variant asks whether the result extends to…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 82
+𝐹
+(
+𝑛
+)
+/
+log
+⁡
+𝑛
+→
+∞
+𝑎
+𝑠
+𝑛
+→
+∞
+F(n)/logn→∞asn→∞
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 85
+Is it true that, for all large 
+𝑛
+n, 
+𝑓
+(
+𝑛
++
+1
+)
+≥
+𝑓
+(
+𝑛
+)
+f(n+1)≥f(n)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+CONVEX AND DISCRETE GEOMETRY
+
+Erdős problem 89
+Erdős [Er46] asked whether every set of 
+𝑛
+n distinct points in 
+𝑅
+2
+R
+2
+ determines 
+≫
+𝑛
+log
+⁡
+𝑛
+≫
+logn
+	​
+
+n
+	​
+
+ many distinct distances.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+CONVEX AND DISCRETE GEOMETRY
+
+Erdős problem 91
+Suppose 
+𝐴
+⊂
+𝑅
+2
+A⊂R
+2
+ has 
+∣
+𝐴
+∣
+=
+𝑛
+∣A∣=n and minimises the number of distinct distances between points in 
+𝐴
+A. Prove that for large 
+𝑛
+n there are at least two (and probably many) such 
+𝐴
+A which are non-similar.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+CONVEX AND DISCRETE GEOMETRY
+
+SOLVED
+Erdős problem 96
+If 
+𝑛
+n points in 
+𝑅
+2
+R
+2
+ form a convex polygon then there are 
+𝑂
+(
+𝑛
+)
+O(n) many pairs which are distance 
+1
+1 apart.
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+-
+
+CONVEX AND DISCRETE GEOMETRY
+
+Erdős problem 98
+Let 
+ℎ
+(
+𝑛
+)
+h(n) be such that any 
+𝑛
+n points in 
+𝑅
+2
+R
+2
+, with no three on a line and no four on a circle, determine at least 
+ℎ
+(
+𝑛
+)
+h(n) distinct distances. Does 
+ℎ
+(
+𝑛
+)
+/
+𝑛
+→
+∞
+h(n)/n→∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+CONVEX AND DISCRETE GEOMETRY
+
+Erdős problem 99
+For sufficiently large n, is it the case that any set of n points with minimum distance 
+1
+1 that minimizes diameter must contain an equilateral triangle of side length 1?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+CONVEX AND DISCRETE GEOMETRY
+
+Erdős problem 100
+Is the diameter of 
+𝐴
+A at least 
+𝐶
+𝑛
+Cn for some constant 
+𝐶
+>
+0
+C>0?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 108
+For every r ≥ 4 and k ≥ 2 is there some finite f(k,r) such that every graph of chromatic number ≥ f(k,r) contains a subgraph of girth ≥ r and chromatic number ≥ k?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 120
+Let 
+𝐴
+⊆
+𝑅
+A⊆R be an infinite set. Must there be a set 
+𝐸
+⊆
+𝑅
+E⊆R of positive measure which does not contain any set of the shape 
+𝑎
+∗
+𝐴
++
+𝑏
+a∗A+b for some 
+𝑎
+,
+𝑏
+∈
+𝑅
+a,b∈R and 
+𝑎
+≠
+0
+a
+
+=0?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 124 - ne zero
+Let 
+𝑘
+≠
+0
+k
+
+=0 and 
+3
+≤
+𝑑
+1
+<
+𝑑
+2
+<
+⋯
+<
+𝑑
+𝑟
+3≤d
+1
+	​
+
+<d
+2
+	​
+
+<⋯<d
+r
+	​
+
+ be integers of gcd equal to 
+1
+1 such that 
+∑
+1
+≤
+𝑖
+≤
+𝑟
+1
+𝑑
+𝑖
+−
+1
+≥
+1.
+∑
+1≤i≤r
+	​
+
+d
+i
+	​
+
+−1
+1
+	​
+
+≥1. Can all sufficiently large integers be written as a sum of the shape 
+∑
+𝑖
+𝑐
+𝑖
+𝑎
+𝑖
+∑
+i
+	​
+
+c
+i
+	​
+
+a
+i
+	​
+
+ where 
+𝑐
+𝑖
+∈
+{
+0
+,
+1
+}
+c
+i
+	​
+
+∈{0,1} and 
+𝑎
+𝑖
+a
+i
+	​
+
+ is divisible by 
+𝑑
+𝑖
+𝑘
+d
+i
+k
+	​
+
+ and has only the digits 
+0
+,
+1
+0,1…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 126 - is Little O
+Erdős says that 
+𝑓
+(
+𝑛
+)
+=
+𝑜
+(
+𝑛
+log
+⁡
+𝑛
+)
+f(n)=o(
+logn
+n
+	​
+
+) has never been proved.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 128
+Let G be a graph with n vertices such that every induced subgraph on ≥ 
+𝑛
+/
+2
+n/2 vertices has more than 
+𝑛
+2
+/
+50
+n
+2
+/50 edges. Must G contain a triangle?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 137 - multiple powerful factors
+Erdős [Er82c] conjectures that, if 
+𝑘
+k is fixed, then for all 
+𝑛
+n sufficiently large and all positive integers 
+𝑚
+m, there must be at least 
+𝑘
+k distinct primes 
+𝑝
+p such that 
+𝑝
+∣
+𝑚
+(
+𝑚
++
+1
+)
+⋯
+(
+𝑚
++
+𝑛
+)
+p∣m(m+1)⋯(m+n) and yet 
+𝑝
+2
+p
+2
+ does not divide the right hand side. [Er82c] Erdős, Paul, "Miscellaneous problems in number theory".…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 138
+In [Er80] Erdős asks whether 
+lim
+⁡
+𝑘
+→
+∞
+(
+𝑊
+(
+𝑘
+)
+)
+1
+/
+𝑘
+=
+∞
+lim
+k→∞
+	​
+
+(W(k))
+1/k
+=∞
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Erdős problem 141 - eleven
+Are there 
+11
+11 consecutive primes in arithmetic progression?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 142 - lower
+Show that 
+𝑟
+𝑘
+(
+𝑁
+)
+=
+𝑜
+𝑘
+(
+𝑁
+/
+log
+⁡
+𝑁
+)
+r
+k
+	​
+
+(N)=o
+k
+	​
+
+(N/logN), where 
+𝑟
+𝑘
+(
+𝑁
+)
+r
+k
+	​
+
+(N) the largest possible size of a subset of 
+{
+1
+,
+…
+,
+𝑁
+}
+{1,…,N} that does not contain any non-trivial 
+𝑘
+k-term arithmetic progression.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 143 - part ii
+Or 
+∑
+𝑥
+∈
+𝐴
+1
+𝑥
+log
+⁡
+𝑥
+<
+∞
+,
+∑
+x∈A
+	​
+
+xlogx
+1
+	​
+
+<∞,
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 145
+Let 
+𝑠
+1
+<
+𝑠
+2
+<
+⋯
+s
+1
+	​
+
+<s
+2
+	​
+
+<⋯ be the sequence of squarefree numbers. Is it true that, for any 
+𝛼
+≥
+0
+α≥0, 
+lim
+⁡
+𝑥
+→
+∞
+1
+𝑥
+∑
+𝑠
+𝑛
+≤
+𝑥
+(
+𝑠
+𝑛
++
+1
+−
+𝑠
+𝑛
+)
+𝛼
+lim
+x→∞
+	​
+
+x
+1
+	​
+
+∑
+s
+n
+	​
+
+≤x
+	​
+
+(s
+n+1
+	​
+
+−s
+n
+	​
+
+)
+α
+ exists?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 153
+Let 
+𝐴
+A be a finite Sidon set and 
+𝐴
++
+𝐴
+=
+{
+𝑠
+1
+<
+⋯
+<
+𝑠
+𝑡
+}
+A+A={s
+1
+	​
+
+<⋯<s
+t
+	​
+
+}. Is it true that 
+1
+𝑡
+∑
+1
+≤
+𝑖
+<
+𝑡
+(
+𝑠
+𝑖
++
+1
+−
+𝑠
+𝑖
+)
+2
+→
+∞
+t
+1
+	​
+
+∑
+1≤i<t
+	​
+
+(s
+i+1
+	​
+
+−s
+i
+	​
+
+)
+2
+→∞ as 
+∣
+𝐴
+∣
+→
+∞
+∣A∣→∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 155
+Is it true that for every 
+𝑘
+≥
+1
+k≥1 we have 
+𝐹
+(
+𝑁
++
+𝑘
+)
+≤
+𝐹
+(
+𝑁
+)
++
+1
+F(N+k)≤F(N)+1 for all sufficiently large 
+𝑁
+N?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 156
+Does there exist a maximal Sidon set 
+𝐴
+⊂
+{
+1
+,
+…
+,
+𝑁
+}
+A⊂{1,…,N} of size 
+𝑂
+(
+𝑁
+1
+/
+3
+)
+O(N
+1/3
+)? A question of Erdős, Sárközy, and Sós [ESS94].
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 158
+Let A be an infinite B₂[2] set. Must liminf |A ∩ {1, ..., N}| * N ^ (- 1 / 2) = 0?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 168 - part ii
+Is the limit 
+𝐹
+(
+𝑁
+)
+/
+𝑁
+F(N)/N as 
+𝑁
+→
+∞
+N→∞ irrational?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Erdős problem 172
+Is it true that in any finite colouring of 
+𝑁
+N there exist arbitrarily large finite 
+𝐴
+A such that all sums and products of distinct elements in 
+𝐴
+A are the same colour?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 184
+Any graph on 
+𝑛
+n vertices can be decomposed into 
+𝑂
+(
+𝑛
+)
+O(n) many edge-disjoint cycles and edges.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+SOLVED
+Erdős problem 196
+Must every permutation of 
+𝑁
+N, contain a monotone 4-term arithmetic progression?
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+-
+
+COMBINATORICS
+
+Erdős problem 200
+Does the longest arithmetic progression of primes in 
+{
+1
+,
+…
+,
+𝑁
+}
+{1,…,N} have length 
+𝑜
+(
+log
+⁡
+𝑁
+)
+o(logN)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 208 - log bound
+In [Er79] Erdős says perhaps 
+𝑠
+𝑛
++
+1
+−
+𝑠
+𝑛
+≪
+log
+⁡
+𝑠
+𝑛
+s
+n+1
+	​
+
+−s
+n
+	​
+
+≪logs
+n
+	​
+
+, but he is 'very doubtful'. [Er79] Erdős, Paul, __Some unconventional problems in number theory__. Math. Mag. (1979), 67-70.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+CONVEX AND DISCRETE GEOMETRY
+
+Erdős problem 212
+Is there a dense subset of ℝ^2 such that all pairwise distances are rational?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+CONVEX AND DISCRETE GEOMETRY
+
+Erdős problem 213
+Let 
+𝑛
+≥
+4
+n≥4. Are there 
+𝑛
+n points in 
+𝑅
+2
+R
+2
+, no three on a line and no four on a circle, such that all pairwise distances are integers?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 218 - ge
+The set of indices 
+𝑛
+n for which a prime gap is preceded by a larger or equal prime gap has a natural density of 
+1
+2
+2
+1
+	​
+
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 218 - infinite equal prime gap
+There are infinitely many indices 
+𝑛
+n such that the prime gap at 
+𝑛
+n is equal to the prime gap at 
+𝑛
++
+1
+n+1. This is equivalent to the existence of infinitely many arithmetic progressions of length 
+3
+3, see erdos_141.variants.infinite_three.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 218 - le
+The set of indices 
+𝑛
+n for which a prime gap is followed by a larger or equal prime gap has a natural density of 
+1
+2
+2
+1
+	​
+
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 233
+A conjecture by Heath-Brown: The sum of squares of the first 
+𝑁
+N gaps between consecutive primes behaves like 
+𝑁
+∗
+(
+𝑙
+𝑜
+𝑔
+𝑁
+)
+2
+N∗(logN)
+2
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 234
+Is it true that for all c ≥ 0, the density f c of integers for which (p (n + 1) - p n) / log n < c exists and is a continuous function of c?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Erdős problem 236
+Let 
+𝑓
+(
+𝑛
+)
+f(n) count the number of solutions to 
+𝑛
+=
+𝑝
++
+2
+𝑘
+n=p+2
+k
+ for prime 
+𝑝
+p and 
+𝑘
+≥
+0
+k≥0. Show that 
+𝑓
+(
+𝑛
+)
+=
+𝑜
+(
+log
+⁡
+𝑛
+)
+f(n)=o(logn).
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 238
+Let c₁, c₂ > 0. Is it true that for any sufficiently large x, there exists more than c₁ * log x many consecutive primes ≤ x such that the difference between any two is > c₂?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 241 - generalization
+More generally, Bose and Chowla [BoCh62] conjectured that the maximum size of 
+𝐴
+⊆
+{
+1
+,
+…
+,
+𝑁
+}
+A⊆{1,…,N} with all 
+𝑟
+r-fold sums distinct (aside from the trivial coincidences) then 
+∣
+𝐴
+∣
+∼
+𝑁
+1
+/
+𝑟
+.
+∣A∣∼N
+1/r
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 242 - schinzel generalization
+Schinzel conjectured (see [Si56]) the generalisation that, for any fixed 
+𝑎
+a, if 
+𝑛
+n is sufficiently large in terms of 
+𝑎
+a then there exist distinct integers 
+1
+≤
+𝑥
+<
+𝑦
+<
+𝑧
+1≤x<y<z such that 
+𝑎
+𝑛
+=
+1
+𝑥
++
+1
+𝑦
++
+1
+𝑧
+.
+n
+a
+	​
+
+=
+x
+1
+	​
+
++
+y
+1
+	​
+
++
+z
+1
+	​
+
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+SEQUENCES AND SERIES
+
+Erdős problem 243
+Let 
+𝑎
+1
+<
+𝑎
+2
+<
+…
+a
+1
+	​
+
+<a
+2
+	​
+
+<… be a sequence of integers such that 
+lim
+⁡
+𝑛
+→
+∞
+𝑎
+𝑛
+𝑎
+𝑛
+−
+1
+2
+=
+1
+lim
+n→∞
+	​
+
+a
+n−1
+2
+	​
+
+a
+n
+	​
+
+	​
+
+=1 and 
+∑
+1
+𝑎
+𝑛
+∈
+𝑄
+∑
+a
+n
+	​
+
+1
+	​
+
+∈Q. Then, for all sufficiently large 
+𝑛
+≥
+1
+n≥1, 
+𝑎
+𝑛
+=
+𝑎
+𝑛
+−
+1
+2
+−
+𝑎
+𝑛
+−
+1
++
+1
+a
+n
+	​
+
+=a
+n−1
+2
+	​
+
+−a
+n−1
+	​
+
++1.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 244
+Let 
+𝐶
+>
+1
+C>1. Does the set of integers of the form 
+𝑝
++
+⌊
+𝐶
+𝑘
+⌋
+p+⌊C
+k
+⌋, for some prime 
+𝑝
+p and 
+𝑘
+≥
+0
+k≥0, have density 
+>
+0
+>0?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 247
+Let 
+𝑛
+1
+<
+𝑛
+2
+<
+⋯
+n
+1
+	​
+
+<n
+2
+	​
+
+<⋯ be a sequence of integers such that 
+lim sup
+⁡
+𝑛
+𝑘
+𝑘
+=
+∞
+.
+limsup
+k
+n
+k
+	​
+
+	​
+
+=∞. Is 
+∑
+𝑘
+=
+1
+∞
+1
+2
+𝑛
+𝑘
+∑
+k=1
+∞
+	​
+
+2
+n
+k
+	​
+
+1
+	​
+
+ transcendental?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 249
+Is 
+∑
+𝑛
+𝜙
+(
+𝑛
+)
+2
+𝑛
+∑
+n
+	​
+
+2
+n
+ϕ(n)
+	​
+
+ irrational? Here 
+𝜙
+ϕ is the Euler totient function.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 251
+Is 
+∑
+𝑛
+=
+1
+∞
+𝑝
+𝑛
+2
+𝑛
+∑
+n=1
+∞
+	​
+
+2
+n
+p
+n
+	​
+
+	​
+
+ irrational? Here 
+𝑝
+𝑛
+p
+n
+	​
+
+ is the 
+𝑛
+n-th prime (
+𝑝
+1
+=
+2
+,
+𝑝
+2
+=
+3
+,
+…
+p
+1
+	​
+
+=2,p
+2
+	​
+
+=3,…).
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 252
+Erdős Problem 252: irrationality of the sum for a given 
+𝑘
+k.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 257
+Let 
+𝐴
+⊆
+𝑁
+A⊆N be an infinite set. Is 
+∑
+𝑛
+∈
+𝐴
+1
+2
+𝑛
+−
+1
+∑
+n∈A
+	​
+
+2
+n
+−1
+1
+	​
+
+ irrational?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 263 - part i
+Is 
+𝑎
+𝑛
+=
+2
+2
+𝑛
+a
+n
+	​
+
+=2
+2
+n
+ an irrationality sequence in the above sense?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 264 - part ii
+Is 
+𝑛
+!
+n! an example of an irrationality sequence?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 269 - irrational
+Let 
+𝑃
+P be a finite set of primes with 
+∣
+𝑃
+∣
+≥
+2
+∣P∣≥2 and let 
+{
+𝑎
+1
+<
+𝑎
+2
+<
+…
+ 
+}
+{a
+1
+	​
+
+<a
+2
+	​
+
+<…} be the set of positive integers whose prime factors are all in 
+𝑃
+P. Is the sum 
+∑
+𝑛
+=
+1
+∞
+1
+[
+𝑎
+1
+,
+…
+,
+𝑎
+𝑛
+]
+∑
+n=1
+∞
+	​
+
+[a
+1
+	​
+
+,…,a
+n
+	​
+
+]
+1
+	​
+
+ irrational?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+SOLVED
+Erdős problem 272 - szabo strong
+Szabo asks whether the maximal 
+𝑡
+t is given by 
+𝑁
+2
+2
++
+𝑂
+(
+𝑁
+)
+2
+N
+2
+	​
+
++O(N)
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+-
+
+GROUP THEORY
+
+Erdős problem 274 - herzog schonheim
+Let 
+𝐺
+G be a group, and let 
+𝐴
+=
+{
+𝑎
+1
+𝐺
+1
+,
+…
+,
+𝑎
+𝑘
+𝐺
+𝑘
+}
+A={a
+1
+	​
+
+G
+1
+	​
+
+,…,a
+k
+	​
+
+G
+k
+	​
+
+} be a finite system of left cosets of subgroups 
+𝐺
+1
+,
+…
+,
+𝐺
+𝑘
+G
+1
+	​
+
+,…,G
+k
+	​
+
+ of 
+𝐺
+G. Herzog and Schönheim conjectured that if 
+𝐴
+A forms a partition of 
+𝐺
+G with 
+𝑘
+>
+1
+k>1, then the indices 
+[
+𝐺
+:
+𝐺
+1
+]
+,
+…
+,
+[
+𝐺
+:
+𝐺
+𝑘
+]
+[G:G
+1
+	​
+
+],…,[G:G
+k
+	​
+
+] cannot be distinct.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 282
+Let 
+𝐴
+⊆
+𝑁
+A⊆N be an infinite set and consider the following greedy algorithm for a rational 
+𝑥
+∈
+(
+0
+,
+1
+)
+x∈(0,1): choose the minimal 
+𝑛
+∈
+𝐴
+n∈A such that 
+𝑛
+≥
+1
+/
+𝑥
+n≥1/x and repeat with 
+𝑥
+x replaced by 
+𝑥
+−
+1
+𝑛
+x−
+n
+1
+	​
+
+. If this terminates after finitely many steps then this produces a representation of 
+𝑥
+x as the sum…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 287
+Let 
+𝑘
+≥
+2
+k≥2. Is it true that, for any distinct integers 
+1
+<
+𝑛
+1
+<
+⋯
+<
+𝑛
+𝑘
+1<n
+1
+	​
+
+<⋯<n
+k
+	​
+
+ such that 
+∑
+𝑖
+=
+1
+𝑘
+1
+𝑛
+𝑖
+=
+1
+∑
+i=1
+k
+	​
+
+n
+i
+	​
+
+1
+	​
+
+=1, we must have 
+max
+⁡
+(
+𝑛
+𝑖
++
+1
+−
+𝑛
+𝑖
+)
+≥
+3
+max(n
+i+1
+	​
+
+−n
+i
+	​
+
+)≥3?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 291 - part i
+Let 
+𝑛
+≥
+1
+n≥1 and define 
+𝐿
+𝑛
+L
+n
+	​
+
+ to be the least common multiple of 
+{
+1
+,
+…
+,
+𝑛
+}
+{1,…,n} and 
+𝑎
+𝑛
+a
+n
+	​
+
+ by 
+∑
+1
+≤
+𝑘
+≤
+𝑛
+1
+𝑘
+=
+𝑎
+𝑛
+𝐿
+𝑛
+∑
+1≤k≤n
+	​
+
+k
+1
+	​
+
+=
+L
+n
+	​
+
+a
+n
+	​
+
+	​
+
+. Is it true that 
+(
+𝑎
+𝑛
+,
+𝐿
+𝑛
+)
+=
+1
+(a
+n
+	​
+
+,L
+n
+	​
+
+)=1 occurs for infinitely many 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 291 - shiu heuristic density zero
+In particular, there should be infinitely many 
+𝑛
+n, but the set of such 
+𝑛
+n should have density zero. Unfortunately this heuristic is difficult to turn into a proof.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 304 - upper bound
+Is it true that 
+𝑁
+(
+𝑏
+)
+≪
+log
+⁡
+log
+⁡
+𝑏
+N(b)≪loglogb?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 307
+Are there two finite set of primes 
+𝑃
+P and 
+𝑄
+Q such that 
+1
+=
+(
+∑
+𝑝
+∈
+𝑃
+1
+𝑝
+)
+(
+∑
+𝑞
+∈
+𝑄
+1
+𝑞
+)
+1=(∑
+p∈P
+	​
+
+p
+1
+	​
+
+)(∑
+q∈Q
+	​
+
+q
+1
+	​
+
+) ? Asked by Barbeau [Ba76]. [Ba76] Barbeau, E. J., _Computer challenge corner: Problem 477: A brute force program._
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 313 - primary pseudoperfect are infinite
+It is conjectured that the set of primary pseudoperfect numbers is infinite.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 317 - claim 2
+Is it true that for sufficiently large 
+𝑛
+n, for any 
+𝛿
+𝑘
+∈
+{
+−
+1
+,
+0
+,
+1
+}
+δ
+k
+	​
+
+∈{−1,0,1}, 
+∣
+∑
+1
+≤
+𝑘
+≤
+𝑛
+𝛿
+𝑘
+𝑘
+∣
+>
+1
+[
+1
+,
+…
+,
+𝑛
+]
+	​
+
+∑
+1≤k≤n
+	​
+
+k
+δ
+k
+	​
+
+	​
+
+	​
+
+>
+[1,…,n]
+1
+	​
+
+ whenever the left-hand side is not zero?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 323 - part i
+Is it true that 
+𝑓
+𝑘
+,
+𝑘
+(
+𝑥
+)
+≫
+𝜖
+𝑥
+1
+−
+𝜖
+f
+k,k
+	​
+
+(x)≫
+ϵ
+	​
+
+x
+1−ϵ
+ for all 
+𝜖
+>
+0
+ϵ>0? This would have significant applications to Waring's problem. Erdős and Graham describe this as 'unattackable by the methods at our disposal'.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 323 - part ii
+Is it true that if 
+𝑚
+<
+𝑘
+m<k then 
+𝑓
+𝑘
+,
+𝑚
+(
+𝑥
+)
+≫
+𝑥
+𝑚
+/
+𝑘
+f
+k,m
+	​
+
+(x)≫x
+m/k
+ for sufficiently large 
+𝑥
+x?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 323 - k gt 2
+For 
+𝑘
+>
+2
+k>2 it is not known if 
+𝑓
+𝑘
+,
+𝑘
+(
+𝑥
+)
+=
+𝑜
+(
+𝑥
+)
+f
+k,k
+	​
+
+(x)=o(x).
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 324 - quintic
+Probably 
+𝑓
+(
+𝑥
+)
+=
+𝑥
+5
+f(x)=x
+5
+ has the property that the sums 
+𝑓
+(
+𝑎
+)
++
+𝑓
+(
+𝑏
+)
+f(a)+f(b) with 
+𝑎
+<
+𝑏
+a<b nonnegative integers are distinct.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 325
+Writing 
+𝑓
+𝑘
+,
+3
+(
+𝑥
+)
+f
+k,3
+	​
+
+(x) for the number of integers 
+≤
+𝑥
+≤x which are the sum of three 
+𝑘
+kth powers, is it true that 
+𝑓
+𝑘
+,
+3
+(
+𝑥
+)
+≫
+𝑥
+(
+3
+/
+𝑘
+)
+f
+k,3
+	​
+
+(x)≫x
+(
+3/k)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 340
+Let 
+𝐴
+=
+{
+1
+,
+2
+,
+4
+,
+8
+,
+13
+,
+21
+,
+31
+,
+45
+,
+66
+,
+81
+,
+97
+,
+…
+}
+A={1,2,4,8,13,21,31,45,66,81,97,…} be the greedy Sidon sequence: we begin with 
+1
+1 and iteratively include the next smallest integer that preserves the Sidon property (i.e. there are no non-trivial solutions to 
+𝑎
++
+𝑏
+=
+𝑐
++
+𝑑
+a+b=c+d). What is the order of growth of 
+𝐴
+A? Is it true that…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 340 - sub has Pos Density
+Erdős and Graham [ErGr80] also asked about the difference set 
+𝐴
+−
+𝐴
+A−A and whether this has positive density. [ErGr80] Erdős, P. and Graham, R., Old and new problems and results in combinatorial number theory. Monographies de L'Enseignement Mathematique (1980).
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 354 - part i
+Let 
+𝛼
+,
+𝛽
+∈
+𝑅
+>
+0
+α,β∈R
+>0
+	​
+
+ such that 
+𝛼
+/
+𝛽
+α/β is irrational. Is the multiset 
+{
+⌊
+𝛼
+⌋
+,
+⌊
+2
+𝛼
+⌋
+,
+⌊
+4
+𝛼
+⌋
+,
+…
+}
+∪
+{
+⌊
+𝛽
+⌋
+,
+⌊
+2
+𝛽
+⌋
+,
+⌊
+4
+𝛽
+⌋
+,
+…
+}
+{⌊α⌋,⌊2α⌋,⌊4α⌋,…}∪{⌊β⌋,⌊2β⌋,⌊4β⌋,…} complete?
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 357 - part i
+Let 
+𝑓
+(
+𝑛
+)
+f(n) be the maximal 
+𝑘
+k such that there exist integers 
+1
+≤
+𝑎
+1
+<
+…
+<
+𝑎
+𝑘
+≤
+𝑛
+1≤a
+1
+	​
+
+<…<a
+k
+	​
+
+≤n such that all sums of the shape 
+∑
+𝑢
+≤
+𝑖
+≤
+𝑣
+𝑎
+𝑖
+∑
+u≤i≤v
+	​
+
+a
+i
+	​
+
+ are distinct. Is 
+𝑓
+(
+𝑛
+)
+=
+𝑜
+(
+𝑛
+)
+f(n)=o(n)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 357 - infinite set density
+Suppose 
+𝐴
+A is an infinite set such that all finite sums of consecutive terms of 
+𝐴
+A are distinct. Then it is conjectured that 
+𝐴
+A has density 0.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 357 - infinite set sum
+Suppose 
+𝐴
+A is an infinite set such that all finite sums of consecutive terms of 
+𝐴
+A are distinct. Then it is conjectured that the sum 
+∑
+𝑘
+1
+𝑎
+𝑘
+∑
+k
+	​
+
+a
+k
+	​
+
+1
+	​
+
+ converges.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 357 - monotone, part i
+Let 
+ℎ
+(
+𝑛
+)
+h(n) be the maximal 
+𝑘
+k such that there exist integers 
+1
+≤
+𝑎
+1
+≤
+…
+≤
+𝑎
+𝑘
+≤
+𝑛
+1≤a
+1
+	​
+
+≤…≤a
+k
+	​
+
+≤n such that all sums of the shape 
+∑
+𝑢
+≤
+𝑖
+≤
+𝑣
+𝑎
+𝑖
+∑
+u≤i≤v
+	​
+
+a
+i
+	​
+
+ are distinct. Is 
+ℎ
+(
+𝑛
+)
+=
+𝑜
+(
+𝑛
+)
+h(n)=o(n)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 359 - part i
+Let 
+𝑎
+1
+<
+𝑎
+2
+<
+⋯
+a
+1
+	​
+
+<a
+2
+	​
+
+<⋯ be an infinite sequence of integers such that 
+𝑎
+1
+=
+1
+a
+1
+	​
+
+=1 and 
+𝑎
+𝑖
++
+1
+a
+i+1
+	​
+
+ is the least integer which is not a sum of consecutive earlier 
+𝑎
+𝑗
+a
+j
+	​
+
+s. Show that 
+𝑎
+𝑘
+/
+𝑘
+→
+∞
+a
+k
+	​
+
+/k→∞.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 359 - part ii
+Let 
+𝑎
+1
+<
+𝑎
+2
+<
+⋯
+a
+1
+	​
+
+<a
+2
+	​
+
+<⋯ be an infinite sequence of integers such that 
+𝑎
+1
+=
+1
+a
+1
+	​
+
+=1 and 
+𝑎
+𝑖
++
+1
+a
+i+1
+	​
+
+ is the least integer which is not a sum of consecutive earlier 
+𝑎
+𝑗
+a
+j
+	​
+
+s. Show that 
+𝑎
+𝑘
+/
+𝑘
+1
++
+𝑐
+→
+0
+a
+k
+	​
+
+/k
+1+c
+→0 for any 
+𝑐
+>
+0
+c>0.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 359 - is Good For 1 asymptotic
+Suppose monotone sequence 
+𝐴
+A satisfies the following: A 0 = 1 and for all j, A (j + 1) is the smallest natural number that cannot be written as a sum of consecutive terms of A 0, ..., A j. Then it is conjectured that 
+𝑎
+𝑘
+ 
+𝑘
+log
+⁡
+𝑘
+log
+⁡
+log
+⁡
+𝑘
+a
+k
+	​
+
+ 
+loglogk
+klogk
+	​
+
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 364
+There is no consecutive triple of powerful numbers.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 364 - strong
+Erdős [Er76d] conjectured a stronger statement: if 
+𝑛
+𝑘
+n
+k
+	​
+
+ is the 
+𝑘
+kth powerful number, then 
+𝑛
+𝑘
++
+2
+−
+𝑛
+𝑘
+>
+𝑛
+𝑘
+𝑐
+n
+k+2
+	​
+
+−n
+k
+	​
+
+>n
+k
+c
+	​
+
+ for some constant 
+𝑐
+>
+0
+c>0. [Er76d] Erdős, P., Problems and results on number theoretic properties of consecutive integers and related questions. Proceedings of the Fifth Manitoba Conference on Numerical…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 366
+Are there any 
+2
+2-full 
+𝑛
+n such that 
+𝑛
++
+1
+n+1 is 
+3
+3-full?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 371
+Let 
+𝑃
+(
+𝑛
+)
+P(n) denote the largest prime factor of 
+𝑛
+n. Show that the set of 
+𝑛
+n with 
+𝑃
+(
+𝑛
++
+1
+)
+>
+𝑃
+(
+𝑛
+)
+P(n+1)>P(n) has density 
+1
+2
+2
+1
+	​
+
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 373
+Show that the equation n!=a_1!a_2!···a_k!, with n−1 > a_1 ≥ a_2 ≥ ··· ≥ a_k, has only finitely many solutions.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 373 - maximal solution
+Hickerson conjectured the largest solution the equation n!=a_1!a_2!···a_k!, with n−1 > a_1 ≥ a_2 ≥ ··· ≥ a_k, is 16!=14!5!2!.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 373 - suranyi
+Surányi was the first to conjecture that the only non-trivial solution to a!b!=n! is 6!7!=10!.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 375
+Is Erdos375Prop true?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 376
+Are there infinitely many 
+𝑛
+n such that 
+(
+2
+𝑛
+𝑛
+)
+(
+n
+2n
+	​
+
+) is coprime to 
+105
+105?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 383
+Is it true that for every 
+𝑘
+k there are infinitely many primes 
+𝑝
+p such that the largest prime divisor of 
+∏
+𝑖
+=
+0
+𝑘
+(
+𝑝
+2
++
+𝑖
+)
+∏
+i=0
+k
+	​
+
+(p
+2
++i) is 
+𝑝
+p?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 385 - part i
+Let 
+𝐹
+(
+𝑛
+)
+:
+=
+max
+⁡
+{
+𝑚
++
+𝑝
+(
+𝑚
+)
+∣
+𝑚
+<
+𝑛
+ composite
+}
+}
+F(n):=max{m+p(m)∣m<n composite}} where 
+𝑝
+(
+𝑚
+)
+p(m) is the least prime divisor of 
+𝑚
+m. Is it true that 
+𝐹
+(
+𝑛
+)
+>
+𝑛
+F(n)>n for all sufficiently large 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 386 - two
+Can 
+(
+𝑛
+2
+)
+(
+2
+n
+	​
+
+) be the product of consecutive primes infinitely often?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 396
+Is it true that for every 
+𝑘
+k there exists 
+𝑛
+n such that 
+∏
+0
+≤
+𝑖
+≤
+𝑘
+(
+𝑛
+−
+𝑖
+)
+∣
+(
+2
+𝑛
+𝑛
+)
+?
+∏
+0≤i≤k
+	​
+
+(n−i)∣(
+n
+2n
+	​
+
+)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 400 - part i
+Can one show that 
+∑
+𝑛
+≤
+𝑥
+𝑔
+𝑘
+(
+𝑛
+)
+∼
+𝑐
+𝑘
+𝑥
+log
+⁡
+𝑥
+∑
+n≤x
+	​
+
+g
+k
+	​
+
+(n)∼c
+k
+	​
+
+xlogx for some constant 
+𝑐
+𝑘
+c
+k
+	​
+
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 406 - one two
+If we only allow the digits 
+1
+1 and 
+2
+2 then 
+2
+15
+2
+15
+ seems to be the largest such power of 
+2
+2.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 409 - sigma termination
+If 
+𝑛
+>
+1
+n>1 then the iteration 
+𝑛
+↦
+𝜎
+(
+𝑛
+)
+−
+1
+n↦σ(n)−1 necessarily reaches a prime. Note: this is open — it is not clear that the σ iteration always terminates, since it is non-decreasing (unlike the φ iteration which is strictly decreasing).
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 410
+Let 
+𝜎
+1
+(
+𝑛
+)
+=
+𝜎
+(
+𝑛
+)
+σ
+1
+	​
+
+(n)=σ(n), the sum of divisors function, and 
+𝜎
+𝑘
+(
+𝑛
+)
+=
+𝜎
+(
+𝜎
+𝑘
+−
+1
+(
+𝑛
+)
+)
+σ
+k
+	​
+
+(n)=σ(σ
+k−1
+	​
+
+(n)). Is it true that 
+lim
+⁡
+𝑘
+→
+∞
+𝜎
+𝑘
+(
+𝑛
+)
+1
+𝑘
+=
+∞
+lim
+k→∞
+	​
+
+σ
+k
+	​
+
+(n)
+k
+1
+	​
+
+=∞? This is problem (iii) from Erdos, Granville, Pomerance, Spiro "On the normal behavior of the iterates of some arithmetical functions" (page 169 of the book "Analytic Number Theory"…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 412
+Let 
+𝜎
+1
+(
+𝑛
+)
+=
+𝜎
+(
+𝑛
+)
+σ
+1
+	​
+
+(n)=σ(n), the sum of divisors function, and 
+𝜎
+𝑘
+(
+𝑛
+)
+=
+𝜎
+(
+𝜎
+𝑘
+−
+1
+(
+𝑛
+)
+)
+σ
+k
+	​
+
+(n)=σ(σ
+k−1
+	​
+
+(n)). Is it true that, for every 
+𝑚
+,
+𝑛
+≥
+2
+m,n≥2, there exist some 
+𝑖
+,
+𝑗
+i,j such that 
+𝜎
+𝑖
+(
+𝑚
+)
+=
+𝜎
+𝑗
+(
+𝑛
+)
+σ
+i
+	​
+
+(m)=σ
+j
+	​
+
+(n)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 413 - part i
+Are there infinitely many barriers for ω?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 414
+Let 
+ℎ
+1
+(
+𝑛
+)
+=
+ℎ
+(
+𝑛
+)
+h
+1
+	​
+
+(n)=h(n) and 
+ℎ
+𝑘
+(
+𝑛
+)
+=
+ℎ
+(
+ℎ
+𝑘
+−
+1
+(
+𝑛
+)
+)
+h
+k
+	​
+
+(n)=h(h
+k−1
+	​
+
+(n)). Is it true, for any 
+𝑚
+,
+𝑛
+m,n, there exist 
+𝑖
+i and 
+𝑗
+j such that 
+ℎ
+𝑖
+(
+𝑚
+)
+=
+ℎ
+𝑗
+(
+𝑛
+)
+h
+i
+	​
+
+(m)=h
+j
+	​
+
+(n)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 416 - part i
+Let V(x) count the number of n≤x such that ϕ(m)=n is solvable. Does V(2x)/V(x)→2 ?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 428
+Is there a set 
+𝐴
+⊆
+𝑁
+A⊆N such that, for infinitely many 
+𝑛
+n, all of 
+𝑛
+−
+𝑎
+n−a are prime for all 
+𝑎
+∈
+𝐴
+a∈A with 
+0
+<
+𝑎
+<
+𝑛
+0<a<n and 
+lim inf
+⁡
+∣
+𝐴
+∩
+[
+1
+,
+𝑥
+]
+∣
+𝜋
+(
+𝑥
+)
+>
+0
+?
+liminf
+π(x)
+∣A∩[1,x]∣
+	​
+
+>0?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 445
+Is it true that, for any 
+𝑐
+>
+1
+/
+2
+c>1/2, if 
+𝑝
+p is a sufficiently large prime then, for any 
+𝑛
+≥
+0
+n≥0, there exist 
+𝑎
+,
+𝑏
+∈
+(
+𝑛
+,
+𝑛
++
+𝑝
+𝑐
+)
+a,b∈(n,n+p
+c
+) such that 
+𝑎
+𝑏
+≡
+1
+(
+m
+o
+d
+𝑝
+)
+ab≡1(modp)? This is discussed in this MathOverflow question [MathOverflow].
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 454
+Is it true that limsup (fun n => (f n - 2 * n.nth Prime : ℕ∞)) atTop = ⊤?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 455
+Let q : ℕ → ℕ be a strictly increasing sequence of primes such that q (n + 2) - q (n + 1) ≥ q (n + 1) - q n. Must lim q n / (n ^ 2) = ∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 456 - part iii
+Are there infinitely many primes 
+𝑝
+p such that 
+𝑝
+−
+1
+p−1 is the only 
+𝑛
+n for which 
+𝑚
+𝑛
+=
+𝑝
+m
+n
+	​
+
+=p?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 458
+Let 
+lcm
+⁡
+(
+1
+,
+…
+,
+𝑛
+)
+lcm(1,…,n) denote the least common multiple of 
+{
+1
+,
+…
+,
+𝑛
+}
+{1,…,n}. Let 
+𝑝
+𝑘
+p
+k
+	​
+
+ be the 
+𝑘
+k-th prime. Is it true that for all 
+𝑘
+≥
+1
+k≥1, 
+lcm
+⁡
+(
+1
+,
+…
+,
+𝑝
+𝑘
++
+1
+−
+1
+)
+<
+𝑝
+𝑘
+⋅
+lcm
+⁡
+(
+1
+,
+…
+,
+𝑝
+𝑘
+)
+lcm(1,…,p
+k+1
+	​
+
+−1)<p
+k
+	​
+
+⋅lcm(1,…,p
+k
+	​
+
+)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 463
+Is there a function 
+𝑓
+f with 
+𝑓
+(
+𝑛
+)
+→
+∞
+f(n)→∞ as 
+𝑛
+→
+∞
+n→∞ such that, for all large 
+𝑛
+n, there is a composite number 
+𝑚
+m such that 
+𝑛
++
+𝑓
+(
+𝑛
+)
+<
+𝑚
+<
+𝑛
++
+𝑝
+(
+𝑚
+)
+n+f(n)<m<n+p(m) Here 
+𝑝
+(
+𝑚
+)
+p(m) is the least prime factor of 
+𝑚
+m.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 479
+Is it true that, for every integer 
+𝑘
+≠
+1
+k
+
+=1, there are infinitely many 
+𝑛
+n such that 
+2
+𝑛
+≡
+𝑘
+(
+m
+o
+d
+𝑛
+)
+2
+n
+≡k(modn)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 495
+Let 
+𝛼
+,
+𝛽
+∈
+𝑅
+α,β∈R. Is it true that
+lim inf
+⁡
+𝑛
+→
+∞
+𝑛
+∥
+𝑛
+𝛼
+∥
+∥
+𝑛
+𝛽
+∥
+=
+0
+liminf
+n→∞
+	​
+
+n∥nα∥∥nβ∥=0? This is also known as the Littlewood conjecture.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMPLEX FUNCTIONS
+
+Erdős problem 517
+If f(z) = ∑ aₖzⁿₖ is an entire function (with aₖ ≠ 0 for all k) such that nₖ / k → ∞, is it true that f assumes every value infinitely often?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 535
+Let 
+𝑟
+≥
+3
+r≥3, and let 
+𝑓
+𝑟
+(
+𝑁
+)
+f
+r
+	​
+
+(N) denote the size of the largest subset of 
+{
+1
+,
+…
+,
+𝑁
+}
+{1,…,N} such that no subset of size 
+𝑟
+r has the same pairwise greatest common divisor between all elements. Erdős [Er64] proved that 
+𝑓
+3
+(
+𝑁
+)
+>
+𝑁
+𝑐
+/
+log
+⁡
+log
+⁡
+𝑁
+f
+3
+	​
+
+(N)>N
+c/loglogN
+ for some constant 
+𝑐
+>
+0
+c>0, and conjectured this should also be an upper…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 535 - first open case
+The first open case of Erdős Problem 535 is 
+𝑟
+=
+3
+r=3: there should exist 
+𝑐
+>
+0
+c>0 such that 
+𝑓
+3
+(
+𝑁
+)
+≤
+𝑁
+𝑐
+/
+log
+⁡
+log
+⁡
+𝑁
+f
+3
+	​
+
+(N)≤N
+c/loglogN
+ for all sufficiently large 
+𝑁
+N.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 564
+Let 
+𝑅
+3
+(
+𝑛
+)
+R
+3
+	​
+
+(n) be the minimal 
+𝑚
+m such that if the edges of the 
+3
+3-uniform hypergraph on 
+𝑚
+m vertices are 
+2
+2-coloured then there is a monochromatic copy of the complete 
+3
+3-uniform hypergraph on 
+𝑛
+n vertices. Is there some constant 
+𝑐
+>
+0
+c>0 such that 
+𝑅
+3
+(
+𝑛
+)
+≥
+2
+2
+𝑐
+𝑛
+?
+R
+3
+	​
+
+(n)≥2
+2
+cn
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 579
+Let 
+𝛿
+>
+0
+δ>0. If 
+𝑛
+n is sufficiently large and 
+𝐺
+G is a graph on 
+𝑛
+n vertices with no 
+𝐾
+2
+,
+2
+,
+2
+K
+2,2,2
+	​
+
+ (the octahedron) and at least 
+𝛿
+𝑛
+2
+δn
+2
+ edges, must 
+𝐺
+G contain an independent set of size 
+≫
+𝛿
+𝑛
+≫
+δ
+	​
+
+n? This is a problem of Erdős, Hajnal, Sós, and Szemerédi [EHSS83]. It is **open**; they proved the statement…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 600 - part i
+Let 
+𝑟
+≥
+2
+r≥2. Is it true that 
+𝑒
+(
+𝑛
+,
+𝑟
++
+1
+)
+−
+𝑒
+(
+𝑛
+,
+𝑟
+)
+→
+∞
+e(n,r+1)−e(n,r)→∞ as 
+𝑛
+→
+∞
+n→∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 617
+Let 
+𝑟
+≥
+3
+r≥3. If the edges of 
+𝐾
+𝑟
+2
++
+1
+K
+r
+2
++1
+	​
+
+ are 
+𝑟
+r-coloured then there exist 
+𝑟
++
+1
+r+1 vertices with at least one colour missing on the edges of the induced 
+𝐾
+𝑟
++
+1
+K
+r+1
+	​
+
+. In other words, there is no balanced colouring. A conjecture of Erdős and Gyárfás [ErGy99].
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 624
+Let 
+𝑋
+X be a finite set of size 
+𝑛
+n and 
+𝐻
+(
+𝑛
+)
+H(n) be such that there is a function 
+𝑓
+:
+{
+𝐴
+:
+𝐴
+⊆
+𝑋
+}
+→
+𝑋
+f:{A:A⊆X}→X so that for every 
+𝑌
+⊆
+𝑋
+Y⊆X with 
+∣
+𝑌
+∣
+≥
+𝐻
+(
+𝑛
+)
+∣Y∣≥H(n) we have 
+{
+𝑓
+(
+𝐴
+)
+:
+𝐴
+⊆
+𝑌
+}
+=
+𝑋
+{f(A):A⊆Y}=X. Prove that 
+𝐻
+(
+𝑛
+)
+−
+log
+⁡
+2
+𝑛
+→
+∞
+H(n)−log
+2
+	​
+
+n→∞.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 647
+Let 
+𝜏
+(
+𝑛
+)
+τ(n) count the number of divisors of 
+𝑛
+n. Is there some 
+𝑛
+>
+24
+n>24 such that 
+max
+⁡
+𝑚
+<
+𝑛
+(
+𝑚
++
+𝜏
+(
+𝑚
+)
+)
+≤
+𝑛
++
+2
+?
+max
+m<n
+	​
+
+(m+τ(m))≤n+2?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Erdős problem 653
+Let 
+𝑥
+1
+,
+…
+,
+𝑥
+𝑛
+∈
+𝑅
+2
+x
+1
+	​
+
+,…,x
+n
+	​
+
+∈R
+2
+ and let 
+𝑅
+(
+𝑥
+𝑖
+)
+=
+#
+{
+∣
+𝑥
+𝑗
+−
+𝑥
+𝑖
+∣
+:
+𝑗
+≠
+𝑖
+}
+R(x
+i
+	​
+
+)=#{∣x
+j
+	​
+
+−x
+i
+	​
+
+∣:j
+
+=i}, where the points are ordered such that 
+𝑅
+(
+𝑥
+1
+)
+≤
+⋯
+≤
+𝑅
+(
+𝑥
+𝑛
+)
+.
+R(x
+1
+	​
+
+)≤⋯≤R(x
+n
+	​
+
+). Let 
+𝑔
+(
+𝑛
+)
+g(n) be the maximum number of distinct values the 
+𝑅
+(
+𝑥
+𝑖
+)
+R(x
+i
+	​
+
+) can take. Is it true that 
+𝑔
+(
+𝑛
+)
+≥
+(
+1
+−
+𝑜
+(
+1
+)
+)
+𝑛
+g(n)≥(1−o(1))n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 672
+Can the product of an arithmetic progression of positive integers 
+𝑛
+,
+𝑛
++
+𝑑
+,
+.
+.
+.
+,
+𝑛
++
+(
+𝑘
+−
+1
+)
+𝑑
+n,n+d,...,n+(k−1)d of length ≥ 4, with 
+(
+𝑛
+,
+𝑑
+)
+=
+1
+(n,d)=1, be a perfect power?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 677
+Denote by 
+𝑀
+(
+𝑛
+,
+𝑘
+)
+M(n,k) the least common multiple of the finite set 
+{
+𝑛
++
+1
+,
+…
+,
+𝑛
++
+𝑘
+}
+{n+1,…,n+k}. Is it true that for all 
+𝑚
+≥
+𝑛
++
+𝑘
+m≥n+k, we get 
+𝑀
+(
+𝑚
+,
+𝑘
+)
+≠
+𝑀
+(
+𝑛
+,
+𝑘
+)
+M(m,k)
+
+=M(n,k)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 680 - part i
+Is it true that, for all sufficiently large 
+𝑛
+n, there exists some 
+𝑘
+k such that 
+𝑝
+(
+𝑛
++
+𝑘
+)
+>
+𝑘
+2
++
+1
+,
+p(n+k)>k
+2
++1, where 
+𝑝
+(
+𝑚
+)
+p(m) denotes the least prime factor of 
+𝑚
+m?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 680 - part ii
+Can one prove this is false if we replace 
+𝑘
+2
++
+1
+k
+2
++1 by 
+𝑒
+(
+1
++
+𝜖
+)
+𝑘
++
+𝐶
+𝜖
+e
+(1+ϵ)
+k
+	​
+
++C
+ϵ
+	​
+
+, for all 
+𝜖
+>
+0
+ϵ>0, where 
+𝐶
+𝜖
+>
+0
+C
+ϵ
+	​
+
+>0 is some constant?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 681
+**Erdős problem 681.** Is it true that for all large 
+𝑛
+n there exists 
+𝑘
+k such that 
+𝑛
++
+𝑘
+n+k is composite and 
+𝑝
+(
+𝑛
++
+𝑘
+)
+>
+𝑘
+2
+p(n+k)>k
+2
+, where 
+𝑝
+(
+𝑚
+)
+p(m) is the least prime factor of 
+𝑚
+m ?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 686 - four
+Can 
+4
+4 be written as 
+4
+=
+∏
+1
+≤
+𝑖
+≤
+𝑘
+(
+𝑚
++
+𝑖
+)
+∏
+1
+≤
+𝑖
+≤
+𝑘
+(
+𝑛
++
+𝑖
+)
+4=
+∏
+1≤i≤k
+	​
+
+(n+i)
+∏
+1≤i≤k
+	​
+
+(m+i)
+	​
+
+ for some 
+𝑘
+≥
+2
+k≥2 and 
+𝑚
+≥
+𝑛
++
+𝑘
+m≥n+k?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 686 - twenty five
+Can 
+25
+25 be written as 
+25
+=
+∏
+1
+≤
+𝑖
+≤
+𝑘
+(
+𝑚
++
+𝑖
+)
+∏
+1
+≤
+𝑖
+≤
+𝑘
+(
+𝑛
++
+𝑖
+)
+25=
+∏
+1≤i≤k
+	​
+
+(n+i)
+∏
+1≤i≤k
+	​
+
+(m+i)
+	​
+
+ for some 
+𝑘
+≥
+2
+k≥2 and 
+𝑚
+≥
+𝑛
++
+𝑘
+m≥n+k?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 688 - part ii
+In particular, is it true that 
+𝜖
+𝑛
+=
+𝑜
+(
+1
+)
+ϵ
+n
+	​
+
+=o(1)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 695
+Let 
+𝑞
+1
+<
+𝑞
+2
+<
+⋯
+q
+1
+	​
+
+<q
+2
+	​
+
+<⋯ be a sequence of primes such that 
+𝑞
+𝑖
++
+1
+≡
+1
+(
+m
+o
+d
+𝑞
+𝑖
+)
+q
+i+1
+	​
+
+≡1(modq
+i
+	​
+
+). Is it true that 
+lim
+⁡
+𝑘
+→
+∞
+𝑞
+𝑘
+1
+/
+𝑘
+=
+∞
+?
+lim
+k→∞
+	​
+
+q
+k
+1/k
+	​
+
+=∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 695 - upper Bound
+Is there a sequence of primes 
+𝑞
+1
+<
+𝑞
+2
+<
+⋯
+q
+1
+	​
+
+<q
+2
+	​
+
+<⋯ such that 
+𝑞
+𝑖
++
+1
+≡
+1
+(
+m
+o
+d
+𝑞
+𝑖
+)
+q
+i+1
+	​
+
+≡1(modq
+i
+	​
+
+) and 
+𝑞
+(
+𝑘
+)
+≤
+exp
+⁡
+(
+𝑘
+(
+log
+⁡
+𝑘
+)
+1
++
+𝑜
+(
+1
+)
+)
+?
+q(k)≤exp(k(logk)
+1+o(1)
+)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 699
+**Erdős Problem 699.** Is it true that for every 
+1
+≤
+𝑖
+<
+𝑗
+≤
+𝑛
+/
+2
+1≤i<j≤n/2 there exists a prime 
+𝑝
+≥
+𝑖
+p≥i with 
+𝑝
+∣
+gcd
+⁡
+(
+(
+𝑛
+𝑖
+)
+,
+(
+𝑛
+𝑗
+)
+)
+p∣gcd((
+i
+n
+	​
+
+),(
+j
+n
+	​
+
+))?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 701
+Let 
+𝐹
+F be a family of sets closed under taking subsets (i.e. if 
+𝐵
+⊆
+𝐴
+∈
+𝐹
+B⊆A∈F then 
+𝐵
+∈
+𝐹
+B∈F). There exists some element 
+𝑥
+x such that whenever 
+𝐹
+′
+⊆
+𝐹
+F
+′
+⊆F is an intersecting subfamily we have…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 723 - eq 12
+It is open whether there exists a projective plane of order 12.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+SOLVED
+Erdős problem 726
+As 
+𝑛
+→
+∞
+n→∞ ranges over integers 
+∑
+𝑝
+≤
+𝑛
+1
+𝑛
+∈
+(
+𝑝
+/
+2
+,
+𝑝
+)
+(
+m
+o
+d
+𝑝
+)
+1
+𝑝
+∼
+log
+⁡
+log
+⁡
+𝑛
+2
+∑
+p≤n
+	​
+
+1
+n∈(p/2,p)(modp)
+	​
+
+p
+1
+	​
+
+∼
+2
+loglogn
+	​
+
+? A conjecture of Erdős, Graham, Ruzsa, and Straus [EGRS75]. By 
+𝑛
+∈
+(
+𝑝
+/
+2
+,
+𝑝
+)
+(
+m
+o
+d
+𝑝
+)
+n∈(p/2,p)(modp) we mean 
+𝑛
+≡
+𝑟
+(
+m
+o
+d
+𝑝
+)
+n≡r(modp) for some integer 
+𝑟
+r with 
+𝑝
+/
+2
+<
+𝑟
+<
+𝑝
+p/2<r<p.
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+-
+
+NUMBER THEORY
+
+Erdős problem 749
+Let 
+𝜖
+>
+0
+ϵ>0. Does there exist 
+𝐴
+⊆
+𝑁
+A⊆N such that the lower density of 
+𝐴
++
+𝐴
+A+A is at least 
+1
+−
+𝜖
+1−ϵ and yet 
+1
+𝐴
+∗
+1
+𝐴
+(
+𝑛
+)
+≪
+𝜖
+1
+1
+A
+	​
+
+∗1
+A
+	​
+
+(n)≪
+ϵ
+	​
+
+1 for all 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 770 - part i
+For every prime p, does the density of integers with h n = p exist?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 770 - three
+It is probably true that h n = 3 for infinitely many n.
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 774
+Is every proportionately dissociated (infinite) set the union of a finite number of dissociated sets?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 779
+A Conjecture of Marian Deaconescu, see p.120 in https://doi.org/10.2307/2975810 [Needed to index shift in order to avoid trivial case 
+𝑛
+=
+0
+n=0, where the conjecture is trivially false.]
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 789 - sq
+Let 
+ℎ
+(
+𝑛
+)
+h(n) be maximal such that if 
+𝐴
+⊆
+𝑍
+A⊆Z with 
+∣
+𝐴
+∣
+=
+𝑛
+∣A∣=n then there is 
+𝐵
+⊆
+𝐴
+B⊆A with 
+∣
+𝐵
+∣
+≥
+ℎ
+(
+𝑛
+)
+∣B∣≥h(n) such that if 
+𝑎
+1
++
+⋯
++
+𝑎
+𝑟
+=
+𝑏
+1
++
+⋯
++
+𝑏
+𝑠
+a
+1
+	​
+
++⋯+a
+r
+	​
+
+=b
+1
+	​
+
++⋯+b
+s
+	​
+
+ with 
+𝑎
+𝑖
+,
+𝑏
+𝑖
+∈
+𝐵
+a
+i
+	​
+
+,b
+i
+	​
+
+∈B then 
+𝑟
+=
+𝑠
+r=s. Is 
+ℎ
+(
+𝑛
+)
+=
+Θ
+(
+𝑛
+)
+h(n)=Θ(
+n
+	​
+
+)?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 812 - part i
+Is it true that 
+𝑅
+(
+𝑛
++
+1
+)
+𝑅
+(
+𝑛
+)
+≥
+1
++
+𝑐
+R(n)
+R(n+1)
+	​
+
+≥1+c for some constant 
+𝑐
+>
+0
+c>0, for all large 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 821
+Is it true that, for every 
+𝜖
+>
+0
+ϵ>0, there exist infinitely many 
+𝑛
+n such that 
+𝑔
+(
+𝑛
+)
+>
+𝑛
+1
+−
+𝜖
+g(n)>n
+1−ϵ
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 828
+Is it true that, for any 
+𝑎
+∈
+𝑍
+a∈Z, there are infinitely many 
+𝑛
+n such that 
+𝜙
+(
+𝑛
+)
+∣
+𝑛
++
+𝑎
+ϕ(n)∣n+a?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 828 - lehmer conjecture
+When 
+𝑛
+>
+1
+n>1, Lehmer conjectured that 
+𝜙
+(
+𝑛
+)
+∣
+𝑛
+−
+1
+ϕ(n)∣n−1 if and only if 
+𝑛
+n is prime.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 829
+**Erdős Problem 829 (open).** Let 
+𝐴
+⊆
+𝑁
+A⊆N be the set of perfect cubes. Is it true that 
+(
+1
+𝐴
+∗
+1
+𝐴
+)
+(
+𝑛
+)
+≪
+(
+log
+⁡
+𝑛
+)
+𝑂
+(
+1
+)
+(1
+A
+	​
+
+∗1
+A
+	​
+
+)(n)≪(logn)
+O(1)
+? That is, does there exist a natural number 
+𝐶
+C such that the number of representations of 
+𝑛
+n as a sum of two cubes is 
+𝑂
+(
+(
+log
+⁡
+𝑛
+)
+𝐶
+)
+O((logn)
+C
+) as 
+𝑛
+→
+∞
+n→∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 835
+Does there exist a 
+𝑘
+>
+2
+k>2 such that the 
+𝑘
+k-sized subsets of {1,...,2k} can be coloured with 
+𝑘
++
+1
+k+1 colours such that for every 
+𝐴
+⊂
+{
+1
+,
+…
+,
+2
+𝑘
+}
+A⊂{1,…,2k} with 
+∣
+𝐴
+∣
+=
+𝑘
++
+1
+∣A∣=k+1 all 
+𝑘
++
+1
+k+1 colours appear among the 
+𝑘
+k-sized subsets of 
+𝐴
+A?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 849
+Is it true that, for every integer 
+𝑡
+≥
+1
+t≥1, there is some integer 
+𝑎
+a such that 
+(
+𝑛
+𝑘
+)
+=
+𝑎
+(
+k
+n
+	​
+
+)=a with 
+1
+≤
+𝑘
+≤
+𝑛
+2
+1≤k≤
+2
+n
+	​
+
+ has exactly 
+𝑡
+t solutions?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 853 - part i
+Let 
+𝑑
+𝑛
+=
+𝑝
+𝑛
++
+1
+−
+𝑝
+𝑛
+d
+n
+	​
+
+=p
+n+1
+	​
+
+−p
+n
+	​
+
+, where 
+𝑝
+𝑛
+p
+n
+	​
+
+ is the 
+𝑛
+nth prime. Let 
+𝑟
+(
+𝑥
+)
+r(x) be the smallest even integer 
+𝑡
+t such that 
+𝑑
+𝑛
+=
+𝑡
+d
+n
+	​
+
+=t has no solutions for 
+𝑛
+≤
+𝑥
+n≤x. Is it true that 
+𝑟
+(
+𝑥
+)
+→
+∞
+r(x)→∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 853 - part ii
+Let 
+𝑑
+𝑛
+=
+𝑝
+𝑛
++
+1
+−
+𝑝
+𝑛
+d
+n
+	​
+
+=p
+n+1
+	​
+
+−p
+n
+	​
+
+, where 
+𝑝
+𝑛
+p
+n
+	​
+
+ is the 
+𝑛
+nth prime. Let 
+𝑟
+(
+𝑥
+)
+r(x) be the smallest even integer 
+𝑡
+t such that 
+𝑑
+𝑛
+=
+𝑡
+d
+n
+	​
+
+=t has no solutions for 
+𝑛
+≤
+𝑥
+n≤x. Is it true that 
+𝑟
+(
+𝑥
+)
+/
+log
+⁡
+𝑥
+→
+∞
+r(x)/logx→∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 859
+The density of the divisor sum set is asymptotically equivalent to 
+𝑐
+1
+/
+log
+⁡
+(
+𝑡
+)
+𝑐
+2
+c
+1
+	​
+
+/log(t)
+c
+2
+	​
+
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 873
+Let 
+𝐴
+=
+{
+𝑎
+1
+<
+𝑎
+2
+<
+…
+ 
+}
+⊆
+𝑁
+A={a
+1
+	​
+
+<a
+2
+	​
+
+<…}⊆N and let 
+𝐹
+(
+𝐴
+,
+𝑋
+,
+𝑘
+)
+F(A,X,k) count the number of 
+𝑖
+i such that 
+[
+𝑎
+𝑖
+,
+𝑎
+𝑖
++
+1
+,
+…
+,
+𝑎
+𝑖
++
+𝑘
+−
+1
+]
+<
+𝑋
+[a
+i
+	​
+
+,a
+i+1
+	​
+
+,…,a
+i+k−1
+	​
+
+]<X, where the left-hand side is the least common multiple. Is it true that, for every 
+𝜖
+>
+0
+ϵ>0, there exists some 
+𝑘
+k such that 
+𝐹
+(
+𝐴
+,
+𝑋
+,
+𝑘
+)
+<
+𝑋
+𝜖
+F(A,X,k)<X
+ϵ
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 885
+Is it true that, for every 
+𝑘
+≥
+1
+k≥1, there exist integers 
+𝑁
+1
+<
+⋯
+<
+𝑁
+𝑘
+N
+1
+	​
+
+<⋯<N
+k
+	​
+
+ such that 
+∣
+∩
+𝑖
+𝐷
+(
+𝑁
+𝑖
+)
+∣
+≥
+𝑘
+∣∩
+i
+	​
+
+D(N
+i
+	​
+
+)∣≥k?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 886
+Let 
+𝜖
+>
+0
+ϵ>0. Is it true that, for all large 
+𝑛
+n, the number of divisors of 
+𝑛
+n in 
+(
+𝑛
+1
+/
+2
+,
+𝑛
+1
+/
+2
++
+𝑛
+1
+/
+2
+−
+𝜖
+)
+(n
+1/2
+,n
+1/2
++n
+1/2−ϵ
+) is 
+𝑂
+𝜖
+(
+1
+)
+O
+ϵ
+	​
+
+(1)? Erdős attributes this conjecture to Ruzsa.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 887 - part ii
+Is there an absolute constant 
+𝐾
+K such that, for every 
+𝐶
+>
+0
+C>0, if 
+𝑛
+n is sufficiently large then 
+𝑛
+n has at most 
+𝐾
+K divisors in 
+(
+𝑛
+1
+2
+,
+𝑛
+1
+2
++
+𝐶
+𝑛
+1
+4
+)
+(n
+2
+1
+	​
+
+,n
+2
+1
+	​
+
++Cn
+4
+1
+	​
+
+).
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 889
+Let 
+𝑣
+(
+𝑛
+,
+𝑘
+)
+v(n,k) count the prime factors of 
+𝑛
++
+𝑘
+n+k which do not divide 
+𝑛
++
+𝑖
+n+i for 
+0
+≤
+𝑖
+<
+𝑘
+0≤i<k. Is it true that 
+𝑣
+0
+(
+𝑛
+)
+=
+max
+⁡
+𝑘
+≥
+0
+𝑣
+(
+𝑛
+,
+𝑘
+)
+→
+∞
+v
+0
+	​
+
+(n)=max
+k≥0
+	​
+
+v(n,k)→∞ as 
+𝑛
+→
+∞
+n→∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 889 - general
+Let 
+𝑣
+𝑙
+(
+𝑛
+)
+=
+max
+⁡
+𝑘
+≥
+𝑙
+𝑣
+(
+𝑛
+,
+𝑘
+)
+v
+l
+	​
+
+(n)=max
+k≥l
+	​
+
+v(n,k). For every fixed 
+𝑙
+l, 
+𝑣
+𝑙
+(
+𝑛
+)
+→
+∞
+v
+l
+	​
+
+(n)→∞ as 
+𝑛
+→
+∞
+n→∞ [ErSe67] Erdős, P. and Selfridge, J. L., Some problems on the prime factors of consecutive integers. Illinois J. Math. (1967), 428--430.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 890 - part a
+If 
+𝜔
+𝑘
+(
+𝑛
+)
+ω
+k
+	​
+
+(n) counts the number of distinct prime factors of 
+𝑛
+n which are 
+>
+𝑘
+>k, then is it true that, for every 
+𝑘
+≥
+1
+k≥1, 
+lim inf
+⁡
+𝑛
+→
+∞
+∑
+0
+≤
+𝑖
+<
+𝑘
+𝜔
+𝑘
+(
+𝑛
++
+𝑖
+)
+≤
+𝑘
+?
+liminf
+n→∞
+	​
+
+∑
+0≤i<k
+	​
+
+ω
+k
+	​
+
+(n+i)≤k?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 890 - part b
+Is it true that 
+lim sup
+⁡
+𝑛
+→
+∞
+(
+∑
+0
+≤
+𝑖
+<
+𝑘
+𝜔
+(
+𝑛
++
+𝑖
+)
+)
+log
+⁡
+log
+⁡
+𝑛
+log
+⁡
+𝑛
+=
+1
+,
+limsup
+n→∞
+	​
+
+(∑
+0≤i<k
+	​
+
+ω(n+i))
+logn
+loglogn
+	​
+
+=1, where 
+𝜔
+ω counts the number of distinct prime factors without restriction?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 891
+Let 
+2
+=
+𝑝
+1
+<
+𝑝
+2
+<
+⋯
+2=p
+1
+	​
+
+<p
+2
+	​
+
+<⋯ be the primes and 
+𝑘
+≥
+2
+k≥2. Is it true that, for all sufficiently large 
+𝑛
+n, there must exist an integer in 
+[
+𝑛
+,
+𝑛
++
+𝑝
+1
+⋯
+𝑝
+𝑘
+)
+[n,n+p
+1
+	​
+
+⋯p
+k
+	​
+
+) with 
+>
+𝑘
+>k many prime factors?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 893
+Does the limit 
+lim
+⁡
+𝑛
+→
+∞
+𝑓
+(
+2
+𝑛
+)
+𝑓
+(
+𝑛
+)
+lim
+n→∞
+	​
+
+f(n)
+f(2n)
+	​
+
+ tend to infinity? (Other finite limits have been ruled out by [KoLu25], see below)
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 912
+Prove that there exists some 
+𝑐
+>
+0
+c>0 such that 
+ℎ
+(
+𝑛
+)
+∼
+𝑐
+(
+𝑛
+log
+⁡
+𝑛
+)
+1
+/
+2
+h(n)∼c(
+logn
+n
+	​
+
+)
+1/2
+ as 
+𝑛
+→
+∞
+n→∞.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 912 - tao
+A heuristic of Tao using the Cramér model for the primes suggests this is true with 
+𝑐
+=
+2
+𝜋
+c=
+2π
+	​
+
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 913 - infinite many 8 p sq sub one primes
+It is likely that there are infinitely many primes 
+𝑝
+p such that 
+8
+𝑝
+2
+−
+1
+8p
+2
+−1 is also prime.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 930
+Is it true that, for every 
+𝑟
+r, there is a 
+𝑘
+k such that if 
+𝐼
+1
+,
+…
+,
+𝐼
+𝑟
+I
+1
+	​
+
+,…,I
+r
+	​
+
+ are disjoint intervals of consecutive integers, all of length at least 
+𝑘
+k, then 
+∏
+1
+≤
+𝑖
+≤
+𝑟
+∏
+𝑚
+∈
+𝐼
+𝑖
+𝑚
+∏
+1≤i≤r
+	​
+
+∏
+m∈I
+i
+	​
+
+	​
+
+m is not a perfect power?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 931
+Let 
+𝑘
+1
+≥
+𝑘
+2
+≥
+3
+k
+1
+	​
+
+≥k
+2
+	​
+
+≥3. Are there only finitely many 
+𝑛
+2
+≥
+𝑛
+1
++
+𝑘
+1
+n
+2
+	​
+
+≥n
+1
+	​
+
++k
+1
+	​
+
+ such that 
+∏
+1
+≤
+𝑖
+≤
+𝑘
+1
+(
+𝑛
+1
++
+𝑖
+)
+ and 
+∏
+1
+≤
+𝑗
+≤
+𝑘
+2
+(
+𝑛
+2
++
+𝑗
+)
+∏
+1≤i≤k
+1
+	​
+
+	​
+
+(n
+1
+	​
+
++i) and ∏
+1≤j≤k
+2
+	​
+
+	​
+
+(n
+2
+	​
+
++j) have the same prime factors?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 932
+Let 
+𝑝
+𝑘
+p
+k
+	​
+
+ denote the 
+𝑘
+kth prime. For infinitely many 
+𝑟
+r there are at least two integers 
+𝑝
+𝑟
+<
+𝑛
+<
+𝑝
+𝑟
++
+1
+p
+r
+	​
+
+<n<p
+r+1
+	​
+
+ all of whose prime factors are 
+<
+𝑝
+𝑟
++
+1
+−
+𝑝
+𝑟
+<p
+r+1
+	​
+
+−p
+r
+	​
+
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 933
+If 
+𝑛
+(
+𝑛
++
+1
+)
+=
+2
+𝑘
+3
+𝑙
+𝑚
+n(n+1)=2
+k
+3
+l
+m, where 
+(
+𝑚
+,
+6
+)
+=
+1
+(m,6)=1, then is it true that 
+lim sup
+⁡
+𝑛
+→
+∞
+2
+𝑘
+3
+𝑙
+𝑛
+log
+⁡
+𝑛
+=
+∞
+limsup
+n→∞
+	​
+
+nlogn
+2
+k
+3
+l
+	​
+
+=∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 936 - factorial add one
+Is 
+𝑛
+!
++
+1
+n!+1 powerful for finitely many 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 936 - factorial sub one
+Is 
+𝑛
+!
+−
+1
+n!−1 powerful for finitely many 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 936 - two pow add one
+Is 
+2
+𝑛
++
+1
+2
+n
++1 powerful for finitely many 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 936 - two pow sub one
+Is 
+2
+𝑛
+−
+1
+2
+n
+−1 powerful for finitely many 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 942
+Is there some constant 
+𝑐
+>
+0
+c>0 such that 
+ℎ
+(
+𝑛
+)
+<
+(
+log
+⁡
+𝑛
+)
+𝑐
++
+𝑜
+(
+1
+)
+h(n)<(logn)
+c+o(1)
+ and, for infinitely many 
+𝑛
+n, 
+ℎ
+(
+𝑛
+)
+>
+(
+log
+⁡
+𝑛
+)
+𝑐
+−
+𝑜
+(
+1
+)
+h(n)>(logn)
+c−o(1)
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 943
+Let 
+𝐴
+A be the set of powerful numbers. Is is true that 
+1
+𝐴
+∗
+1
+𝐴
+(
+𝑛
+)
+=
+𝑛
+𝑜
+(
+1
+)
+1
+A
+	​
+
+∗1
+A
+	​
+
+(n)=n
+o(1)
+ for every 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 944
+Let 
+𝑘
+≥
+4
+k≥4 and 
+𝑟
+≥
+1
+r≥1. Must there exist a graph 
+𝐺
+G with chromatic number 
+𝑘
+k such that every vertex is critical, yet every critical set of edges has size 
+>
+𝑟
+>r?
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 945
+Is it true that 
+𝐹
+(
+𝑥
+)
+≤
+(
+log
+⁡
+𝑥
+)
+𝑂
+(
+1
+)
+F(x)≤(logx)
+O(1)
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 949
+Let 
+𝑆
+⊆
+𝑅
+S⊆R be a set containing no solutions to 
+𝑎
++
+𝑏
+=
+𝑐
+a+b=c. Must there be a set 
+𝐴
+⊆
+𝑅
+∖
+𝑆
+A⊆R∖S of cardinality continuum such that 
+𝐴
++
+𝐴
+⊆
+𝑅
+∖
+𝑆
+A+A⊆R∖S?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 950 - part i
+Is it true that 
+lim inf
+⁡
+𝑓
+(
+𝑛
+)
+=
+1
+liminff(n)=1?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 950 - part ii
+Is it true that 
+lim sup
+⁡
+𝑓
+(
+𝑛
+)
+=
+∞
+limsupf(n)=∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 950 - part iii
+Is it true that 
+𝑓
+(
+𝑛
+)
+=
+𝑜
+(
+log
+⁡
+log
+⁡
+𝑛
+)
+f(n)=o(loglogn) for all 
+𝑛
+n?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 951
+If 1 < a 0 < ... has property Erdos951Prop, is it true that #{a i ≤ x} ≤ π x?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 952
+Is there an infinite sequence of distinct Gaussian primes 
+𝑥
+1
+,
+𝑥
+2
+,
+…
+x
+1
+	​
+
+,x
+2
+	​
+
+,… such that 
+∣
+𝑥
+𝑛
++
+1
+−
+𝑥
+𝑛
+∣
+≪
+1
+∣x
+n+1
+	​
+
+−x
+n
+	​
+
+∣≪1?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 962
+Main conjecture: 
+log
+⁡
+𝑘
+(
+𝑛
+)
+≤
+(
+log
+⁡
+𝑛
+)
+(
+1
+/
+2
++
+𝑜
+(
+1
+)
+)
+logk(n)≤(logn)
+(1/2+o(1))
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 972
+**Erdős problem 972.** Let 
+𝛼
+>
+1
+α>1 be irrational. Are there infinitely many primes 
+𝑝
+p such that 
+⌊
+𝑝
+𝛼
+⌋
+⌊pα⌋ is also prime?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 975
+For an irreducible polynomial 
+𝑓
+∈
+𝑍
+[
+𝑥
+]
+f∈Z[x] with 
+𝑓
+(
+𝑛
+)
+≥
+1
+f(n)≥1 for sufficiently large 
+𝑛
+n, does there exists a constant 
+𝑐
+=
+𝑐
+(
+𝑓
+)
+>
+0
+c=c(f)>0 such that 
+∑
+𝑛
+≤
+𝑥
+𝜏
+(
+𝑓
+(
+𝑛
+)
+)
+≈
+𝑐
+⋅
+𝑥
+log
+⁡
+𝑥
+∑
+n≤x
+	​
+
+τ(f(n))≈c⋅xlogx? Note that it is unclear whether the polynomial should have integer coefficients or merely be integer-valued. We…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 978 - part ii
+If 
+𝑘
+>
+3
+k>3 (and 
+𝑘
+≠
+2
+𝑙
+k
+
+=2
+l
+), and for all primes 
+𝑝
+p there exists 
+𝑛
+n such that 
+𝑝
+𝑘
+−
+2
+∤
+𝑓
+(
+𝑛
+)
+p
+k−2
+∤f(n), then are there infinitely many 
+𝑛
+n for which 
+𝑓
+(
+𝑛
+)
+f(n) is 
+(
+𝑘
+−
+2
+)
+(k−2)-power-free?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 978 - part iii
+Does n ^ 4 + 2 represent infinitely many squarefree numbers?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 979
+Let 
+𝑘
+≥
+2
+k≥2, and let 
+𝑓
+𝑘
+(
+𝑛
+)
+f
+k
+	​
+
+(n) count the number of solutions to 
+𝑛
+=
+𝑝
+1
+𝑘
++
+⋯
++
+𝑝
+𝑘
+𝑘
+n=p
+1
+k
+	​
+
++⋯+p
+k
+k
+	​
+
+, where the 
+𝑝
+𝑖
+p
+i
+	​
+
+ are prime numbers. Is it true that 
+lim sup
+⁡
+𝑓
+𝑘
+(
+𝑛
+)
+=
+∞
+limsupf
+k
+	​
+
+(n)=∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+CONVEX AND DISCRETE GEOMETRY
+
+Erdős problem 982
+If 
+𝑛
+n distinct points in 
+𝑅
+2
+R
+2
+ form a convex polygon then some vertex has at least 
+⌊
+𝑛
+2
+⌋
+⌊
+2
+n
+	​
+
+⌋ different distances to other vertices.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 985
+Is it true that, for every prime 
+𝑝
+p, there is a prime 
+𝑞
+≤
+𝑝
+q≤p which is a primitive root modulo 
+𝑝
+p?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1003
+Are there infinitely many solutions to 
+𝜙
+(
+𝑛
+)
+=
+𝜙
+(
+𝑛
++
+1
+)
+ϕ(n)=ϕ(n+1), where 
+𝜙
+ϕ is the Euler totient function?
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1004
+For any fixed c > 0, if x is sufficiently large then there exists n ≤ x such that the values of φ(n+k) are all distinct for 1 ≤ k ≤ (log x)^c. This is an open problem.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1049
+Let 
+𝑡
+>
+1
+t>1 be a rational number. Is 
+∑
+𝑛
+=
+1
+∞
+1
+𝑡
+𝑛
+−
+1
+=
+∑
+𝑛
+=
+1
+∞
+𝜏
+(
+𝑛
+)
+𝑡
+𝑛
+∑
+n=1
+∞
+	​
+
+t
+n
+−1
+1
+	​
+
+=∑
+n=1
+∞
+	​
+
+t
+n
+τ(n)
+	​
+
+ irrational, where 
+𝜏
+(
+𝑛
+)
+τ(n) counts the divisors of 
+𝑛
+n? A conjecture of Chowla.
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1056
+Let 
+𝑘
+≥
+2
+k≥2. Does there exist a prime 
+𝑝
+p and consecutive intervals 
+𝐼
+0
+,
+…
+,
+𝐼
+𝑘
+I
+0
+	​
+
+,…,I
+k
+	​
+
+ such that 
+∏
+𝑛
+∈
+𝐼
+𝑖
+𝑛
+≡
+1
+m
+o
+d
+ 
+ 
+𝑛
+n∈I
+i
+	​
+
+∏
+	​
+
+n≡1modn for all 
+1
+≤
+𝑖
+≤
+𝑘
+1≤i≤k?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 1057
+Is it true that 
+𝐶
+(
+𝑥
+)
+=
+𝑥
+1
+−
+𝑜
+(
+1
+)
+C(x)=x
+1−o(1)
+? This is discussed in problem A13 of Guy's collection [Gu04].
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1060 - part ii
+Part (ii) of Erdős Problem 1060: bound on the number of 
+𝑘
+≤
+𝑛
+k≤n with 
+𝑘
+𝜎
+1
+(
+𝑘
+)
+=
+𝑛
+kσ
+1
+	​
+
+(k)=n.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1062 - part ii
+Erdős asked whether the limiting density f n / n exists and, if so, whether it is irrational.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Erdős problem 1068
+Does every graph with chromatic number 
+ℵ
+1
+ℵ
+1
+	​
+
+ contain a countable subgraph which is infinitely connected?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1072 - part i
+Is it true that there are infinitely many 
+𝑝
+p for which 
+𝑓
+(
+𝑝
+)
+=
+𝑝
+−
+1
+f(p)=p−1?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1072 - part ii
+Is it true that 
+𝑓
+(
+𝑝
+)
+/
+𝑝
+→
+0
+f(p)/p→0 for 
+𝑝
+→
+∞
+p→∞ in a density 1 subset of the primes?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1073
+Is it true that 
+𝐴
+(
+𝑥
+)
+≤
+𝑥
+𝑜
+(
+1
+)
+A(x)≤x
+o(1)
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1074 - EHS Numbers one half
+Regarding the first question, Hardy and Subbarao computed all EHS numbers up to 
+2
+10
+2
+10
+, and write "...if this trend conditions we expect [the limit] to be around 0.5, if it exists."
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+GEOMETRY
+
+Erdős problem 1082 - part i
+Let 
+𝐴
+⊂
+𝑅
+2
+A⊂R
+2
+ be a set of 
+𝑛
+n points with no three on a line. Does 
+𝐴
+A determine at least 
+⌊
+𝑛
+/
+2
+⌋
+⌊n/2⌋ distinct distances?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+CONVEX AND DISCRETE GEOMETRY
+
+Erdős problem 1085 - upper d 3
+Is the 
+𝑛
+4
+/
+3
+log
+⁡
+log
+⁡
+𝑛
+n
+4/3
+loglogn lower bound in 3D also an upper bound?.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1094
+For all 
+𝑛
+≥
+2
+𝑘
+n≥2k the least prime factor of 
+(
+𝑛
+𝑘
+)
+(
+k
+n
+	​
+
+) is 
+≤
+max
+⁡
+(
+𝑛
+/
+𝑘
+,
+𝑘
+)
+≤max(n/k,k), with only finitely many exceptions.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1095 - log is Theta
+Sorenson, Sorenson, and Webster [SSWE20] give heuristic evidence that 
+log
+⁡
+𝑔
+(
+𝑘
+)
+≍
+𝑘
+log
+⁡
+𝑘
+logg(k)≍
+logk
+k
+	​
+
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1095 - lower conjecture
+Erdős, Lacampagne, and Selfridge [ELS93] write 'it is clear to every right-thinking person' that 
+𝑔
+(
+𝑘
+)
+≥
+exp
+⁡
+(
+𝑐
+𝑘
+log
+⁡
+𝑘
+)
+g(k)≥exp(c
+logk
+k
+	​
+
+) for some constant 
+𝑐
+>
+0
+c>0.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1101 - part i
+1. Is there a good sequence with polynomial growth?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 1106 - part ii
+Let 
+𝑝
+(
+𝑛
+)
+p(n) be the partition number of 
+𝑛
+n and 
+𝐹
+(
+𝑛
+)
+F(n) be the number of distinct prime factors of 
+∏
+𝑖
+=
+1
+𝑛
+𝑝
+(
+𝑛
+)
+∏
+i=1
+n
+	​
+
+p(n), 
+𝐹
+(
+𝑛
+)
+>
+𝑛
+F(n)>n for sufficiently large 
+𝑛
+n.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1107
+Let 
+𝑟
+≥
+2
+r≥2. Is every large integer the sum of at most 
+𝑟
++
+1
+r+1 many 
+𝑟
+r-powerful numbers?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1108 - part i
+For each 
+𝑘
+≥
+2
+k≥2, does the set 
+𝐴
+=
+{
+∑
+𝑛
+∈
+𝑆
+𝑛
+!
+:
+𝑆
+⊂
+𝑁
+ finite
+}
+A={∑
+n∈S
+	​
+
+n!:S⊂N finite} of all finite sums of distinct factorials contain only finitely many 
+𝑘
+k-th powers?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1113 - filaseta finch kozek
+**Filaseta–Finch–Kozek conjecture (2008).** Every Sierpiński number is either a perfect power or possesses a finite covering set of primes.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+Erdős problem 1135
+The Collatz conjecture states that for any positive integer 
+𝑛
+n, there exists a natural number 
+𝑚
+m such that the 
+𝑚
+m-th term of the sequence is 1.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1137
+Let 
+𝑑
+𝑛
+=
+𝑝
+𝑛
++
+1
+−
+𝑝
+𝑛
+d
+n
+	​
+
+=p
+n+1
+	​
+
+−p
+n
+	​
+
+, where 
+𝑝
+𝑛
+p
+n
+	​
+
+ denotes the 
+𝑛
+nth prime. Is it true that 
+max
+⁡
+𝑛
+<
+𝑥
+𝑑
+𝑛
+𝑑
+𝑛
+−
+1
+(
+max
+⁡
+𝑛
+<
+𝑥
+𝑑
+𝑛
+)
+2
+→
+0
+(max
+n<x
+	​
+
+d
+n
+	​
+
+)
+2
+max
+n<x
+	​
+
+d
+n
+	​
+
+d
+n−1
+	​
+
+	​
+
+→0 as 
+𝑥
+→
+∞
+x→∞?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1142
+Are there infinitely many 
+𝑛
+>
+2
+n>2 such that 
+𝑛
+−
+2
+𝑘
+n−2
+k
+ is prime for all 
+𝑘
+≥
+1
+k≥1 with 
+2
+𝑘
+<
+𝑛
+2
+k
+<n? The only known such 
+𝑛
+n are 
+4
+,
+7
+,
+15
+,
+21
+,
+45
+,
+75
+,
+105
+4,7,15,21,45,75,105 (OEIS [A039669](https://oeis.org/A039669)).
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Erdős problem 1175
+Let 
+𝜅
+κ be an uncountable cardinal. Must there exist a cardinal 
+𝜆
+λ such that every graph with chromatic number 
+𝜆
+λ contains a triangle-free subgraph with chromatic number 
+𝜅
+κ? Shelah proved that a negative answer is consistent when 
+𝜅
+=
+𝜆
+=
+ℵ
+1
+κ=λ=ℵ
+1
+	​
+
+ (see…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Erdős problem 1192
+Does there exist, for all 
+𝑟
+≥
+2
+r≥2, a basis 
+𝐴
+A of order 
+𝑟
+r (so that 
+𝑓
+𝑟
+(
+𝑛
+)
+>
+0
+f
+r
+	​
+
+(n)>0 for all large 
+𝑛
+n) such that 
+∑
+𝑛
+≤
+𝑥
+𝑓
+𝑟
+(
+𝑛
+)
+2
+≪
+𝑥
+∑
+n≤x
+	​
+
+f
+r
+	​
+
+(n)
+2
+≪x for all 
+𝑥
+x?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1203
+Prove that 
+𝐹
+(
+𝑛
+)
+→
+∞
+F(n)→∞ as 
+𝑛
+→
+∞
+n→∞.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Erdős problem 1209 - part iii d
+Are there 
+𝑛
+n such that 
+𝑛
++
+2
+2
+𝑘
+n+2
+2
+k
+ is infinitely often squarefree?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Green's open problem 2
+Let 
+𝐴
+⊂
+𝑍
+A⊂Z be a set of 
+𝑛
+n integers. Is there a set 
+𝑆
+⊂
+𝐴
+S⊂A of size 
+(
+log
+⁡
+𝑛
+)
+100
+(logn)
+100
+ such that the restricted sumset
+𝑆
++
+^
+𝑆
+S
++
+^
+	​
+
+S is disjoint from 
+𝐴
+A?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Green's open problem 7 - positive density
+Does Ulam's sequence have positive density?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Green's open problem 9 - ii
+Problem 9 (ii): is 
+𝑟
+5
+(
+𝑁
+)
+≪
+𝑁
+(
+log
+⁡
+𝑁
+)
+−
+𝑐
+r
+5
+	​
+
+(N)≪N(logN)
+−c
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Green's open problem 9 - iii
+Problem 9 (iii): is 
+𝑟
+4
+(
+𝐹
+5
+𝑛
+)
+≪
+𝑁
+1
+−
+𝑐
+r
+4
+	​
+
+(F
+5
+n
+	​
+
+)≪N
+1−c
+, where 
+𝑁
+=
+5
+𝑛
+N=5
+n
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Green's open problem 12
+Let 
+𝐺
+G be an abelian group of size 
+𝑁
+N, and suppose that 
+𝐴
+⊂
+𝐺
+A⊂G has density 
+𝛼
+α. Are there at least 
+𝛼
+15
+𝑁
+10
+α
+15
+N
+10
+ tuples 
+(
+𝑥
+1
+,
+…
+,
+𝑥
+5
+,
+𝑦
+1
+,
+…
+,
+𝑦
+5
+)
+∈
+𝐺
+10
+(x
+1
+	​
+
+,…,x
+5
+	​
+
+,y
+1
+	​
+
+,…,y
+5
+	​
+
+)∈G
+10
+ such that 
+𝑥
+𝑖
++
+𝑦
+𝑗
+∈
+𝐴
+x
+i
+	​
+
++y
+j
+	​
+
+∈A whenever 
+𝑗
+∈
+{
+𝑖
+,
+𝑖
++
+1
+,
+𝑖
++
+2
+}
+j∈{i,i+1,i+2}? Note: We interpret indices modulo 5.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+SOLVED
+Green's open problem 15
+Does there exist a Lipschitz function 
+𝑓
+:
+𝑁
+→
+𝑍
+f:N→Z whose graph 
+Γ
+=
+{
+(
+𝑛
+,
+𝑓
+(
+𝑛
+)
+)
+:
+𝑛
+∈
+𝑁
+}
+⊆
+𝑍
+2
+Γ={(n,f(n)):n∈N}⊆Z
+2
+ is free of 3-term progressions?
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+-
+
+COMBINATORICS
+
+Green's open problem 18
+Suppose that 
+𝐺
+G is a finite group, and let 
+𝐴
+⊂
+𝐺
+×
+𝐺
+A⊂G×G be a subset of density 
+𝛼
+α. Is it true that there are 
+≫
+𝛼
+∣
+𝐺
+∣
+3
+≫
+α
+	​
+
+∣G∣
+3
+ triples 
+𝑥
+,
+𝑦
+,
+𝑔
+x,y,g such that 
+(
+𝑥
+,
+𝑦
+)
+,
+(
+𝑔
+𝑥
+,
+𝑦
+)
+,
+(
+𝑥
+,
+𝑔
+𝑦
+)
+(x,y),(gx,y),(x,gy) all lie in 
+𝐴
+A? Note: A is taken as 
+𝛼
+α-dense, i.e. 
+∣
+𝐴
+∣
+≥
+𝛼
+∣
+𝐺
+∣
+2
+∣A∣≥α∣G∣
+2
+ [Au16, Question 2]
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Green's open problem 24 - conjecture
+Conjecture p.579 in [Aa19]: 
+(
+1
+3
++
+𝑜
+(
+1
+)
+)
+𝑛
+2
+(
+3
+1
+	​
+
++o(1))n
+2
+.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Green's open problem 32
+Let 
+𝑝
+p be a prime and let 
+𝐴
+⊂
+𝑍
+/
+𝑝
+𝑍
+A⊂Z/pZ be a set of size 
+⌊
+𝑝
+⌋
+⌊
+p
+	​
+
+⌋. Is there a dilate of 
+𝐴
+A containing a gap of length 
+100
+𝑝
+100
+p
+	​
+
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Green's open problem 33
+Are there infinitely many 
+𝑞
+q for which there is a set 
+𝐴
+⊂
+𝑍
+/
+𝑞
+𝑍
+A⊂Z/qZ, 
+∣
+𝐴
+∣
+=
+(
+2
++
+𝑜
+(
+1
+)
+)
+𝑞
+1
+/
+2
+∣A∣=(
+2
+	​
+
++o(1))q
+1/2
+, with 
+𝐴
++
+𝐴
+=
+𝑍
+/
+𝑞
+𝑍
+A+A=Z/qZ? [Gr24]
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Green's open problem 36 - cks 05
+Variant using the exact simultaneous double product property from [CKS05, 4.1].
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Green's open problem 39
+If 
+𝐴
+⊂
+𝑍
+/
+𝑝
+𝑍
+A⊂Z/pZ is random, 
+∣
+𝐴
+∣
+=
+𝑝
+∣A∣=
+p
+	​
+
+, can we almost surely cover 
+𝑍
+/
+𝑝
+𝑍
+Z/pZ with 
+100
+𝑝
+100
+p
+	​
+
+ translates of 
+𝐴
+A? [Gr24]
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+COMBINATORICS
+
+Green's open problem 40
+Does 
+𝑓
+(
+𝑟
+)
+→
+∞
+f(r)→∞? [Gr24]
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Green's open problem 40 - f two eq one
+It is not known whether f(2) = 1 [Gr24]
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+Green's open problem 40 - arbitrary subsets
+Does 
+𝑓
+~
+(
+𝑟
+)
+→
+∞
+f
+~
+	​
+
+(r)→∞? [Gr24]
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+GEOMETRY
+
+Green's open problem 41 - polynomial bound
+Is 
+𝜀
+−
+𝐶
+ε
+−C
+ rotations enough?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Green's open problem 44
+Sieve 
+[
+𝑁
+]
+[N] by removing half the residue classes mod 
+𝑝
+𝑖
+p
+i
+	​
+
+, for primes 
+2
+⩽
+𝑝
+1
+<
+𝑝
+2
+<
+⋯
+<
+𝑝
+1000
+<
+𝑁
+9
+/
+10
+2⩽p
+1
+	​
+
+<p
+2
+	​
+
+<⋯<p
+1000
+	​
+
+<N
+9/10
+. Does the remaining set have size at most 
+1
+10
+𝑁
+10
+1
+	​
+
+N? We interpret "half the residue classes" as 
+⌊
+𝑝
+𝑖
+/
+2
+⌋
+⌊p
+i
+	​
+
+/2⌋.
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+$3,340
+
+NUMBER THEORY
+
+SOLVED
+Green's open problem 47
+Suppose that a large sieve process leaves a set of quadratic size. Is that set quadratic? The following very particular instance is probably the simplest [Gr24]: Suppose that 
+𝐴
+⊂
+𝑁
+A⊂N is a set with the property that 
+∣
+𝐴
+(
+m
+o
+d
+𝑝
+)
+∣
+⩽
+1
+2
+(
+𝑝
++
+1
+)
+∣A(modp)∣⩽
+2
+1
+	​
+
+(p+1) for all sufficiently large 
+𝑝
+p. Is it true…
+ATTEMPTS
+2
+MODES
+2
+BOUNTY
+-
+
+COMBINATORICS
+
+Green's open problem 50
+Let 
+𝐴
+⊂
+𝐹
+2
+𝑛
+A⊂F
+2
+n
+	​
+
+ be a set of density 
+𝛼
+>
+0
+α>0. Does 
+10
+𝐴
+10A contain a coset of some subspace of dimension at least 
+𝑛
+−
+𝑂
+(
+log
+⁡
+(
+1
+/
+𝛼
+)
+)
+n−O(log(1/α))? More precisely: does there exist an absolute constant 
+𝐶
+>
+0
+C>0 such that for all 
+𝑛
+≥
+1
+n≥1 and all nonempty 
+𝐴
+⊆
+𝐹
+2
+𝑛
+A⊆F
+2
+n
+	​
+
+ with density 
+𝛼
+>
+0
+α>0…
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+COMBINATORICS
+
+SOLVED
+Green's open problem 51 - one half
+Suppose that 
+𝐴
+⊂
+𝐹
+2
+𝑛
+A⊂F
+2
+n
+	​
+
+ has density 
+𝛼
+>
+1
+/
+2
+−
+𝐶
+/
+𝑛
+α>1/2−C/
+n
+	​
+
+. Does 
+𝐴
++
+𝐴
+A+A contain a subspace of co-dimension 
+𝑂
+𝐶
+(
+1
+)
+O
+C
+	​
+
+(1)? [Sa11, Question 5.1]
+ATTEMPTS
+1
+MODES
+2
+BOUNTY
+-
+
+COMBINATORICS
+
+Green's open problem 58
+Suppose 
+𝐴
+,
+𝐵
+⊆
+{
+1
+,
+…
+,
+𝑁
+}
+A,B⊆{1,…,N} both have size at least 
+𝑁
+0.49
+N
+0.49
+. Must the sumset 
+𝐴
++
+𝐵
+A+B contain a composite number?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Green's open problem 60
+Is there an absolute constant 
+𝑐
+>
+0
+c>0 such that, whenever 
+𝐴
+⊆
+𝑁
+A⊆N is a set of squares with 
+∣
+𝐴
+∣
+≥
+2
+∣A∣≥2, the sumset 
+𝐴
++
+𝐴
+A+A satisfies 
+∣
+𝐴
++
+𝐴
+∣
+≥
+∣
+𝐴
+∣
+1
++
+𝑐
+∣A+A∣≥∣A∣
+1+c
+?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Green's open problem 62
+Let 
+𝑝
+p be a large prime, and let 
+𝐴
+A be the set of all primes less than 
+𝑝
+p. Is every 
+𝑥
+∈
+{
+1
+,
+…
+,
+𝑝
+−
+1
+}
+x∈{1,…,p−1} congruent to some product 
+𝑎
+1
+𝑎
+2
+a
+1
+	​
+
+a
+2
+	​
+
+ where 
+𝑎
+1
+,
+𝑎
+2
+∈
+𝐴
+a
+1
+	​
+
+,a
+2
+	​
+
+∈A?
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,808
+
+NUMBER THEORY
+
+Green's open problem 66
+Is there always a sum of two squares between 
+𝑋
+−
+1
+10
+𝑋
+1
+/
+4
+X−
+10
+1
+	​
+
+X
+1/4
+ and 
+𝑋
+X? We formalize this as an eventual statement for sufficiently large real 
+𝑋
+X.
+ATTEMPTS
+0
+MODES
+2
+BOUNTY
+$3,340
+
+A proof outlives the network that paid for it.
+
+Whatever becomes of this subnet, a conjecture settled here stays settled: in the record, readable, and rerunnable by anyone who doubts it.
+
+CATALOG
+Problems
+Results
+Submit a proof
+PROJECT
+How it works
+Roadmap
+FAQ
+Blog
+Status
+ELSEWHERE
+Join Bittensor Discord
+↗
+
+Join the Bittensor server before opening our channel.
+
+Open our channel (members)
+↗
+Source repository
+↗
+© 2026 CONJECTURES.IO
+TERMS
+PRIVACY
